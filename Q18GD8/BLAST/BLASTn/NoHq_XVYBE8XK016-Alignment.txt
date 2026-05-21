@@ -1,0 +1,2073 @@
+RID: XVYBE8XK016	
+Job Title:emb|AM180088.1|  				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: Haloquadratum walsbyi DSM 16790 complete genome Query ID: emb|AM180088.1 Length: 1751
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Halogeometricum borinquense strain wsp3 chromosome, complete...   Halogeometri... NA              60847      133    133   19%   6e-25 69.53  2818554    CP050274.1       
+Halogeometricum borinquense strain wsp4 chromosome, complete...   Halogeometri... NA              60847      133    133   19%   6e-25 69.53  3994321    CP048739.1       
+Halobellus inordinatus strain DSM 26177 chromosome, complete...   Halobellus i... NA              1126236    133    133   11%   6e-25 75.39  2612640    CP101825.1       
+Halobellus limi strain CGMCC 1.10331 chromosome, complete genome  Halobellus limi NA              699433     130    130   18%   7e-24 69.11  2958395    CP031311.1       
+Haladaptatus salinisoli strain PSR8 plasmid unnamed1, complete... Haladaptatus... NA              2884876    129    197   27%   7e-24 68.97  487259     CP085328.1       
+Halogeometricum borinquense DSM 11551, complete genome            Halogeometri... NA              469382     127    127   20%   3e-23 69.08  2820544    CP001690.1       
+Halobellus marinus strain DFY28 chromosome, complete genome       Halobellus m... NA              3075123    126    195   25%   9e-23 68.38  3707125    CP134946.1       
+Haladaptatus sp. SPP-AMP-3 plasmid unnamed5, complete sequence    Haladaptatus... NA              3121295    114    114   19%   2e-19 68.66  618965     CP145901.1       
+Haloferax sp. YSMS24 plasmid unnamed2, complete sequence          Haloferax sp... NA              3388425    113    170   25%   6e-19 68.39  210781     CP177205.1       
+Haladaptatus halobius strain PSR5 plasmid unnamed3, complete...   Haladaptatus... NA              2884875    106    199   25%   8e-17 67.99  599015     CP085339.1       
+Haloferax sp. YSSS75 plasmid unnamed2, complete sequence          Haloferax sp... NA              3388564    104    161   25%   3e-16 67.82  217708     CP177208.1       
+Halobacterium noricense strain JCM 15102 plasmid unnamed1,...     Halobacteriu... NA              223182     100    100   19%   4e-15 66.77  368639     CP089469.1       
+Salarchaeum japonicum strain JCM 16327 plasmid unnamed1,...       Salarchaeum ... NA              555573     91.5   91.5  9%    2e-12 72.50  135207     CP085325.1       
+Halobacterium sp. NMX12-1 plasmid pNMX12-1_211, complete sequence Halobacteriu... NA              3166650    89.7   170   18%   6e-12 66.98  211126     CP159205.1       
+Haloarcula marismortui ATCC 43049 plasmid pHMA155, complete...    Haloarcula m... NA              272569     86.9   86.9  9%    8e-11 71.88  155291     CP039134.1       
+Halobaculum sp. CBA1158 plasmid pCBA1158-2, complete sequence     Halobaculum ... NA              2904243    86.9   86.9  9%    8e-11 71.88  135778     CP090373.1       
+Halobaculum roseum strain CGMCC 1.15501 plasmid unnamed3,...      Halobaculum ... NA              2175149    86.9   86.9  9%    8e-11 71.88  161865     CP082289.1       
+Haloarcula marismortui ATCC 43049 plasmid pNG600, complete...     Haloarcula m... NA              272569     86.9   86.9  9%    8e-11 71.88  155300     AY596295.1       
+Salinigranum rubrum strain GX10 plasmid unnamed2, complete...     Salinigranum... NA              755307     86.0   86.0  9%    8e-11 72.37  198037     CP026311.1       
+Halobaculum magnesiiphilum strain NBRC 109044 plasmid unnamed1... Halobaculum ... NA              1017351    86.0   86.0  9%    8e-11 72.37  271515     CP081959.1       
+Halorussus aquaticus strain XZYJ18 plasmid unnamed2, complete...  Halorussus a... NA              2953748    84.2   84.2  11%   3e-10 70.30  312460     CP100403.1       
+Halalkalicoccus jeotgali B3, complete genome                      Halalkalicoc... NA              795797     77.0   77.0  6%    4e-08 76.47  2809118    CP002062.1       
+Halalkalicoccus tibetensis JCM 11890 DNA, complete genome         Halalkalicoc... NA              175632     74.3   74.3  6%    5e-07 75.73  2933625    AP043744.1       
+Salinarchaeum laminariae strain R26 chromosome                    Salinarchaeu... NA              869888     73.4   73.4  7%    5e-07 73.64  3169627    CP096270.1       
+Halopelagius fulvigenes JCM 17506 DNA, complete genome            Halopelagius... NA              1198324    72.5   72.5  17%   2e-06 65.23  2905174    AP043846.1       
+Haladaptatus sp. DYSN1 chromosome, complete genome                Haladaptatus... NA              3032580    72.5   72.5  7%    2e-06 73.50  3004792    CP120470.1       
+Haladaptatus sp. QDMS2 chromosome, complete genome                Haladaptatus... NA              3033391    72.5   72.5  7%    2e-06 73.50  2952151    CP119791.1       
+Haladaptatus sp. YSMS36 chromosome, complete genome               Haladaptatus... NA              3033384    72.5   72.5  7%    2e-06 73.50  2938003    CP119782.1       
+Halorussus pelagicus strain RC-68 chromosome, complete genome     Halorussus p... NA              2505977    69.8   69.8  7%    6e-06 72.73  3017361    CP035119.1       
+Halorientalis litorea strain ZY14 chromosome, complete genome     Halorientali... NA              2931977    69.8   69.8  9%    6e-06 69.33  2798302    CP095482.1       
+Halosolutus halophilus strain LT55 chromosome, complete genome    Halosolutus ... NA              1552990    69.8   69.8  7%    6e-06 71.88  5058678    CP094974.1       
+Halospeciosus flavus strain XZGYJ-43 plasmid unnamed1, complet... Halospeciosu... NA              3032283    68.9   68.9  4%    2e-05 83.08  293292     CP122313.1       
+Halosimplex aquaticum strain XZYJT29 chromosome, complete genome  Halosimplex ... NA              3026162    68.9   68.9  6%    2e-05 74.29  4824346    CP118158.1       
+Halorussus halophilus strain ZS-3 chromosome, complete genome     Halorussus h... NA              2650975    68.0   68.0  5%    2e-05 77.01  3636252    CP044523.1       
+Halobacterium sp. NMX12-1 plasmid pNMX12-1_119, complete sequence Halobacteriu... NA              3166650    68.0   68.0  10%   2e-05 68.60  119415     CP159206.1       
+Haloarcula montana strain GH36 chromosome, complete genome        Haloarcula m... NA              3111776    68.0   68.0  8%    2e-05 71.21  2975322    CP142027.1       
+Haloarcula halophila strain DFY41 chromosome, complete genome     Haloarcula h... NA              3032584    68.0   68.0  8%    2e-05 71.21  3038664    CP119559.1       
+Halorientalis sp. IM1011 chromosome, complete genome              Halorientali... NA              1932360    67.1   67.1  9%    7e-05 69.80  3381613    CP019067.1       
+Haloprofundus salilacus strain Gai1-5 chromosome unnamed1,...     Haloprofundu... NA              2876190    67.1   67.1  8%    7e-05 70.55  3239131    CP083723.1       
+Haloprofundus salinisoli strain SQT7-1 chromosome, complete...    Haloprofundu... NA              2876193    67.1   67.1  7%    7e-05 71.32  3017014    CP083663.1       
+Haloarchaeobius amylolyticus JCM 18642 DNA, complete genome       Haloarchaeob... NA              1198296    66.2   66.2  7%    7e-05 70.99  3500527    AP043858.1       
+Halosimplex rarum strain TS25 chromosome, complete genome         Halosimplex ... NA              3396619    66.2   66.2  6%    7e-05 73.58  4585890    CP180412.1       
+Halorussus caseinilyticus strain DT72 chromosome, complete genome Halorussus c... NA              3034025    66.2   66.2  6%    7e-05 72.97  3483401    CP119809.1       
+Salinigranum marinum strain ZS-10 chromosome, complete genome     Salinigranum... NA              1515595    66.2   66.2  8%    7e-05 70.21  4002753    CP100461.1       
+Haladaptatus halobius strain PSR5 chromosome 1, complete sequence Haladaptatus... NA              2884875    66.2   66.2  6%    7e-05 73.58  2874036    CP085335.1       
+Salinarchaeum chitinilyticum JCM 19597 DNA, complete genome       Salinarchaeu... NA              1395169    64.4   64.4  7%    3e-04 72.09  3176664    AP043888.1       
+Haladaptatus sp. SPP-AMP-3 plasmid unnamed2, complete sequence    Haladaptatus... NA              3121295    64.4   64.4  6%    3e-04 73.21  3058531    CP145897.1       
+Haladaptatus sp. DJG-WS-42 chromosome                             Haladaptatus... NA              3120516    64.4   64.4  8%    3e-04 70.37  2782431    CP147243.1       
+Natrononativus amylolyticus strain CGA73 plasmid unnamed2,...     Natrononativ... NA              2963434    64.4   64.4  5%    3e-04 77.50  240954     CP101460.1       
+Haloprofundus sp. MHR1 chromosome, complete genome                Haloprofundu... NA              2572921    63.5   63.5  8%    9e-04 70.59  3051700    CP039833.1       
+Haloarcula pelagica strain YJ-61-S chromosome, complete genome    Haloarcula p... NA              3033389    63.5   63.5  8%    9e-04 70.45  3529922    CP126161.1       
+Halobacterium hubeiense strain JI20-1 genome assembly, plasmid... Halobacteriu... NA              1407499    63.5   63.5  9%    9e-04 68.52  112459     LN831305.1       
+Halobacterium sp. BOL4-2 chromosome, complete genome              Halobacteriu... NA              2810537    63.5   63.5  4%    9e-04 80.60  1989773    CP070332.2       
+Halocatena marina strain RDMS1 chromosome, complete genome        Halocatena m... NA              2934937    62.6   62.6  5%    9e-04 74.47  3934123    CP110249.1       
+Halocatena marina strain QDMS1 chromosome, complete genome        Halocatena m... NA              2934937    62.6   62.6  5%    9e-04 74.47  3881378    CP109979.1       
+Halocatena marina strain DFN5 chromosome, complete genome         Halocatena m... NA              2934937    62.6   62.6  5%    9e-04 74.47  3915224    CP109785.1       
+Halosolutus gelatinilyticus strain SQT-29-1 chromosome, comple... Halosolutus ... NA              2931975    62.6   62.6  6%    9e-04 72.48  3906818    CP095491.1       
+Natribaculum breve strain TRM20010 chromosome, complete genome    Natribaculum... NA              1419050    62.6   62.6  8%    9e-04 70.59  3337253    CP095390.1       
+Salinarchaeum sp. Harcht-Bsk1, complete genome                    Salinarchaeu... NA              1333523    62.6   62.6  9%    9e-04 69.93  3255260    CP005962.1       
+Halorhabdus sp. CBA1104 chromosome, complete genome               Halorhabdus ... NA              1380432    60.8   60.8  8%    0.003 69.57  2628395    CP033878.1       
+Halorhabdus sp. BNX81 chromosome, complete genome                 Halorhabdus ... NA              2980181    60.8   60.8  8%    0.003 69.57  2828981    CP107254.1       
+Uncultured prokaryote clone DeadSea1_IOBCFE001_03-E08-Rev...      uncultured p... NA              198431     60.8   60.8  5%    0.003 75.90  873        GQ447176.1       
+Salinigranum rubrum strain GX10 chromosome, complete genome       Salinigranum... NA              755307     59.9   59.9  7%    0.011 70.00  4250563    CP026309.1       
+Halorarius halobius strain ZY10 chromosome, complete genome       Halorarius h... NA              2962671    59.9   59.9  3%    0.011 81.67  3743174    CP101161.1       
+Halobacterium salinarum strain 91-R6 chromosome, complete genome  Halobacteriu... NA              2242       59.0   59.0  4%    0.011 79.10  2178608    CP038631.1       
+Halobacterium salinarum strain KBTZ01 chromosome, complete genome Halobacteriu... NA              2242       59.0   59.0  4%    0.011 79.10  1959163    CP128377.3       
+Halobacterium salinarum strain KBTZ02 chromosome, complete genome Halobacteriu... NA              2242       59.0   59.0  4%    0.011 79.10  1959251    CP148056.1       
+Salinibaculum marinum strain SYNS191 chromosome, complete genome  Salinibaculu... NA              3131993    59.0   59.0  8%    0.011 69.01  3942322    CP147838.1       
+Halobacterium salinarum strain KBTZ03 chromosome, complete genome Halobacteriu... NA              2242       59.0   59.0  4%    0.011 79.10  1969683    CP146625.1       
+Natribaculum longum strain TRM20345 chromosome, complete genome   Natribaculum... NA              1419051    59.0   59.0  5%    0.011 75.61  3395034    CP095394.1       
+Halobacterium salinarum NRC-34001 chromosome, complete genome     Halobacteriu... NA              2886895    59.0   59.0  4%    0.011 79.10  2012898    CP085882.1       
+Halobacterium sp. GSL-19 chromosome, complete genome              Halobacteriu... NA              2812551    59.0   59.0  4%    0.011 79.10  1987132    CP070377.1       
+Halobacterium salinarum R1 complete genome                        Halobacteriu... NA              478009     59.0   59.0  4%    0.011 79.10  2000962    AM774415.1       
+TPA_inf: Halobacterium salinarum NRC-1                            Halobacteriu... NA              64091      59.0   59.0  4%    0.011 79.10  2014239    BK010829.1       
+Natronobiforma cellulositropha JCM 31939 DNA, complete genome     Natronobifor... NA              1679076    58.1   58.1  9%    0.038 68.46  3826460    AP043950.1       
+Halapricum salinum strain CBA1105 chromosome, complete genome     Halapricum s... NA              1457250    58.1   58.1  8%    0.038 69.06  3452056    CP031310.1       
+Natronococcus wangiae strain AD-5 chromosome, complete genome     Natronococcu... NA              3068275    58.1   58.1  5%    0.038 75.00  4145149    CP132294.1       
+Natronomonas gomsonensis strain KCTC 4088 chromosome, complete... Natronomonas... NA              1046043    58.1   58.1  7%    0.038 69.77  3544915    CP101323.1       
+Haloterrigena alkaliphila strain KZCA68 plasmid unnamed2,...      Haloterrigen... NA              2816475    58.1   58.1  6%    0.038 73.15  161705     CP084320.1       
+Haloarchaeobius sp. DT45 chromosome, complete genome              Haloarchaeob... NA              3446116    57.2   57.2  7%    0.038 69.47  3384205    CP196560.1       
+Natronorubrum halobium strain FCH18a chromosome, complete genome  Natronorubru... NA              3447018    57.2   57.2  7%    0.038 71.67  4803121    CP195595.1       
+PREDICTED: Larimichthys crocea thrombospondin 2a (thbs2a),...     Larimichthys... large yellow... 215358     57.2   57.2  4%    0.038 80.95  5450       XM_010756614.3   
+PREDICTED: Larimichthys crocea thrombospondin 2a (thbs2a),...     Larimichthys... large yellow... 215358     57.2   57.2  4%    0.038 80.95  5481       XM_010756607.3   
+Halorussus salilacus strain YCN54 chromosome, complete genome     Halorussus s... NA              2953750    57.2   57.2  6%    0.038 71.17  3037152    CP099993.1       
+
+
+Alignments:
+
+>Halogeometricum borinquense strain wsp3 chromosome, complete genome
+Sequence ID: CP050274.1 Length: 2818554
+Range 1: 1009650 to 1009984
+
+Score:133 bits(147), Expect:6e-25, 
+Identities:235/338(70%),  Gaps:6/338(1%), Strand: Plus/Plus
+
+Query  2154534  AAACGGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCAT  2154593
+                |||||| || |   | || || || || |||||||| || || |     || || |||||
+Sbjct  1009650  AAACGGCGGCGATCCGGTCGGCAGGGAGATAAGCCACAGACTCAGAGCCGTGTAGCCCAT  1009709
+
+Query  2154594  CATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTG  2154653
+                |||||| ||||  || || |||||||| ||||| || || |  ||||| || || ||  |
+Sbjct  1009710  CATCACTAAGACAAACGGATACTGGCTCCGAATCGCTTGGAGGCGACTCGGGAACAGGCG  1009769
+
+Query  2154654  ATACGCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAAT  2154713
+                 |||||||| |||||||||| ||| || |||| ||| || ||| | ||||| ||  | ||
+Sbjct  1009770  GTACGCCGTCGAGTGTGCGATCCAGATCGCAAGGAGGTGACCGCCGAGAACGAACGCGAT  1009829
+
+Query  2154714  ATTAA--AAGCTGAAATCCAGGCTGGAAGCGTCAGTATAATCGGATTTGATGGTGGTGCA  2154771
+                ||| |  |  ||   | ||| |  |||||||| |  |  | ||||||||  || |  |  
+Sbjct  1009830  ATTGAGCATACT--CACCCACGACGGAAGCGTGAAGACGAGCGGATTTGCCGGCGAGGAG  1009887
+
+Query  2154772  AACGGCG-AGACAACTGCGTCAAATAGCGATGGTGACAGTGATAGAAAGAACCCAACATA  2154830
+                ||||||| |||  |   || |||| ||||| || ||||| || || |||||| | |  ||
+Sbjct  1009888  AACGGCGTAGA-GAGGACGGCAAAGAGCGAGGGCGACAGCGACAGGAAGAACGCGAAGTA  1009946
+
+Query  2154831  GTGTGCGAGATGATATCCAACAGCAATTGCAATGAGTG  2154868
+                |||||| || || || ||  | || || || | |||||
+Sbjct  1009947  GTGTGCAAGGTGGTACCCCGCTGCGATAGCGAGGAGTG  1009984
+
+
+
+
+>Halogeometricum borinquense strain wsp4 chromosome, complete genome
+Sequence ID: CP048739.1 Length: 3994321
+Range 1: 2467207 to 2467541
+
+Score:133 bits(147), Expect:6e-25, 
+Identities:235/338(70%),  Gaps:6/338(1%), Strand: Plus/Minus
+
+Query  2154534  AAACGGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCAT  2154593
+                |||||| || |   | || || || || |||||||| || || |     || || |||||
+Sbjct  2467541  AAACGGCGGCGATCCGGTCGGCAGGGAGATAAGCCACAGACTCAGAGCCGTGTAGCCCAT  2467482
+
+Query  2154594  CATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTG  2154653
+                |||||| ||||  || || |||||||| ||||| || || |  ||||| || || ||  |
+Sbjct  2467481  CATCACTAAGACAAACGGATACTGGCTCCGAATCGCTTGGAGGCGACTCGGGAACAGGCG  2467422
+
+Query  2154654  ATACGCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAAT  2154713
+                 |||||||| |||||||||| ||| || |||| ||| || ||| | ||||| ||  | ||
+Sbjct  2467421  GTACGCCGTCGAGTGTGCGATCCAGATCGCAAGGAGGTGACCGCCGAGAACGAACGCGAT  2467362
+
+Query  2154714  ATTAA--AAGCTGAAATCCAGGCTGGAAGCGTCAGTATAATCGGATTTGATGGTGGTGCA  2154771
+                ||| |  |  ||   | ||| |  |||||||| |  |  | ||||||||  || |  |  
+Sbjct  2467361  ATTGAGCATACT--CACCCACGACGGAAGCGTGAAGACGAGCGGATTTGCCGGCGAGGAG  2467304
+
+Query  2154772  AACGGCG-AGACAACTGCGTCAAATAGCGATGGTGACAGTGATAGAAAGAACCCAACATA  2154830
+                ||||||| |||  |   || |||| ||||| || ||||| || || |||||| | |  ||
+Sbjct  2467303  AACGGCGTAGA-GAGGACGGCAAAGAGCGAGGGCGACAGCGACAGGAAGAACGCGAAGTA  2467245
+
+Query  2154831  GTGTGCGAGATGATATCCAACAGCAATTGCAATGAGTG  2154868
+                |||||| || || || ||  | || || || | |||||
+Sbjct  2467244  GTGTGCAAGGTGGTACCCCGCTGCGATAGCGAGGAGTG  2467207
+
+
+
+
+>Halobellus inordinatus strain DSM 26177 chromosome, complete genome
+Sequence ID: CP101825.1 Length: 2612640
+Range 1: 2544190 to 2544380
+
+Score:133 bits(147), Expect:6e-25, 
+Identities:144/191(75%),  Gaps:0/191(0%), Strand: Plus/Minus
+
+Query  2154553  GGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGG  2154612
+                || || || || ||||| || || ||    || || || ||||||||||||| ||| |||
+Sbjct  2544380  GGCAGCGAGATGAGCCACAGACTCACCGCGGTGTAGCCGATCATCACGAAGACGAACGGG  2544321
+
+Query  2154613  TACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCG  2154672
+                |||||||| ||||| ||||| | ||| || |||||||| ||||||||||| ||||| |||
+Sbjct  2544320  TACTGGCTCCGAATCGCCTGGAGTCGGCTGGGAAAGAGCTGATACGCCGTCGAGTGCGCG  2544261
+
+Query  2154673  ACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAATATTAAAAGCTGAAATCCAG  2154732
+                ||||| || || |  || |||||| | || || || || || || |  || || | ||| 
+Sbjct  2544260  ACCCAGATCGCGACCAGGTGTCCGCCGAGCACGAAGACGATGTTCAGCGCCGACACCCAC  2544201
+
+Query  2154733  GCTGGAAGCGT  2154743
+                || || |||||
+Sbjct  2544200  GCCGGGAGCGT  2544190
+
+
+
+
+>Halobellus limi strain CGMCC 1.10331 chromosome, complete genome
+Sequence ID: CP031311.1 Length: 2958395
+Range 1: 869453 to 869766
+
+Score:130 bits(143), Expect:7e-24, 
+Identities:217/314(69%),  Gaps:0/314(0%), Strand: Plus/Plus
+
+Query  2154535  AACGGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATC  2154594
+                ||||  || || || || || || || || ||||| ||||| ||||  || || || |||
+Sbjct  869453   AACGCCGGCGTCGCCGTCGGCAGCGAGATCAGCCACAGGCTCACGACGGTGTAGCCGATC  869512
+
+Query  2154595  ATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGA  2154654
+                |||||||||| ||| ||||||||||| || || ||||| |  ||||| ||||||||  | 
+Sbjct  869513   ATCACGAAGACGAACGGGTACTGGCTCCGGATCGCCTGCAGCCGACTCGGAAAGAGCCGG  869572
+
+Query  2154655  TACGCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAATA  2154714
+                || ||  | ||||| || ||||| || || |  || || ||| | || || ||  | || 
+Sbjct  869573   TAGGCGATCGAGTGCGCCACCCAGATCGCGACCAGGTGCCCGCCGAGGACGAAGGCGATG  869632
+
+Query  2154715  TTAAAAGCTGAAATCCAGGCTGGAAGCGTCAGTATAATCGGATTTGATGGTGGTGCAAAC  2154774
+                || |  || || | ||| || || || |  |  |  |||||||| |  || |  |  | |
+Sbjct  869633   TTCAGCGCCGACACCCACGCCGGCAGGGCGAACACGATCGGATTCGTCGGCGCCGACAGC  869692
+
+Query  2154775  GGCGAGACAACTGCGTCAAATAGCGATGGTGACAGTGATAGAAAGAACCCAACATAGTGT  2154834
+                |||||  | |   || |  | ||||| || ||||| || || |||||| | |  ||||| 
+Sbjct  869693   GGCGACGCGAGCACGGCCCACAGCGAGGGAGACAGAGAGAGGAAGAACGCGAAGTAGTGC  869752
+
+Query  2154835  GCGAGATGATATCC  2154848
+                ||||| ||||| ||
+Sbjct  869753   GCGAGGTGATAGCC  869766
+
+
+
+
+>Haladaptatus salinisoli strain PSR8 plasmid unnamed1, complete sequence
+Sequence ID: CP085328.1 Length: 487259
+Range 1: 20575 to 20919
+
+Score:129 bits(142), Expect:7e-24, 
+Identities:240/348(69%),  Gaps:6/348(1%), Strand: Plus/Plus
+
+Query  2154547  GCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATG  2154606
+                || || || ||||| ||||||||||| || | ||  ||||| |  |||||||||| || |
+Sbjct  20575    GCAGTCGGCAGTGAGATAAGCCAGAGACTAATGACGGTATAGCTAATCATCACGAGGACG  20634
+
+Query  2154607  AAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTG-ATACGCCGTTGA  2154665
+                || || ||||||||  ||||||| || | |||||| || || ||||| ||| ||   || 
+Sbjct  20635    AATGGATACTGGCTCTGAATTGCTTGCATTCGACTAGGGAA-AGTTGCATAAGCGTCTGC  20693
+
+Query  2154666  GTGTGCGACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAAT--ATTAAAAGCT  2154723
+                 ||||||||||| | ||| |  |  |||||||  ||||  ||  | ||  |    |  | 
+Sbjct  20694    ATGTGCGACCCACACTGCCAGTATGTGTCCGATGAGAATGAACGCGATCGAGAGCATCCC  20753
+
+Query  2154724  GAAATCCAGGCTGGAAGCGTCAGTATAATCGGATTTGATGGTGGTGCAAACGGCGAGACA  2154783
+                |||  |||| |||| || | || ||  | ||| || |  |||||||  ||||| | | ||
+Sbjct  20754    GAA--CCAGCCTGGCAGTGACAATACGAGCGGGTTCGCAGGTGGTGAGAACGGGGTGGCA  20811
+
+Query  2154784  ACTGCGTCAAATAGCGATGGTGACAGTGATAGAAAGAACCCAACATAGTGTGCGAGATGA  2154843
+                | |||    |  ||   ||| ||||| || |  ||||| || |  ||||| || || |||
+Sbjct  20812    ATTGCAGTGACGAGGAGTGGGGACAGCGAGACGAAGAATCCGAAGTAGTGCGCAAGGTGA  20871
+
+Query  2154844  TATCCAACAGCAATTGCAATGAGTGATGGGGCGAATGCAACAGTAAGG  2154891
+                |||||  | ||||| || | |||||| || || |||   |||| ||||
+Sbjct  20872    TATCCTGCCGCAATGGCGAGGAGTGAAGGCGCAAATTGGACAGCAAGG  20919
+
+
+
+
+Range 2: 21751 to 21881
+
+Score:68.0 bits(74), Expect:2e-05, 
+Identities:96/134(72%),  Gaps:6/134(4%), Strand: Plus/Plus
+
+Query  2155894  CGGTCCGTAATAAACCCAGCAAGAAGCGCAGAGGCACCAATCGCAGCCCCACCGGTAGCA  2155953
+                ||||| ||||  |  |  ||||| | |||||||||||| || || || |||||||| || 
+Sbjct  21751    CGGTCAGTAACGACACTTGCAAGCAACGCAGAGGCACCGATTGCGGCACCACCGGTCGCG  21810
+
+Query  2155954  ACATACAGCCACCGTGGGATTGAAAGTGCATTTTCA---GATGCCTCCGATAATCCGACT  2156010
+                | |||||||||  |||| ||    || |   | |||   |||||  | |||||||| |||
+Sbjct  21811    ATATACAGCCATTGTGGAATATTTAGCG---TCTCACGTGATGCACCAGATAATCCAACT  21867
+
+Query  2156011  GCGGCGTTACTCGC  2156024
+                || || ||||| ||
+Sbjct  21868    GCAGCATTACTGGC  21881
+
+
+
+
+>Halogeometricum borinquense DSM 11551, complete genome
+Sequence ID: CP001690.1 Length: 2820544
+Range 1: 1010410 to 1010750
+
+Score:127 bits(140), Expect:3e-23, 
+Identities:239/346(69%),  Gaps:8/346(2%), Strand: Plus/Plus
+
+Query  2154534  AAACGGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCAT  2154593
+                |||||| || |   | || || || || || ||||| || || |     || || |||||
+Sbjct  1010410  AAACGGCGGCGATCCGGTCGGCAGGGAGATGAGCCATAGACTCAGAGCCGTGTAGCCCAT  1010469
+
+Query  2154594  CATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTG  2154653
+                |||||| ||||  || || |||||||| ||||| || || |  ||||| || || ||  |
+Sbjct  1010470  CATCACCAAGACAAACGGATACTGGCTCCGAATCGCTTGGAGGCGACTCGGGAACAGGCG  1010529
+
+Query  2154654  ATACGCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAAT  2154713
+                 |||||||| |||||||||| ||| || |||| ||| || ||| | ||||| ||  | ||
+Sbjct  1010530  GTACGCCGTCGAGTGTGCGATCCAGATCGCAAGGAGGTGACCGCCGAGAACGAACGCGAT  1010589
+
+Query  2154714  ATTAA--AAGCTGAAATCCAGGCTGGAAGCGTCAGTATAATCGGATTTGATGGTGGTGCA  2154771
+                ||| |  |  ||   | ||| |  |||||||| |  |  | ||||||||  || |  |  
+Sbjct  1010590  ATTGAGCATACT--CACCCACGACGGAAGCGTGAAGACGAGCGGATTTGCCGGCGAGGAG  1010647
+
+Query  2154772  AACGGCG-AGACAACTGCGTCAAATAGCGATGGTGACAGTGATAGAAAGAACCCAACATA  2154830
+                ||||||| |||  |   || |||| ||||| || ||||| || || |||||| | |  ||
+Sbjct  1010648  AACGGCGCAGA-GAGGACGGCAAAGAGCGAGGGCGACAGCGACAGGAAGAACGCGAAGTA  1010706
+
+Query  2154831  GTGTGCGAGATGATATCCAACAGCAATTGCAATGAGTGATGGGGCG  2154876
+                ||| || || || || ||  | || || || | |||||  ||||||
+Sbjct  1010707  GTGCGCAAGGTGGTACCCCGCCGCGATAGCGAGGAGTG--GGGGCG  1010750
+
+
+
+
+>Halobellus marinus strain DFY28 chromosome, complete genome
+Sequence ID: CP134946.1 Length: 3707125
+Range 1: 329354 to 329703
+
+Score:126 bits(139), Expect:9e-23, 
+Identities:240/351(68%),  Gaps:2/351(0%), Strand: Plus/Plus
+
+Query  2154535  AACGGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATC  2154594
+                ||||  || | ||| || || || || |  ||||| ||||| |||| ||| || |  |||
+Sbjct  329354   AACGCGGGCGAGGCCGTCGGCAGCGACACCAGCCACAGGCTCACGACTGTGTAGCTGATC  329413
+
+Query  2154595  ATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGA  2154654
+                ||| |||  | ||| ||||||||||| |  || ||||| |  ||||| || |||||  | 
+Sbjct  329414   ATCGCGAGCACGAACGGGTACTGGCTCCTGATCGCCTGGAGCCGACTCGGGAAGAGCCGG  329473
+
+Query  2154655  TACGCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAATA  2154714
+                || || || || || || ||||| || || |  || || ||| | || || ||  |||| 
+Sbjct  329474   TAGGCGGTCGAATGCGCCACCCAGATCGCCACCAGGTGGCCGCCGAGGACGAAGGCAATG  329533
+
+Query  2154715  TTAAAAGCTGAAATCCAGGCTGGAAGCGTCAGTATAATCGGATTTGATGGTGGTGCAAAC  2154774
+                || |  || || | ||| || || ||||| || |  |  ||||| |  || |  | || |
+Sbjct  329534   TTCAGCGCCGAGACCCACGCCGGCAGCGTGAGGACGACGGGATTCGTCGGCGCCGAAAGC  329593
+
+Query  2154775  GGCGAGAC-AACTGCGTCAAATAGCGATGGTGACAGTGATAGAAAGAACCCAACATAGTG  2154833
+                |||| | | | |  || || | |||||||| ||||| || || ||||| || |  |||||
+Sbjct  329594   GGCGCGGCGAGCACCGCCAGA-AGCGATGGCGACAGCGACAGGAAGAAGCCGAAGTAGTG  329652
+
+Query  2154834  TGCGAGATGATATCCAACAGCAATTGCAATGAGTGATGGGGCGAATGCAAC  2154884
+                 |||||||| || ||  | || ||  | |  ||||| || ||||| || ||
+Sbjct  329653   CGCGAGATGGTAGCCCGCGGCGATGACGAGCAGTGACGGCGCGAAGGCGAC  329703
+
+
+
+
+Range 2: 330572 to 330656
+
+Score:68.9 bits(75), Expect:2e-05, 
+Identities:66/85(78%),  Gaps:0/85(0%), Strand: Plus/Plus
+
+Query  2155888  AACCGTCGGTCCGTAATAAACCCAGCAAGAAGCGCAGAGGCACCAATCGCAGCCCCACCG  2155947
+                ||||| || || || |  ||||| || | |||||| |||||||| ||||| || || || 
+Sbjct  330572   AACCGCCGATCGGTCACGAACCCGGCCAAAAGCGCCGAGGCACCGATCGCGGCGCCGCCC  330631
+
+Query  2155948  GTAGCAACATACAGCCACCGTGGGA  2155972
+                || || || || |||||||||||||
+Sbjct  330632   GTGGCGACGTAGAGCCACCGTGGGA  330656
+
+
+
+
+>Haladaptatus sp. SPP-AMP-3 plasmid unnamed5, complete sequence
+Sequence ID: CP145901.1 Length: 618965
+Range 1: 239587 to 239918
+
+Score:114 bits(126), Expect:2e-19, 
+Identities:230/335(69%),  Gaps:6/335(1%), Strand: Plus/Minus
+
+Query  2154547  GCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATG  2154606
+                || || ||||| || |  ||||| |||||||  || || || || |||||||||| ||||
+Sbjct  239918   GCCGTCGGAAGCGAGACGAGCCACAGGCTGATAATCGTGTAGCCGATCATCACGAGGATG  239859
+
+Query  2154607  AAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTG-ATACGCCGTTGA  2154665
+                || ||||||||||| ||||| || || | ||| || |||||  || |  ||||||   ||
+Sbjct  239858   AACGGGTACTGGCTCCGAATCGCTTGCAGTCGGCTCGGAAA-CGTCGCGTACGCCTGCGA  239800
+
+Query  2154666  GTGTGCGACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAAT-ATTA-AAAGCT  2154723
+                ||| |||||||| |  || |  || || ||||| || || ||  | || |  |    || 
+Sbjct  239799   GTGGGCGACCCAGACGGCGAGCAGGTGACCGACGAGGACGAACCCGATGACGAGGCCGCC  239740
+
+Query  2154724  GAAATCCAGGCTGGAAGCGTCAGTATAATCGGATTTGATGGTGGTGCAAACGGCGAGACA  2154783
+                |||  |||  | || || ||||| |  | |||||| |  || || |  | ||||||||| 
+Sbjct  239739   GAA--CCACTCCGGGAGGGTCAGGACGACCGGATTCGCCGGGGGAGAGAGCGGCGAGACG  239682
+
+Query  2154784  ACTGCGTCAAATAGCGATGGTGACAGTGATAGAAAGAACCCAACATAGTGTGCGAGATGA  2154843
+                || |||   |  ||||| ||    || || |  |||||||| |  ||||||||||| || 
+Sbjct  239681   ACCGCGGGGACGAGCGACGGGAGGAGCGAGACGAAGAACCCGAAGTAGTGTGCGAGGTGG  239622
+
+Query  2154844  TATCCAACAGCAATTGCAATGAGTGATGGGGCGAA  2154878
+                || || || || || || |  || |  || |||||
+Sbjct  239621   TAGCCGACGGCGATGGCGAGCAGCGGCGGTGCGAA  239587
+
+
+
+
+>Haloferax sp. YSMS24 plasmid unnamed2, complete sequence
+Sequence ID: CP177205.1 Length: 210781
+Range 1: 23779 to 24122
+
+Score:113 bits(124), Expect:6e-19, 
+Identities:238/348(68%),  Gaps:8/348(2%), Strand: Plus/Minus
+
+Query  2154535  AACGGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATC  2154594
+                ||||| || | ||| || || |||||||  ||||| |||||||  || || ||    |||
+Sbjct  24122    AACGGCGGCGCGGCAGTCGGGAGTGAAACCAGCCACAGGCTGAGAATCGTGTAGAGAATC  24063
+
+Query  2154595  ATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGA  2154654
+                ||||||  || ||| | | ||||||| ||||  ||||| |  ||||| || ||  || | 
+Sbjct  24062    ATCACGGCGACGAAGGCGAACTGGCTCCGAACGGCCTGCATCCGACTGGGGAAC-GTCGC  24004
+
+Query  2154655  -TACGCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAAT  2154713
+                 ||||||  ||||||||||||||| |  || |  || || ||||| ||||| ||  | | 
+Sbjct  24003    GTACGCCTGTGAGTGTGCGACCCAGACGGCCAGCAGGTGACCGACCAGAACGAACGCGAC  23944
+
+Query  2154714  ATTAA--AAGCTGAAATCCAGGCTGGAAGCGTCAGTATAATCGGATTTGATGGTGGTGCA  2154771
+                 || |    || |||  ||| |  ||||| || || |  || ||||| |  || || | |
+Sbjct  23943    GTTGAGGCCGCCGAA--CCACGACGGAAGTGTGAGGACGATGGGATTCGCGGGGGGCGAA  23886
+
+Query  2154772  AACGGCGA-GACAACTGCGTCAAATAGCGATGGTGACAGTGATAGAAAGAACCCAACATA  2154830
+                | |||||| |||| | ||  | |  |||   || ||||| || |  ||||| || |  ||
+Sbjct  23885    AGCGGCGACGACAGC-GCCCCGACCAGCATGGGCGACAGCGACACGAAGAAGCCGAAGTA  23827
+
+Query  2154831  GTGTGCGAGATGATATCCAACAGCAATTGCAATGAGTGATGGGGCGAA  2154878
+                ||| ||||| || || ||  | || ||||| |  ||||| || |||||
+Sbjct  23826    GTGCGCGAGGTGGTAGCCCGCGGCGATTGCGAGCAGTGACGGCGCGAA  23779
+
+
+
+
+Range 2: 23563 to 23651
+
+Score:57.2 bits(62), Expect:0.038, 
+Identities:68/90(76%),  Gaps:2/90(2%), Strand: Plus/Minus
+
+Query  2155006  GGCGGGATACCACCCGCGACAATGGTCCGGATTATCG-CACCACCTTGTGTCGTCGTTAC  2155064
+                |||||||  ||| || |||| |  |||| |||   || | || ||   ||| ||||| ||
+Sbjct  23651    GGCGGGAGTCCAGCCTCGACGAGCGTCCTGATAGACGTCGCCCCCGGTTGT-GTCGTGAC  23593
+
+Query  2155065  AAACCCACTGAAGGTAAGTTCCCACACGAG  2155094
+                 ||||||||||| || ||||||||||||||
+Sbjct  23592    GAACCCACTGAACGTGAGTTCCCACACGAG  23563
+
+
+
+
+>Haladaptatus halobius strain PSR5 plasmid unnamed3, complete sequence
+Sequence ID: CP085339.1 Length: 599015
+Range 1: 572827 to 573151
+
+Score:106 bits(117), Expect:8e-17, 
+Identities:223/328(68%),  Gaps:6/328(1%), Strand: Plus/Minus
+
+Query  2154547  GCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATG  2154606
+                || || |||||||| || |||||||| || | ||  ||||| |  |||||||| | ||||
+Sbjct  573151   GCAGTGGGAAGTGAGATGAGCCAGAGACTAATGACAGTATAGCTGATCATCACAAGGATG  573092
+
+Query  2154607  AAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTG-ATACGCCGTTGA  2154665
+                || || ||||| || |||||||| ||||  ||||| || ||| || | ||| ||   || 
+Sbjct  573091   AAGGGATACTGACTCCGAATTGCTTGTATCCGACTGGGGAAG-GTCGCATAGGCGTCTGC  573033
+
+Query  2154666  GTGTGCGACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAATATTAAAAGC--T  2154723
+                |||||||||||| | ||| |  | ||| |||  | ||  |  |||   |||   |||  |
+Sbjct  573032   GTGTGCGACCCACACTGCCAACATATGACCG--ATGAGGATGAACGCGATTGGGAGCATT  572975
+
+Query  2154724  GAAATCCAGGCTGGAAGCGTCAGTATAATCGGATTTGATGGTGGTGCAAACGGCGAGACA  2154783
+                   | |||  |||||||||  |  | || ||| || |  |||||||  ||||| |   ||
+Sbjct  572974   CCGAACCACCCTGGAAGCGATAACACAAGCGGGTTCGCGGGTGGTGAGAACGGTGTCTCA  572915
+
+Query  2154784  ACTGCGTCAAATAGCGATGGTGACAGTGATAGAAAGAACCCAACATAGTGTGCGAGATGA  2154843
+                | ||||   |  ||   ||| || ||||| |  ||||| ||||  || ||||| || || 
+Sbjct  572914   ATTGCGGTGACAAGGAGTGGAGATAGTGAAACGAAGAATCCAAAGTAATGTGCAAGGTGG  572855
+
+Query  2154844  TATCCAACAGCAATTGCAATGAGTGATG  2154871
+                || ||  | || || || | ||| ||||
+Sbjct  572854   TAGCCTGCTGCGATGGCGAGGAGCGATG  572827
+
+
+
+
+Range 2: 571845 to 571957
+
+Score:92.4 bits(101), Expect:2e-12, 
+Identities:88/113(78%),  Gaps:0/113(0%), Strand: Plus/Minus
+
+Query  2155912  GCAAGAAGCGCAGAGGCACCAATCGCAGCCCCACCGGTAGCAACATACAGCCACCGTGGG  2155971
+                ||||| | |||||| ||||| || || || |||||||| || | ||||||||||||||||
+Sbjct  571957   GCAAGCAACGCAGAAGCACCGATTGCGGCACCACCGGTCGCGATATACAGCCACCGTGGG  571898
+
+Query  2155972  ATTGAAAGTGCATTTTCAGATGCCTCCGATAATCCGACTGCGGCGTTACTCGC  2156024
+                ||    | ||| |     |||||  | ||||||||||||||||||||||| ||
+Sbjct  571897   ATGTTCAATGCGTCACGTGATGCGCCAGATAATCCGACTGCGGCGTTACTGGC  571845
+
+
+
+
+>Haloferax sp. YSSS75 plasmid unnamed2, complete sequence
+Sequence ID: CP177208.1 Length: 217708
+Range 1: 23893 to 24236
+
+Score:104 bits(114), Expect:3e-16, 
+Identities:236/348(68%),  Gaps:8/348(2%), Strand: Plus/Minus
+
+Query  2154535  AACGGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATC  2154594
+                ||||| || | ||| || || |||||||  ||||| |||||||  || || ||    |||
+Sbjct  24236    AACGGCGGCGCGGCAGTCGGGAGTGAAACCAGCCACAGGCTGAGAATCGTGTAGAGAATC  24177
+
+Query  2154595  ATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGA  2154654
+                ||||||  || ||| | | ||||||| ||||  ||||| |  ||||| || ||  || | 
+Sbjct  24176    ATCACGGCGACGAAGGCGAACTGGCTCCGAACGGCCTGCATCCGACTGGGGAAC-GTCGC  24118
+
+Query  2154655  -TACGCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAAT  2154713
+                 ||||||  ||||||||||||||| |  || |  || || ||||| ||||| ||  | | 
+Sbjct  24117    GTACGCCTGTGAGTGTGCGACCCAGACGGCCAGCAGGTGACCGACCAGAACGAACGCGAC  24058
+
+Query  2154714  ATTAA--AAGCTGAAATCCAGGCTGGAAGCGTCAGTATAATCGGATTTGATGGTGGTGCA  2154771
+                 || |    || |||  ||| |  || || || || |  |  ||||| |  || || | |
+Sbjct  24057    GTTGAGGCCGCCGAA--CCACGACGGGAGTGTGAGGACGACGGGATTCGCGGGGGGCGAA  24000
+
+Query  2154772  AACGGCGA-GACAACTGCGTCAAATAGCGATGGTGACAGTGATAGAAAGAACCCAACATA  2154830
+                | |||||| |||| | ||  | |  |||   || ||||| || |  ||||| || |  ||
+Sbjct  23999    AGCGGCGACGACAGC-GCCCCGACCAGCATGGGCGACAGCGACACGAAGAAGCCGAAGTA  23941
+
+Query  2154831  GTGTGCGAGATGATATCCAACAGCAATTGCAATGAGTGATGGGGCGAA  2154878
+                ||| ||||| || || ||  | || ||||| |  ||||| || |||||
+Sbjct  23940    GTGCGCGAGGTGGTAGCCCGCGGCGATTGCGAGCAGTGACGGCGCGAA  23893
+
+
+
+
+Range 2: 23677 to 23765
+
+Score:57.2 bits(62), Expect:0.038, 
+Identities:68/90(76%),  Gaps:2/90(2%), Strand: Plus/Minus
+
+Query  2155006  GGCGGGATACCACCCGCGACAATGGTCCGGATTATCG-CACCACCTTGTGTCGTCGTTAC  2155064
+                |||||||  ||| || |||| |  |||| |||   || | || ||   ||| ||||| ||
+Sbjct  23765    GGCGGGAGTCCAGCCTCGACGAGCGTCCTGATAGACGTCGCCCCCGGTTGT-GTCGTGAC  23707
+
+Query  2155065  AAACCCACTGAAGGTAAGTTCCCACACGAG  2155094
+                 ||||||||||| || ||||||||||||||
+Sbjct  23706    GAACCCACTGAACGTGAGTTCCCACACGAG  23677
+
+
+
+
+>Halobacterium noricense strain JCM 15102 plasmid unnamed1, complete sequence
+Sequence ID: CP089469.1 Length: 368639
+Range 1: 294596 to 294920
+
+Score:100 bits(110), Expect:4e-15, 
+Identities:217/325(67%),  Gaps:0/325(0%), Strand: Plus/Minus
+
+Query  2154553  GGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGG  2154612
+                || ||||| | || ||||||||||| ||  |||||||| |||||||||| |||||| |||
+Sbjct  294920   GGGAGTGAGAGAATCCAGAGGCTGATGACAGTATATCCGATCATCACGAGGATGAACGGG  294861
+
+Query  2154613  TACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCG  2154672
+                |||||||| || || ||    | ||| || || ||||| |  || || |  |  || || 
+Sbjct  294860   TACTGGCTCCGGATCGCAACGAGTCGGCTCGGGAAGAGATTGTATGCGGACGCATGCGCT  294801
+
+Query  2154673  ACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAATATTAAAAGCTGAAATCCAG  2154732
+                 |||| || || |  || || |||| ||| || ||  ||||| |||   | |  | ||||
+Sbjct  294800   TCCCAGATGGCGAGCAGGTGACCGATAAGTACGAATCCAATACTAAGGCCGGTGAACCAG  294741
+
+Query  2154733  GCTGGAAGCGTCAGTATAATCGGATTTGATGGTGGTGCAAACGGCGAGACAACTGCGTCA  2154792
+                 | ||  |||  || |  |  |||||||  || || | || ||| || || || ||    
+Sbjct  294740   CCAGGTGGCGAAAGCACCAGTGGATTTGCAGGCGGCGTAAGCGGGGAAACGACAGCCATC  294681
+
+Query  2154793  AATAGCGATGGTGACAGTGATAGAAAGAACCCAACATAGTGTGCGAGATGATATCCAACA  2154852
+                   ||||  ||   ||| || |  |  |  ||  | ||||| || |||||||| ||  ||
+Sbjct  294680   GTGAGCGCGGGGCTCAGAGAGACGACCAGACCGGCGTAGTGAGCAAGATGATAGCCGGCA  294621
+
+Query  2154853  GCAATTGCAATGAGTGATGGGGCGA  2154877
+                ||||| || | ||| | ||| ||||
+Sbjct  294620   GCAATAGCCAGGAGCGGTGGAGCGA  294596
+
+
+
+
+>Salarchaeum japonicum strain JCM 16327 plasmid unnamed1, complete sequence
+Sequence ID: CP085325.1 Length: 135207
+Range 1: 77682 to 77841
+
+Score:91.5 bits(100), Expect:2e-12, 
+Identities:116/160(73%),  Gaps:0/160(0%), Strand: Plus/Plus
+
+Query  2154538  GGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATC  2154597
+                || || || |||  ||||||||| | || ||||||||| |  |  || || || ||||||
+Sbjct  77682    GGGGGCGTCGCTCCTGGAAGTGAGAGAATCCAGAGGCTAATAACGGTGTACCCGATCATC  77741
+
+Query  2154598  ACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATAC  2154657
+                || | |||||| ||||||||||| || |||||    |  ||||| |  |||||||  || 
+Sbjct  77742    ACAACGATGAACGGGTACTGGCTCCGGATTGCGACGAGACGACTCGAGAAGAGTTCGTAG  77801
+
+Query  2154658  GCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGA  2154697
+                || || | ||| ||  |||| || || | |||||| ||||
+Sbjct  77802    GCGGTCGCGTGCGCTGCCCAGATAGCGAGGAGATGCCCGA  77841
+
+
+
+
+>Halobacterium sp. NMX12-1 plasmid pNMX12-1_211, complete sequence
+Sequence ID: CP159205.1 Length: 211126
+Range 1: 23454 to 23764
+
+Score:89.7 bits(98), Expect:6e-12, 
+Identities:211/315(67%),  Gaps:8/315(2%), Strand: Plus/Minus
+
+Query  2154565  AGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGA  2154624
+                ||||||||||||| ||  || || || ||||||||||  | ||| |||||||||||||||
+Sbjct  23764    AGCCAGAGGCTGATGACGGTGTACCCAATCATCACGAGAACGAACGGGTACTGGCTGCGA  23705
+
+Query  2154625  ATTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCA  2154684
+                || ||    |  || || || ||||| |  || || |  | ||||||  |||| || || 
+Sbjct  23704    ATCGCGACGAGACGGCTCGGGAAGAGATCGTATGCGGACGTGTGTGCCTCCCAGATGGCG  23645
+
+Query  2154685  ATGAGATGTCCGACAAGAACAAAAACAATATTAAAAGCTGAAATCCAGGCTGGAAGCGTC  2154744
+                |  |  || ||  |||| || || || ||| | |  |||| || ||||   ||  |||  
+Sbjct  23644    AGCAAGTGACCAGCAAGCACGAACACGATACTGAGGGCTGTAAACCAGTTCGGTGGCGCG  23585
+
+Query  2154745  AGTATAATCGGATTTGATGGTGGTGCAAACGGCGAGACAACTGCGTCAAATAGCGA-TG-  2154802
+                ||||  | |||||| |  || ||||  | ||| || || || ||     || | || || 
+Sbjct  23584    AGTACGAGCGGATTCGCGGGCGGTGACAGCGGAGACACGACGGC----CATCGTGAGTGC  23529
+
+Query  2154803  GTGA--CAGTGATAGAAAGAACCCAACATAGTGTGCGAGATGATATCCAACAGCAATTGC  2154860
+                | ||  ||  || |  |  |||||| ||||||| || || ||||| ||| | || || ||
+Sbjct  23528    GGGACTCAACGAGACGAGCAACCCAGCATAGTGGGCAAGGTGATACCCAGCTGCGATCGC  23469
+
+Query  2154861  AATGAGTGATGGGGC  2154875
+                 |  ||||  |||||
+Sbjct  23468    CAGAAGTGGCGGGGC  23454
+
+
+
+
+Range 2: 165715 to 165833
+
+Score:80.6 bits(88), Expect:3e-09, 
+Identities:89/119(75%),  Gaps:0/119(0%), Strand: Plus/Minus
+
+Query  2154565  AGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGA  2154624
+                ||||||||||||||||| || ||||| |||||||| | || |||||| ||||||||||| 
+Sbjct  165833   AGCCAGAGGCTGACGATGGTGTATCCAATCATCACAAGGACGAAAGGATACTGGCTGCGG  165774
+
+Query  2154625  ATTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGC  2154683
+                || ||    |  || ||||| ||||| |  || || |  | ||| ||  |||| || ||
+Sbjct  165773   ATGGCGGCGAGCCGGCTTGGGAAGAGGTCGTATGCGGACGCGTGCGCCTCCCAGATGGC  165715
+
+
+
+
+>Haloarcula marismortui ATCC 43049 plasmid pHMA155, complete sequence
+Sequence ID: CP039134.1 Length: 155291
+Range 1: 74557 to 74716
+
+Score:86.9 bits(95), Expect:8e-11, 
+Identities:115/160(72%),  Gaps:0/160(0%), Strand: Plus/Minus
+
+Query  2154538  GGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATC  2154597
+                || || || |||  ||||||||| | || ||||||||| |  |  || || || ||||||
+Sbjct  74716    GGGGGCGTCGCTCCTGGAAGTGAGAGAATCCAGAGGCTAATAACGGTGTACCCGATCATC  74657
+
+Query  2154598  ACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATAC  2154657
+                ||   |||||| ||||||||||| || |||||    |  ||||| |  |||||||  || 
+Sbjct  74656    ACACCGATGAACGGGTACTGGCTCCGGATTGCGACGAGACGACTCGAGAAGAGTTCGTAG  74597
+
+Query  2154658  GCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGA  2154697
+                || || | ||| ||  |||| || || | |||||| ||||
+Sbjct  74596    GCGGTCGCGTGCGCTGCCCAGATAGCGAGGAGATGCCCGA  74557
+
+
+
+
+>Halobaculum sp. CBA1158 plasmid pCBA1158-2, complete sequence
+Sequence ID: CP090373.1 Length: 135778
+Range 1: 121005 to 121164
+
+Score:86.9 bits(95), Expect:8e-11, 
+Identities:115/160(72%),  Gaps:0/160(0%), Strand: Plus/Minus
+
+Query  2154538  GGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATC  2154597
+                || || || |||  ||| ||||| | || ||||||||| | ||  || || || ||||||
+Sbjct  121164   GGGGGCGTCGCTCCTGGGAGTGAGAGAATCCAGAGGCTAATGACGGTGTAACCGATCATC  121105
+
+Query  2154598  ACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATAC  2154657
+                || |  ||||| ||||||||||| || |||||    |  ||||| |  |||||||  || 
+Sbjct  121104   ACAACAATGAACGGGTACTGGCTCCGGATTGCGACGAGACGACTCGAGAAGAGTTCGTAG  121045
+
+Query  2154658  GCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGA  2154697
+                || || | ||| ||  |||| || || | |||||| ||||
+Sbjct  121044   GCGGTCGCGTGCGCTGCCCAGATAGCGAGGAGATGCCCGA  121005
+
+
+
+
+>Halobaculum roseum strain CGMCC 1.15501 plasmid unnamed3, complete sequence
+Sequence ID: CP082289.1 Length: 161865
+Range 1: 84133 to 84292
+
+Score:86.9 bits(95), Expect:8e-11, 
+Identities:115/160(72%),  Gaps:0/160(0%), Strand: Plus/Minus
+
+Query  2154538  GGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATC  2154597
+                || || || |||  ||||||||| | || ||||||||| |  |  || || || ||||||
+Sbjct  84292    GGGGGCGTCGCTCCTGGAAGTGAGAGAATCCAGAGGCTAATAACGGTGTACCCGATCATC  84233
+
+Query  2154598  ACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATAC  2154657
+                ||   |||||| ||||||||||| || |||||    |  ||||| |  |||||||  || 
+Sbjct  84232    ACACCGATGAACGGGTACTGGCTCCGGATTGCGACGAGACGACTCGAGAAGAGTTCGTAG  84173
+
+Query  2154658  GCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGA  2154697
+                || || | ||| ||  |||| || || | |||||| ||||
+Sbjct  84172    GCGGTCGCGTGCGCTGCCCAGATAGCGAGGAGATGCCCGA  84133
+
+
+
+
+>Haloarcula marismortui ATCC 43049 plasmid pNG600, complete sequence
+Sequence ID: AY596295.1 Length: 155300
+Range 1: 68061 to 68220
+
+Score:86.9 bits(95), Expect:8e-11, 
+Identities:115/160(72%),  Gaps:0/160(0%), Strand: Plus/Minus
+
+Query  2154538  GGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATC  2154597
+                || || || |||  ||||||||| | || ||||||||| |  |  || || || ||||||
+Sbjct  68220    GGGGGCGTCGCTCCTGGAAGTGAGAGAATCCAGAGGCTAATAACGGTGTACCCGATCATC  68161
+
+Query  2154598  ACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATAC  2154657
+                ||   |||||| ||||||||||| || |||||    |  ||||| |  |||||||  || 
+Sbjct  68160    ACACCGATGAACGGGTACTGGCTCCGGATTGCGACGAGACGACTCGAGAAGAGTTCGTAG  68101
+
+Query  2154658  GCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGA  2154697
+                || || | ||| ||  |||| || || | |||||| ||||
+Sbjct  68100    GCGGTCGCGTGCGCTGCCCAGATAGCGAGGAGATGCCCGA  68061
+
+
+
+
+>Salinigranum rubrum strain GX10 plasmid unnamed2, complete sequence
+Sequence ID: CP026311.1 Length: 198037
+Range 1: 62202 to 62353
+
+Score:86.0 bits(94), Expect:8e-11, 
+Identities:110/152(72%),  Gaps:0/152(0%), Strand: Plus/Plus
+
+Query  2154553  GGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGG  2154612
+                |||||||| | || ||||||||| | ||  || || || |||||||| |  ||||| |||
+Sbjct  62202    GGAAGTGAGAGAATCCAGAGGCTAATGACGGTGTAACCGATCATCACAATAATGAACGGG  62261
+
+Query  2154613  TACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCG  2154672
+                |||||||| || || ||    |  ||||| |  |||||||  || || || | ||| || 
+Sbjct  62262    TACTGGCTCCGGATCGCGACGAGACGACTCGAGAAGAGTTCGTAGGCGGTCGCGTGCGCT  62321
+
+Query  2154673  ACCCAAATTGCAATGAGATGTCCGACAAGAAC  2154704
+                 |||| || || | |||||| ||||| || ||
+Sbjct  62322    GCCCAGATAGCGAGGAGATGCCCGACGAGCAC  62353
+
+
+
+
+>Halobaculum magnesiiphilum strain NBRC 109044 plasmid unnamed1, complete sequence
+Sequence ID: CP081959.1 Length: 271515
+Range 1: 214461 to 214612
+
+Score:86.0 bits(94), Expect:8e-11, 
+Identities:110/152(72%),  Gaps:0/152(0%), Strand: Plus/Plus
+
+Query  2154553  GGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGG  2154612
+                |||||||| | || ||||||||| | ||  || || || |||||||| |  ||||| |||
+Sbjct  214461   GGAAGTGAGAGAATCCAGAGGCTAATGACGGTGTAACCGATCATCACAATAATGAACGGG  214520
+
+Query  2154613  TACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCG  2154672
+                |||||||| || || ||    |  ||||| |  |||||||  || || || | ||| || 
+Sbjct  214521   TACTGGCTCCGGATCGCGACGAGACGACTCGAGAAGAGTTCGTAGGCGGTCGCGTGCGCT  214580
+
+Query  2154673  ACCCAAATTGCAATGAGATGTCCGACAAGAAC  2154704
+                 |||| || || | |||||| ||||| || ||
+Sbjct  214581   GCCCAGATAGCGAGGAGATGCCCGACGAGCAC  214612
+
+
+
+
+>Halorussus aquaticus strain XZYJ18 plasmid unnamed2, complete sequence
+Sequence ID: CP100403.1 Length: 312460
+Range 1: 144750 to 144950
+
+Score:84.2 bits(92), Expect:3e-10, 
+Identities:142/202(70%),  Gaps:8/202(3%), Strand: Plus/Minus
+
+Query  2154553  GGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGG  2154612
+                ||||| || | || ||||||||| |  |  ||||| || |||||||||  |||||| |||
+Sbjct  144950   GGAAGAGAGAGAATCCAGAGGCTAATAACAGTATAGCCGATCATCACGGCGATGAACGGG  144891
+
+Query  2154613  TACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCG  2154672
+                || ||||| || || ||    | ||| || |  |||||||  || || || | ||| || 
+Sbjct  144890   TATTGGCTTCGGATAGCGACGAGTCGGCTCGAGAAGAGTTCGTAGGCGGTCGCGTGCGCT  144831
+
+Query  2154673  ACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAATATTAAAAGC--TGAA--AT  2154728
+                 |||| || || | |||||||||||  || || ||  | ||| | ||  |  ||||  ||
+Sbjct  144830   GCCCAGATCGCGAGGAGATGTCCGATGAGTACGAACGCGATACTCAACCCATTGAACCAT  144771
+
+Query  2154729  CCAGGCTGGA---AGCGTCAGT  2154747
+                || || ||||   |||||||||
+Sbjct  144770   CC-GGGTGGAGACAGCGTCAGT  144750
+
+
+
+
+>Halalkalicoccus jeotgali B3, complete genome
+Sequence ID: CP002062.1 Length: 2809118
+Range 1: 2343755 to 2343856
+
+Score:77.0 bits(84), Expect:4e-08, 
+Identities:78/102(76%),  Gaps:0/102(0%), Strand: Plus/Minus
+
+Query  2154546  GGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGAT  2154605
+                ||| || ||||| || || | |||||||||||  || |||||  | ||||||||||  | 
+Sbjct  2343856  GGCGGTGGGAAGCGAGATCAACCAGAGGCTGATCATCGTATAGACGATCATCACGATCAC  2343797
+
+Query  2154606  GAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAA  2154647
+                 |  |||||||||||||| || ||||| | ||| || |||||
+Sbjct  2343796  AACGGGGTACTGGCTGCGGATCGCCTGCAGTCGGCTCGGAAA  2343755
+
+
+
+
+>Halalkalicoccus tibetensis JCM 11890 DNA, complete genome
+Sequence ID: AP043744.1 Length: 2933625
+Range 1: 627551 to 627653
+
+Score:74.3 bits(81), Expect:5e-07, 
+Identities:78/103(76%),  Gaps:0/103(0%), Strand: Plus/Minus
+
+Query  2154547  GCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATG  2154606
+                || || ||||| || || | |||||||||||  || |||||    ||||||||||  | |
+Sbjct  627653   GCGGTGGGAAGCGAGATGATCCAGAGGCTGATCATCGTATAGAGGATCATCACGATCACG  627594
+
+Query  2154607  AAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGA  2154649
+                || |||||||||||||| || ||||| |  || || || ||||
+Sbjct  627593   AAGGGGTACTGGCTGCGGATCGCCTGCAGCCGGCTCGGGAAGA  627551
+
+
+
+
+>Salinarchaeum laminariae strain R26 chromosome
+Sequence ID: CP096270.1 Length: 3169627
+Range 1: 2316278 to 2316405
+
+Score:73.4 bits(80), Expect:5e-07, 
+Identities:95/129(74%),  Gaps:2/129(1%), Strand: Plus/Minus
+
+Query  2154550  GTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAA  2154609
+                || || || || || | |||||||||  |||| ||  | |  | |||||||| |||||| 
+Sbjct  2316405  GTCGGGAGCGAGATGATCCAGAGGCTCGCGATCGTGAAGCAAACCATCACGAGGATGAAC  2316346
+
+Query  2154610  GGGTACTGGCTGCGAATTGCCTGTAATCG-ACTTGGAAAGAGTTGATACGCCGTTGAGTG  2154668
+                | ||||||||||||||| ||||| |  ||  |  |||| | || ||| |||||||  |||
+Sbjct  2316345  GAGTACTGGCTGCGAATCGCCTGAACGCGTCCCGGGAAGGTGTCGAT-CGCCGTTCCGTG  2316287
+
+Query  2154669  TGCGACCCA  2154677
+                 |||| |||
+Sbjct  2316286  AGCGAGCCA  2316278
+
+
+
+
+>Halopelagius fulvigenes JCM 17506 DNA, complete genome
+Sequence ID: AP043846.1 Length: 2905174
+Range 1: 439136 to 439437
+
+Score:72.5 bits(79), Expect:2e-06, 
+Identities:197/302(65%),  Gaps:0/302(0%), Strand: Plus/Minus
+
+Query  2154547  GCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATG  2154606
+                || || || || || || | |||||||||  ||   || || |||| ||| ||||| | |
+Sbjct  439437   GCCGTCGGTAGCGATATCAACCAGAGGCTCGCGGCGGTGTAGCCCACCATGACGAACACG  439378
+
+Query  2154607  AAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAG  2154666
+                || ||| ||||||| |  || ||||| |  ||||| || || ||  | || ||    |||
+Sbjct  439377   AACGGGAACTGGCTCCAGATGGCCTGCATCCGACTCGGGAACAGGCGGTAGGCGACGGAG  439318
+
+Query  2154667  TGTGCGACCCAAATTGCAATGAGATGTCCGACAAGAACAAAAACAATATTAAAAGCTGAA  2154726
+                || || ||||| |  || |  |  || ||| | || || || || || |  |  ||    
+Sbjct  439317   TGAGCCACCCAGACCGCCAGCACGTGGCCGCCGAGGACGAACACGATGTCGAGCGCGCCG  439258
+
+Query  2154727  ATCCAGGCTGGAAGCGTCAGTATAATCGGATTTGATGGTGGTGCAAACGGCGAGACAACT  2154786
+                | ||| |  || |||||||| |  | |||||| |  || || |  | ||||||  | || 
+Sbjct  439257   AACCACGACGGGAGCGTCAGCACCAGCGGATTCGCCGGGGGCGAGAGCGGCGACCCGACG  439198
+
+Query  2154787  GCGTCAAATAGCGATGGTGACAGTGATAGAAAGAACCCAACATAGTGTGCGAGATGATAT  2154846
+                 || | |  ||||| || | ||  || |  ||||| || |  ||||||||||| || || 
+Sbjct  439197   ACGGCGACGAGCGACGGGGCCAACGAGACGAAGAAGCCGAAGTAGTGTGCGAGGTGGTAG  439138
+
+Query  2154847  CC  2154848
+                ||
+Sbjct  439137   CC  439136
+
+
+
+
+>Haladaptatus sp. DYSN1 chromosome, complete genome
+Sequence ID: CP120470.1 Length: 3004792
+Range 1: 1403239 to 1403355
+
+Score:72.5 bits(79), Expect:2e-06, 
+Identities:86/117(74%),  Gaps:0/117(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||||| || || ||   ||||||||||  |||| | |||||||||||||| | 
+Sbjct  1403355  CCAGAGGCTGACCATGGTGTAGAACATCATCACGGCGATGTAGGGGTACTGGCTGCGCAC  1403296
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGC  2154683
+                 ||||| |||||    || || || |  || || || | ||| || ||||| || ||
+Sbjct  1403295  GGCCTGCAATCGTGACGGGAACAGGTCGTAGGCGGTGGCGTGGGCTACCCAGATGGC  1403239
+
+
+
+
+>Haladaptatus sp. QDMS2 chromosome, complete genome
+Sequence ID: CP119791.1 Length: 2952151
+Range 1: 1657545 to 1657661
+
+Score:72.5 bits(79), Expect:2e-06, 
+Identities:86/117(74%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||||| || || ||   ||||||||||  |||| | |||||||||||||| | 
+Sbjct  1657545  CCAGAGGCTGACCATGGTGTAGAACATCATCACGGCGATGTAGGGGTACTGGCTGCGCAC  1657604
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGC  2154683
+                 ||||| |||||    || || || |  || || || | ||| || ||||| || ||
+Sbjct  1657605  GGCCTGCAATCGTGACGGGAACAGGTCGTAGGCGGTGGCGTGGGCTACCCAGATGGC  1657661
+
+
+
+
+>Haladaptatus sp. YSMS36 chromosome, complete genome
+Sequence ID: CP119782.1 Length: 2938003
+Range 1: 936095 to 936211
+
+Score:72.5 bits(79), Expect:2e-06, 
+Identities:86/117(74%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||||| || || ||   ||||||||||  |||| | |||||||||||||| | 
+Sbjct  936095   CCAGAGGCTGACCATGGTGTAGAACATCATCACGGCGATGTAGGGGTACTGGCTGCGCAC  936154
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGC  2154683
+                 ||||| |||||    || || || |  || || || | ||| || ||||| || ||
+Sbjct  936155   GGCCTGCAATCGTGACGGGAACAGGTCGTAGGCGGTGGCGTGGGCTACCCAGATGGC  936211
+
+
+
+
+>Halorussus pelagicus strain RC-68 chromosome, complete genome
+Sequence ID: CP035119.1 Length: 3017361
+Range 1: 2345000 to 2345130
+
+Score:69.8 bits(76), Expect:6e-06, 
+Identities:96/132(73%),  Gaps:2/132(1%), Strand: Plus/Plus
+
+Query  2154567  CCAGAGGCT-GACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAA  2154625
+                ||||||||| ||| || |||||    | |||||||| || ||| |||||||||||  |||
+Sbjct  2345000  CCAGAGGCTCGAC-ATCGTATAGAGGACCATCACGACGACGAAGGGGTACTGGCTCTGAA  2345058
+
+Query  2154626  TTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAA  2154685
+                | ||||| || || |  || || |  |  |||||  | | |||||||||||| |  || |
+Sbjct  2345059  TCGCCTGCAACCGGCCGGGGAACACCTCGTACGCGCTCGCGTGTGCGACCCAGACCGCCA  2345118
+
+Query  2154686  TGAGATGTCCGA  2154697
+                  || |||||||
+Sbjct  2345119  GCAGGTGTCCGA  2345130
+
+
+
+
+>Halorientalis litorea strain ZY14 chromosome, complete genome
+Sequence ID: CP095482.1 Length: 2798302
+Range 1: 598049 to 598211
+
+Score:69.8 bits(76), Expect:6e-06, 
+Identities:113/163(69%),  Gaps:0/163(0%), Strand: Plus/Plus
+
+Query  2154535  AACGGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATC  2154594
+                |||||||| ||| |||| ||  | |  || | |||||||||  |||  || || |  | |
+Sbjct  598049   AACGGTGGCGTGACTGTCGGTTGCGTGATTATCCAGAGGCTCGCGACGGTGTAACAGACC  598108
+
+Query  2154595  ATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGA  2154654
+                |||||   |  ||  ||||||||||| || |  |||||||| || |  || || |  |  
+Sbjct  598109   ATCACCCCGGCGAGCGGGTACTGGCTACGGACGGCCTGTAACCGTCCGGGGAACACGTCG  598168
+
+Query  2154655  TACGCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGA  2154697
+                || ||||| | |||||||||||| || || |  || || ||||
+Sbjct  598169   TAGGCCGTCGCGTGTGCGACCCAGATGGCGAGCAGGTGGCCGA  598211
+
+
+
+
+>Halosolutus halophilus strain LT55 chromosome, complete genome
+Sequence ID: CP094974.1 Length: 5058678
+Range 1: 2336082 to 2336209
+
+Score:69.8 bits(76), Expect:6e-06, 
+Identities:92/128(72%),  Gaps:0/128(0%), Strand: Plus/Plus
+
+Query  2154550  GTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAA  2154609
+                || || || ||||  ||  |||||||||| || ||| |    |||||||||| |||||| 
+Sbjct  2336082  GTCGGCAGCGAAACGAGATAGAGGCTGACCATCGTAAAGAAGATCATCACGACGATGAAG  2336141
+
+Query  2154610  GGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGT  2154669
+                ||||||||||| || || ||||| | |   |  || |||||||   |||   | | ||| 
+Sbjct  2336142  GGGTACTGGCTACGGATCGCCTGCAGTTTTCCCGGGAAGAGTTCGAACGAGATCGTGTGG  2336201
+
+Query  2154670  GCGACCCA  2154677
+                ||||||||
+Sbjct  2336202  GCGACCCA  2336209
+
+
+
+
+>Halospeciosus flavus strain XZGYJ-43 plasmid unnamed1, complete sequence
+Sequence ID: CP122313.1 Length: 293292
+Range 1: 58183 to 58247
+
+Score:68.9 bits(75), Expect:2e-05, 
+Identities:54/65(83%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  2154565  AGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGA  2154624
+                |||||||| |||||||| || || || |||||||||| || ||| ||||||||||| || 
+Sbjct  58247    AGCCAGAGACTGACGATGGTGTACCCAATCATCACGAGGACGAATGGGTACTGGCTTCGG  58188
+
+Query  2154625  ATTGC  2154629
+                || ||
+Sbjct  58187    ATGGC  58183
+
+
+
+
+>Halosimplex aquaticum strain XZYJT29 chromosome, complete genome
+Sequence ID: CP118158.1 Length: 4824346
+Range 1: 848750 to 848854
+
+Score:68.9 bits(75), Expect:2e-05, 
+Identities:78/105(74%),  Gaps:0/105(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||  | || || || || |||||||||  |||||| |||||||||||||| ||
+Sbjct  848854   CCAGAGGCTCGCCATCGTGTAGCCGATCATCACGGCGATGAAGGGGTACTGGCTGCGGAT  848795
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGC  2154671
+                 ||||| |  || |  || ||||| |   |||| || | ||| ||
+Sbjct  848794   GGCCTGCAGGCGGCCGGGGAAGAGGTCGAACGCGGTGGCGTGGGC  848750
+
+
+
+
+>Halorussus halophilus strain ZS-3 chromosome, complete genome
+Sequence ID: CP044523.1 Length: 3636252
+Range 1: 2117053 to 2117139
+
+Score:68.0 bits(74), Expect:2e-05, 
+Identities:67/87(77%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  2154591  CATCATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAG  2154650
+                || |||||||| || ||| |||||||| |||||||  ||||| || ||||  || || | 
+Sbjct  2117053  CACCATCACGACGACGAAGGGGTACTGACTGCGAACCGCCTGCAAACGACCGGGGAACAC  2117112
+
+Query  2154651  TTGATACGCCGTTGAGTGTGCGACCCA  2154677
+                 |  || ||||| | ||||||||||||
+Sbjct  2117113  GTCGTATGCCGTGGCGTGTGCGACCCA  2117139
+
+
+
+
+>Halobacterium sp. NMX12-1 plasmid pNMX12-1_119, complete sequence
+Sequence ID: CP159206.1 Length: 119415
+Range 1: 85371 to 85542
+
+Score:68.0 bits(74), Expect:2e-05, 
+Identities:118/172(69%),  Gaps:0/172(0%), Strand: Plus/Minus
+
+Query  2154526  TATCCAACAAACGGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTA  2154585
+                || |||| | |||||||||| ||    |  || || | || |||||| ||||  |  |||
+Sbjct  85542    TACCCAAGATACGGTGGTGTCGCGCCAGCGAGGGAGAGAATCCAGAGACTGATCACCGTA  85483
+
+Query  2154586  TATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGA  2154645
+                ||||| |||||||| |  || || ||||||||||| ||||| ||    |  || || || 
+Sbjct  85482    TATCCGATCATCACAACAATAAACGGGTACTGGCTACGAATCGCGACGAGACGGCTCGGG  85423
+
+Query  2154646  AAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGA  2154697
+                || || |  ||||| |  |  |||||  |||| || || |  || || ||||
+Sbjct  85422    AACAGATCGTACGCGGCCGCATGTGCTTCCCAGATGGCGAGCAGGTGCCCGA  85371
+
+
+
+
+>Haloarcula montana strain GH36 chromosome, complete genome
+Sequence ID: CP142027.1 Length: 2975322
+Range 1: 2454426 to 2454557
+
+Score:68.0 bits(74), Expect:2e-05, 
+Identities:94/132(71%),  Gaps:0/132(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||||  || || ||| | | |||||||  ||| || ||||||||   ||| | 
+Sbjct  2454557  CCAGAGGCTGATCATCGTGTATGCGACCATCACGGCGATAAAGGGGTACTGCGAGCGGAC  2454498
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 ||||| |  || || || |||||||  || ||||  | ||| || ||||| || || | 
+Sbjct  2454497  CGCCTGGAGGCGGCTGGGGAAGAGTTCGTAGGCCGCCGCGTGGGCCACCCAGATCGCCAA  2454438
+
+Query  2154687  GAGATGTCCGAC  2154698
+                 || || |||||
+Sbjct  2454437  CAGGTGGCCGAC  2454426
+
+
+
+
+>Haloarcula halophila strain DFY41 chromosome, complete genome
+Sequence ID: CP119559.1 Length: 3038664
+Range 1: 980163 to 980294
+
+Score:68.0 bits(74), Expect:2e-05, 
+Identities:94/132(71%),  Gaps:0/132(0%), Strand: Plus/Plus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||||  || || ||| | | |||||||  ||| || ||||||||   ||| | 
+Sbjct  980163   CCAGAGGCTGATCATCGTGTATGCGACCATCACGGCGATAAAGGGGTACTGCGAGCGGAC  980222
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 ||||| |  || || || |||||||  || ||||  | ||| || ||||| || || | 
+Sbjct  980223   CGCCTGCAGACGGCTGGGGAAGAGTTCGTAGGCCGCCGCGTGGGCCACCCAGATCGCCAG  980282
+
+Query  2154687  GAGATGTCCGAC  2154698
+                 || || |||||
+Sbjct  980283   CAGGTGGCCGAC  980294
+
+
+
+
+>Halorientalis sp. IM1011 chromosome, complete genome
+Sequence ID: CP019067.1 Length: 3381613
+Range 1: 2780379 to 2780527
+
+Score:67.1 bits(73), Expect:7e-05, 
+Identities:104/149(70%),  Gaps:0/149(0%), Strand: Plus/Minus
+
+Query  2154535  AACGGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATC  2154594
+                ||||| || ||| |  | ||  |||| |  | |||||| ||||| || || || |  | |
+Sbjct  2780527  AACGGGGGAGTGACGCTCGGTTGTGAGACGATCCAGAGACTGACCATGGTGTAACAGACC  2780468
+
+Query  2154595  ATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGA  2154654
+                ||||| | | |||| | |||||||||||| || ||||| | ||| |  || ||| | |  
+Sbjct  2780467  ATCACCAGGGTGAACGTGTACTGGCTGCGGATGGCCTGGAGTCGCCCGGGGAAGCGGTCG  2780408
+
+Query  2154655  TACGCCGTTGAGTGTGCGACCCAAATTGC  2154683
+                 | ||||  | ||| |||||||| || ||
+Sbjct  2780407  AAGGCCGCGGCGTGGGCGACCCAGATCGC  2780379
+
+
+
+
+>Haloprofundus salilacus strain Gai1-5 chromosome unnamed1, complete sequence
+Sequence ID: CP083723.1 Length: 3239131
+Range 1: 1675792 to 1675937
+
+Score:67.1 bits(73), Expect:7e-05, 
+Identities:103/146(71%),  Gaps:1/146(0%), Strand: Plus/Plus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||||  || || ||   || |||||||| | |||    |||||||||| | ||
+Sbjct  1675792  CCAGAGGCTGATCATCGTGTACAGCACCATCACGACGGTGACGCCGTACTGGCTGTGTAT  1675851
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 ||||| |  ||    |||||||| |  |||||||  | ||| |||||||| |  || | 
+Sbjct  1675852  CGCCTGCAGGCGGTCGGGAAAGAGCTCGTACGCCGCCGCGTGGGCGACCCAGACGGCGAC  1675911
+
+Query  2154687  GAGATGTCCGACAAGAACAAA-AACA  2154711
+                ||| || || |  || ||||| ||||
+Sbjct  1675912  GAGGTGGCCCAAGAGGACAAAGAACA  1675937
+
+
+
+
+>Haloprofundus salinisoli strain SQT7-1 chromosome, complete genome
+Sequence ID: CP083663.1 Length: 3017014
+Range 1: 241142 to 241270
+
+Score:67.1 bits(73), Expect:7e-05, 
+Identities:92/129(71%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||||| || || ||   || |||||||| | |||    ||| |||||| | ||
+Sbjct  241142   CCAGAGGCTGACCATCGTGTACAGCACCATCACGACGGTGACGCCGTATTGGCTGTGGAT  241201
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 || || |  ||    ||||| ||||  |||||||  | ||| |||||||| |  || ||
+Sbjct  241202   GGCTTGGAGGCGGTCGGGAAACAGTTCGTACGCCGCCGCGTGAGCGACCCAGACAGCGAT  241261
+
+Query  2154687  GAGATGTCC  2154695
+                ||| |||||
+Sbjct  241262   GAGGTGTCC  241270
+
+
+
+
+>Haloarchaeobius amylolyticus JCM 18642 DNA, complete genome
+Sequence ID: AP043858.1 Length: 3500527
+Range 1: 3237016 to 3237146
+
+Score:66.2 bits(72), Expect:7e-05, 
+Identities:93/131(71%),  Gaps:0/131(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                ||| |||||  | || || ||   || |||||||  |||||| ||||||||||| || | 
+Sbjct  3237146  CCACAGGCTCGCCATCGTGTACAGCACCATCACGCCGATGAAGGGGTACTGGCTCCGGAC  3237087
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 ||||| |  || || || ||||| |  || ||||  | ||| |||||||| || || | 
+Sbjct  3237086  CGCCTGCAGCCGGCTCGGGAAGAGGTCGTAGGCCGCGGCGTGGGCGACCCAGATGGCGAG  3237027
+
+Query  2154687  GAGATGTCCGA  2154697
+                 || || ||||
+Sbjct  3237026  CAGGTGGCCGA  3237016
+
+
+
+
+>Halosimplex rarum strain TS25 chromosome, complete genome
+Sequence ID: CP180412.1 Length: 4585890
+Range 1: 538006 to 538111
+
+Score:66.2 bits(72), Expect:7e-05, 
+Identities:78/106(74%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||  | || || || || ||||| |||  |||||| || ||||||||||| ||
+Sbjct  538111   CCAGAGGCTCGCCATCGTGTAACCGATCATGACGGCGATGAAGGGATACTGGCTGCGGAT  538052
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCG  2154672
+                 ||||| |  || |  || ||||| |   ||||||| | ||| |||
+Sbjct  538051   GGCCTGCAGGCGGCCGGGGAAGAGGTCGAACGCCGTCGCGTGGGCG  538006
+
+
+
+
+>Halorussus caseinilyticus strain DT72 chromosome, complete genome
+Sequence ID: CP119809.1 Length: 3483401
+Range 1: 872233 to 872343
+
+Score:66.2 bits(72), Expect:7e-05, 
+Identities:81/111(73%),  Gaps:0/111(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||| |||   || || ||   || |||||||| || ||| ||||||||||| || | 
+Sbjct  872343   CCAGAGACTGGTCATGGTGTACAGCACCATCACGACGACGAAGGGGTACTGGCTCCGGAC  872284
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCA  2154677
+                |||||| || || |  ||||| | ||  |||||  | | ||| ||||||||
+Sbjct  872283   TGCCTGCAACCGGCCCGGAAACACTTCGTACGCGCTCGCGTGCGCGACCCA  872233
+
+
+
+
+>Salinigranum marinum strain ZS-10 chromosome, complete genome
+Sequence ID: CP100461.1 Length: 4002753
+Range 1: 2442802 to 2442942
+
+Score:66.2 bits(72), Expect:7e-05, 
+Identities:99/141(70%),  Gaps:0/141(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||    || || ||  | ||||| |||| || ||| |||||||||||||| ||
+Sbjct  2442942  CCAGAGGCTCGTCATCGTGTAGACGATCATGACGACGACGAACGGGTACTGGCTGCGGAT  2442883
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 | ||| |  || |  || |||||||   |||||   | |||||| ||||| |  || | 
+Sbjct  2442882  GGGCTGGAGCCGTCCGGGGAAGAGTTCGAACGCCCGGGCGTGTGCCACCCAGACCGCGAG  2442823
+
+Query  2154687  GAGATGTCCGACAAGAACAAA  2154707
+                ||| || ||| | | ||| ||
+Sbjct  2442822  GAGGTGGCCGGCGACAACGAA  2442802
+
+
+
+
+>Haladaptatus halobius strain PSR5 chromosome 1, complete sequence
+Sequence ID: CP085335.1 Length: 2874036
+Range 1: 1489587 to 1489692
+
+Score:66.2 bits(72), Expect:7e-05, 
+Identities:78/106(74%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  2154592  ATCATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGT  2154651
+                |||||||||   | || |||||||||||| ||||  ||||| | ||| |  |||||||| 
+Sbjct  1489587  ATCATCACGGCCACGAGAGGGTACTGGCTCCGAACCGCCTGCAGTCGCCCCGGAAAGAGG  1489646
+
+Query  2154652  TGATACGCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGA  2154697
+                |  || ||||| | ||| || ||||| | ||| |  || || ||||
+Sbjct  1489647  TCGTAGGCCGTCGCGTGAGCCACCCACACTGCGAGCAGGTGACCGA  1489692
+
+
+
+
+>Salinarchaeum chitinilyticum JCM 19597 DNA, complete genome
+Sequence ID: AP043888.1 Length: 3176664
+Range 1: 3172 to 3299
+
+Score:64.4 bits(70), Expect:3e-04, 
+Identities:93/129(72%),  Gaps:2/129(1%), Strand: Plus/Minus
+
+Query  2154550  GTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAA  2154609
+                ||||| || || || | |||||||||  |||| ||  | | || ||||||||  ||||| 
+Sbjct  3299     GTTGGCAGCGAGATGATCCAGAGGCTCGCGATCGTGAAGCACACCATCACGAGAATGAAC  3240
+
+Query  2154610  GGGTACTGGCTGCGAATTGCCTGTAATCG-ACTTGGAAAGAGTTGATACGCCGTTGAGTG  2154668
+                |  ||||||||||| || ||||| |  ||  |  |||| | || ||| ||||||   |||
+Sbjct  3239     GAATACTGGCTGCGGATCGCCTGCACCCGCCCCGGGAAGGTGTCGAT-CGCCGTGCCGTG  3181
+
+Query  2154669  TGCGACCCA  2154677
+                 |||| |||
+Sbjct  3180     AGCGAGCCA  3172
+
+
+
+
+>Haladaptatus sp. SPP-AMP-3 plasmid unnamed2, complete sequence
+Sequence ID: CP145897.1 Length: 3058531
+Range 1: 154483 to 154594
+
+Score:64.4 bits(70), Expect:3e-04, 
+Identities:82/112(73%),  Gaps:1/112(0%), Strand: Plus/Plus
+
+Query  2154592  ATCATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGT  2154651
+                ||||| |||  || ||  || ||||| || || || ||||||||||| || ||||| |  
+Sbjct  154483   ATCATTACGGCGACGAGCGGATACTGACTCCGTATCGCCTGTAATCGGCTCGGAAACACG  154542
+
+Query  2154652  TGATACGCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGA-CAAGA  2154702
+                |  |||||||| | ||| || ||||| |  || | ||| || |||| |||||
+Sbjct  154543   TCGTACGCCGTGGCGTGAGCCACCCATACCGCGAGGAGGTGACCGAGCAAGA  154594
+
+
+
+
+>Haladaptatus sp. DJG-WS-42 chromosome
+Sequence ID: CP147243.1 Length: 2782431
+Range 1: 2446113 to 2446247
+
+Score:64.4 bits(70), Expect:3e-04, 
+Identities:95/135(70%),  Gaps:0/135(0%), Strand: Plus/Minus
+
+Query  2154561  AATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCT  2154620
+                || || ||||||||| || || || ||   |||||||||   |||| | |||||||||||
+Sbjct  2446247  AACAATCCAGAGGCTAACCATCGTGTAGAACATCATCACAGCGATGTAGGGGTACTGGCT  2446188
+
+Query  2154621  GCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAAT  2154680
+                 |  || || || || ||    ||||| || |  || || || | ||| || ||||||||
+Sbjct  2446187  CCTGATGGCTTGCAACCGGGAAGGAAACAGGTCGTAGGCGGTCGCGTGGGCCACCCAAAT  2446128
+
+Query  2154681  TGCAATGAGATGTCC  2154695
+                 || | ||| || ||
+Sbjct  2446127  CGCGACGAGGTGGCC  2446113
+
+
+
+
+>Natrononativus amylolyticus strain CGA73 plasmid unnamed2, complete sequence
+Sequence ID: CP101460.1 Length: 240954
+Range 1: 155650 to 155729
+
+Score:64.4 bits(70), Expect:3e-04, 
+Identities:62/80(78%),  Gaps:0/80(0%), Strand: Plus/Plus
+
+Query  2154553  GGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGG  2154612
+                ||||| || |  |||||||||||||     || || || ||||| |||  |||||| |||
+Sbjct  155650   GGAAGCGAGAGCAGCCAGAGGCTGAGCGCGGTGTAGCCGATCATGACGGCGATGAACGGG  155709
+
+Query  2154613  TACTGGCTGCGAATTGCCTG  2154632
+                |||||||| ||||| |||||
+Sbjct  155710   TACTGGCTTCGAATCGCCTG  155729
+
+
+
+
+>Haloprofundus sp. MHR1 chromosome, complete genome
+Sequence ID: CP039833.1 Length: 3051700
+Range 1: 2552111 to 2552244
+
+Score:63.5 bits(69), Expect:9e-04, 
+Identities:96/136(71%),  Gaps:2/136(1%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||||| || || ||   || |||||||| | |||    |||||||||| | ||
+Sbjct  2552244  CCAGAGGCTGACTATCGTGTACAGCACCATCACGACGGTGACGCCGTACTGGCTGTGGAT  2552185
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 ||||| |  ||    ||||| ||||  ||||||   | ||| |||||||| |  || | 
+Sbjct  2552184  GGCCTGCAGACGGTCGGGAAACAGTTCGTACGCCACCGCGTGGGCGACCCAGACGGCGAC  2552125
+
+Query  2154687  GAGATGTCCGACAAGA  2154702
+                ||| || ||  |||||
+Sbjct  2552124  GAGGTGGCC--CAAGA  2552111
+
+
+
+
+>Haloarcula pelagica strain YJ-61-S chromosome, complete genome
+Sequence ID: CP126161.1 Length: 3529922
+Range 1: 2910617 to 2910748
+
+Score:63.5 bits(69), Expect:9e-04, 
+Identities:93/132(70%),  Gaps:0/132(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||||  || || ||    | ||| |||  |||||| ||||||||   ||| ||
+Sbjct  2910748  CCAGAGGCTGATCATCGTGTAGAGGACCATGACGGCGATGAAGGGGTACTGCGAGCGGAT  2910689
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 ||||| |  || || ||||| ||||  || ||||  | ||| || ||||| || || | 
+Sbjct  2910688  GGCCTGGAGCCGGCTCGGAAACAGTTCGTAGGCCGCGGCGTGGGCCACCCAGATCGCGAG  2910629
+
+Query  2154687  GAGATGTCCGAC  2154698
+                 || || |||||
+Sbjct  2910628  CAGGTGGCCGAC  2910617
+
+
+
+
+>Halobacterium hubeiense strain JI20-1 genome assembly, plasmid: pSTJ003
+Sequence ID: LN831305.1 Length: 112459
+Range 1: 49785 to 49946
+
+Score:63.5 bits(69), Expect:9e-04, 
+Identities:111/162(69%),  Gaps:0/162(0%), Strand: Plus/Minus
+
+Query  2154536  ACGGTGGTGTGGCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCA  2154595
+                |||||||||| ||    |  || || | || |||||| ||||  |  |||||||| ||||
+Sbjct  49946    ACGGTGGTGTCGCGCCAGCGAGGGAGAGAATCCAGAGACTGATCACCGTATATCCGATCA  49887
+
+Query  2154596  TCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGAT  2154655
+                |||| |  || || ||||||||||| ||||| ||    |  || || || || || |  |
+Sbjct  49886    TCACAACAATAAACGGGTACTGGCTACGAATCGCGACGAGACGGCTCGGGAACAGATCGT  49827
+
+Query  2154656  ACGCCGTTGAGTGTGCGACCCAAATTGCAATGAGATGTCCGA  2154697
+                |||| |  |  |||||  |||| || || |  || || ||||
+Sbjct  49826    ACGCGGCCGCATGTGCTTCCCAGATGGCGAGCAGGTGCCCGA  49785
+
+
+
+
+>Halobacterium sp. BOL4-2 chromosome, complete genome
+Sequence ID: CP070332.2 Length: 1989773
+Range 1: 671715 to 671781
+
+Score:63.5 bits(69), Expect:9e-04, 
+Identities:54/67(81%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  2154554  GAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGT  2154613
+                |||| || |  ||||| ||||||||||  || ||||| ||||||||||  | ||| ||||
+Sbjct  671781   GAAGCGACAGCAGCCACAGGCTGACGACGGTGTATCCGATCATCACGAGCACGAACGGGT  671722
+
+Query  2154614  ACTGGCT  2154620
+                |||||||
+Sbjct  671721   ACTGGCT  671715
+
+
+
+
+>Halocatena marina strain RDMS1 chromosome, complete genome
+Sequence ID: CP110249.1 Length: 3934123
+Range 1: 151412 to 151505
+
+Score:62.6 bits(68), Expect:9e-04, 
+Identities:70/94(74%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  2154592  ATCATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGT  2154651
+                ||||| |||| |||||  || |||||||| ||||| |  || | ||| |  | |||||||
+Sbjct  151412   ATCATGACGACGATGAGTGGATACTGGCTACGAATCGGTTGCAGTCGCCCCGAAAAGAGT  151471
+
+Query  2154652  TGATACGCCGTTGAGTGTGCGACCCAAATTGCAA  2154685
+                |   |||| || | |||||||||||| |  ||||
+Sbjct  151472   TCGAACGCGGTCGCGTGTGCGACCCAGACGGCAA  151505
+
+
+
+
+>Halocatena marina strain QDMS1 chromosome, complete genome
+Sequence ID: CP109979.1 Length: 3881378
+Range 1: 3840600 to 3840693
+
+Score:62.6 bits(68), Expect:9e-04, 
+Identities:70/94(74%),  Gaps:0/94(0%), Strand: Plus/Minus
+
+Query  2154592  ATCATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGT  2154651
+                ||||| |||| |||||  || |||||||| ||||| |  || | ||| |  | |||||||
+Sbjct  3840693  ATCATGACGACGATGAGTGGATACTGGCTACGAATCGGTTGCAGTCGCCCCGAAAAGAGT  3840634
+
+Query  2154652  TGATACGCCGTTGAGTGTGCGACCCAAATTGCAA  2154685
+                |   |||| || | |||||||||||| |  ||||
+Sbjct  3840633  TCGAACGCGGTCGCGTGTGCGACCCAGACGGCAA  3840600
+
+
+
+
+>Halocatena marina strain DFN5 chromosome, complete genome
+Sequence ID: CP109785.1 Length: 3915224
+Range 1: 324400 to 324493
+
+Score:62.6 bits(68), Expect:9e-04, 
+Identities:70/94(74%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  2154592  ATCATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGT  2154651
+                ||||| |||| |||||  || |||||||| ||||| |  || | ||| |  | |||||||
+Sbjct  324400   ATCATGACGACGATGAGTGGATACTGGCTACGAATCGGTTGCAGTCGCCCCGAAAAGAGT  324459
+
+Query  2154652  TGATACGCCGTTGAGTGTGCGACCCAAATTGCAA  2154685
+                |   |||| || | |||||||||||| |  ||||
+Sbjct  324460   TCGAACGCGGTCGCGTGTGCGACCCAGACGGCAA  324493
+
+
+
+
+>Halosolutus gelatinilyticus strain SQT-29-1 chromosome, complete genome
+Sequence ID: CP095491.1 Length: 3906818
+Range 1: 78190 to 78298
+
+Score:62.6 bits(68), Expect:9e-04, 
+Identities:79/109(72%),  Gaps:0/109(0%), Strand: Plus/Plus
+
+Query  2154569  AGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAATTG  2154628
+                |||||||||  || ||| |    ||||||||||  ||||| |||||||||||||| || |
+Sbjct  78190    AGAGGCTGATCATCGTAAAGGAGATCATCACGACAATGAAGGGGTACTGGCTGCGGATCG  78249
+
+Query  2154629  CCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCA  2154677
+                |||| |     |  ||||||||||   |||   | | ||| ||||||||
+Sbjct  78250    CCTGGAGCTTTCCGGGAAAGAGTTCGAACGAGATCGTGTGGGCGACCCA  78298
+
+
+
+
+>Natribaculum breve strain TRM20010 chromosome, complete genome
+Sequence ID: CP095390.1 Length: 3337253
+Range 1: 3264099 to 3264231
+
+Score:62.6 bits(68), Expect:9e-04, 
+Identities:96/136(71%),  Gaps:6/136(4%), Strand: Plus/Minus
+
+Query  2154571  AGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCC  2154630
+                ||||| ||||| ||| |    |||||||||| ||| |  |||||||||||||| || |||
+Sbjct  3264231  AGGCTCACGATCGTAAAGAAGATCATCACGACGATCAGCGGGTACTGGCTGCGGATCGCC  3264172
+
+Query  2154631  TGTAATCGACTTGGAAAGAGTTGATACG---CCGTTGAGTGTGCGACCCAAATTGCAATG  2154687
+                || |  || |  || |||||||   |||   ||||   |||||||| ||| |  || | |
+Sbjct  3264171  TGGAGACGTCCCGGGAAGAGTTCGAACGAGACCGT---GTGTGCGATCCAGACGGCGAGG  3264115
+
+Query  2154688  AGATGTCCGACAAGAA  2154703
+                |  || ||||  ||||
+Sbjct  3264114  ACGTGGCCGAGGAGAA  3264099
+
+
+
+
+>Salinarchaeum sp. Harcht-Bsk1, complete genome
+Sequence ID: CP005962.1 Length: 3255260
+Range 1: 3219906 to 3220057
+
+Score:62.6 bits(68), Expect:9e-04, 
+Identities:107/153(70%),  Gaps:2/153(1%), Strand: Plus/Minus
+
+Query  2154550  GTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAA  2154609
+                || || || || || | |||||| ||  |||| ||  |  | | ||| |||| |||||| 
+Sbjct  3220057  GTCGGGAGCGAGATGATCCAGAGACTCGCGATGGTGAACGCGACCATGACGAGGATGAAC  3219998
+
+Query  2154610  GGGTACTGGCTGCGAATTGCCTGTAATCGA-CTTGGAAAGAGTTGATACGCCGTTGAGTG  2154668
+                ||||||||||| || || ||||| |  ||| |  |||| | || ||| ||||||   |||
+Sbjct  3219997  GGGTACTGGCTCCGGATCGCCTGCACGCGACCGGGGAACGTGTCGAT-CGCCGTGCCGTG  3219939
+
+Query  2154669  TGCGACCCAAATTGCAATGAGATGTCCGACAAG  2154701
+                 |||| ||| |  || | ||  || ||||| ||
+Sbjct  3219938  AGCGAGCCAGACGGCGAGGACGTGCCCGACCAG  3219906
+
+
+
+
+>Halorhabdus sp. CBA1104 chromosome, complete genome
+Sequence ID: CP033878.1 Length: 2628395
+Range 1: 1195739 to 1195876
+
+Score:60.8 bits(66), Expect:0.003, 
+Identities:96/138(70%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                ||||||||||   || |||||   || ||||||   |||||| ||||||||||| || ||
+Sbjct  1195876  CCAGAGGCTGGTCATCGTATACAGCACCATCACCGCGATGAAGGGGTACTGGCTTCGGAT  1195817
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 ||||| || || |  || || |  |   | || || | ||| |||| ||| || |||| 
+Sbjct  1195816  CGCCTGCAAGCGGCCCGGGAATAACTCGAAGGCGGTCGCGTGGGCGATCCAGATCGCAAG  1195757
+
+Query  2154687  GAGATGTCCGACAAGAAC  2154704
+                 || || ||  |||| ||
+Sbjct  1195756  CAGGTGGCCCGCAAGGAC  1195739
+
+
+
+
+>Halorhabdus sp. BNX81 chromosome, complete genome
+Sequence ID: CP107254.1 Length: 2828981
+Range 1: 1270023 to 1270160
+
+Score:60.8 bits(66), Expect:0.003, 
+Identities:96/138(70%),  Gaps:0/138(0%), Strand: Plus/Plus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||    || || ||  | | |||||| | | |||| ||||||||||| || ||
+Sbjct  1270023  CCAGAGGCTCGTCATCGTGTAGGCGACCATCACCAGGGTGAAGGGGTACTGGCTCCGGAT  1270082
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 ||||| |  || |  ||||| || | | | || | || ||| |||| ||| || || | 
+Sbjct  1270083  GGCCTGCAGACGGCCGGGAAACAGGTCAAAGGCAGCTGCGTGGGCGATCCAGATCGCCAG  1270142
+
+Query  2154687  GAGATGTCCGACAAGAAC  2154704
+                 ||||| ||| | || ||
+Sbjct  1270143  CAGATGGCCGGCCAGCAC  1270160
+
+
+
+
+>Uncultured prokaryote clone DeadSea1_IOBCFE001_03-E08-Rev genomic sequence
+Sequence ID: GQ447176.1 Length: 873
+Range 1: 513 to 595
+
+Score:60.8 bits(66), Expect:0.003, 
+Identities:63/83(76%),  Gaps:0/83(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                ||||||||| || || || ||    |||||||||  ||| || |||||||||||||||| 
+Sbjct  595      CCAGAGGCTTACCATCGTGTAGAGGATCATCACGGCGATAAACGGGTACTGGCTGCGAAG  536
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGA  2154649
+                 ||||| |  ||||  || ||||
+Sbjct  535      CGCCTGGAGGCGACCCGGGAAGA  513
+
+
+
+
+>Salinigranum rubrum strain GX10 chromosome, complete genome
+Sequence ID: CP026309.1 Length: 4250563
+Range 1: 627453 to 627582
+
+Score:59.9 bits(65), Expect:0.011, 
+Identities:91/130(70%),  Gaps:0/130(0%), Strand: Plus/Plus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||    || || ||  | |||||||||| || ||| ||||||||||| |||||
+Sbjct  627453   CCAGAGGCTCGTCATCGTGTAGACGATCATCACGACGACGAACGGGTACTGGCTCCGAAT  627512
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 | ||| |  || |  || || ||||   ||||    | ||| |||||||| |  || | 
+Sbjct  627513   GGGCTGGAGCCGTCCGGGGAACAGTTCGAACGCGCGGGCGTGGGCGACCCACACGGCCAG  627572
+
+Query  2154687  GAGATGTCCG  2154696
+                ||| || |||
+Sbjct  627573   GAGGTGACCG  627582
+
+
+
+
+>Halorarius halobius strain ZY10 chromosome, complete genome
+Sequence ID: CP101161.1 Length: 3743174
+Range 1: 1707124 to 1707183
+
+Score:59.9 bits(65), Expect:0.011, 
+Identities:49/60(82%),  Gaps:0/60(0%), Strand: Plus/Plus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                ||||||||||||  | || ||  |||||||||||| || ||| ||||||||||| || ||
+Sbjct  1707124  CCAGAGGCTGACCGTCGTGTAGGCCATCATCACGACGACGAACGGGTACTGGCTCCGGAT  1707183
+
+
+
+
+>Halobacterium salinarum strain 91-R6 chromosome, complete genome
+Sequence ID: CP038631.1 Length: 2178608
+Range 1: 1022110 to 1022176
+
+Score:59.0 bits(64), Expect:0.011, 
+Identities:53/67(79%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  2154554  GAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGT  2154613
+                |||| || |  ||||| ||||||||||  || || || ||||||||||  | ||| ||||
+Sbjct  1022176  GAAGCGACAGCAGCCACAGGCTGACGACGGTGTACCCGATCATCACGAGCACGAACGGGT  1022117
+
+Query  2154614  ACTGGCT  2154620
+                |||||||
+Sbjct  1022116  ACTGGCT  1022110
+
+
+
+
+>Halobacterium salinarum strain KBTZ01 chromosome, complete genome
+Sequence ID: CP128377.3 Length: 1959163
+Range 1: 959565 to 959631
+
+Score:59.0 bits(64), Expect:0.011, 
+Identities:53/67(79%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  2154554  GAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGT  2154613
+                |||| || |  ||||| ||||||||||  || || || ||||||||||  | ||| ||||
+Sbjct  959631   GAAGCGACAGCAGCCACAGGCTGACGACGGTGTACCCGATCATCACGAGCACGAACGGGT  959572
+
+Query  2154614  ACTGGCT  2154620
+                |||||||
+Sbjct  959571   ACTGGCT  959565
+
+
+
+
+>Halobacterium salinarum strain KBTZ02 chromosome, complete genome
+Sequence ID: CP148056.1 Length: 1959251
+Range 1: 959653 to 959719
+
+Score:59.0 bits(64), Expect:0.011, 
+Identities:53/67(79%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  2154554  GAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGT  2154613
+                |||| || |  ||||| ||||||||||  || || || ||||||||||  | ||| ||||
+Sbjct  959719   GAAGCGACAGCAGCCACAGGCTGACGACGGTGTACCCGATCATCACGAGCACGAACGGGT  959660
+
+Query  2154614  ACTGGCT  2154620
+                |||||||
+Sbjct  959659   ACTGGCT  959653
+
+
+
+
+>Salinibaculum marinum strain SYNS191 chromosome, complete genome
+Sequence ID: CP147838.1 Length: 3942322
+Range 1: 3524710 to 3524851
+
+Score:59.0 bits(64), Expect:0.011, 
+Identities:98/142(69%),  Gaps:0/142(0%), Strand: Plus/Minus
+
+Query  2154562  ATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTG  2154621
+                |||| ||| |||||    || || ||   || ||||||   |||| | ||||||||||| 
+Sbjct  3524851  ATAATCCACAGGCTAGTCATCGTGTAGAACACCATCACCGCGATGTAGGGGTACTGGCTC  3524792
+
+Query  2154622  CGAATTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATT  2154681
+                ||||| ||||| |  || |  || ||||  |  || || || | ||| ||| |||| || 
+Sbjct  3524791  CGAATCGCCTGCAGGCGGCCGGGGAAGATGTCGTAGGCGGTGGTGTGGGCGGCCCAGATG  3524732
+
+Query  2154682  GCAATGAGATGTCCGACAAGAA  2154703
+                || | ||  || ||||| ||||
+Sbjct  3524731  GCGAGGACGTGGCCGACGAGAA  3524710
+
+
+
+
+>Halobacterium salinarum strain KBTZ03 chromosome, complete genome
+Sequence ID: CP146625.1 Length: 1969683
+Range 1: 962959 to 963025
+
+Score:59.0 bits(64), Expect:0.011, 
+Identities:53/67(79%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  2154554  GAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGT  2154613
+                |||| || |  ||||| ||||||||||  || || || ||||||||||  | ||| ||||
+Sbjct  963025   GAAGCGACAGCAGCCACAGGCTGACGACGGTGTACCCGATCATCACGAGCACGAACGGGT  962966
+
+Query  2154614  ACTGGCT  2154620
+                |||||||
+Sbjct  962965   ACTGGCT  962959
+
+
+
+
+>Natribaculum longum strain TRM20345 chromosome, complete genome
+Sequence ID: CP095394.1 Length: 3395034
+Range 1: 3326361 to 3326442
+
+Score:59.0 bits(64), Expect:0.011, 
+Identities:62/82(76%),  Gaps:0/82(0%), Strand: Plus/Minus
+
+Query  2154571  AGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAATTGCC  2154630
+                ||||| ||||| ||| |    |||||||||| ||| |  |||||||||||||| || |||
+Sbjct  3326442  AGGCTCACGATCGTAAAGAAGATCATCACGACGATCAGCGGGTACTGGCTGCGGATCGCC  3326383
+
+Query  2154631  TGTAATCGACTTGGAAAGAGTT  2154652
+                || |  || |  || |||||||
+Sbjct  3326382  TGGAGACGTCCCGGGAAGAGTT  3326361
+
+
+
+
+>Halobacterium salinarum NRC-34001 chromosome, complete genome
+Sequence ID: CP085882.1 Length: 2012898
+Range 1: 694604 to 694670
+
+Score:59.0 bits(64), Expect:0.011, 
+Identities:53/67(79%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  2154554  GAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGT  2154613
+                |||| || |  ||||| ||||||||||  || || || ||||||||||  | ||| ||||
+Sbjct  694670   GAAGCGACAGCAGCCACAGGCTGACGACGGTGTACCCGATCATCACGAGCACGAACGGGT  694611
+
+Query  2154614  ACTGGCT  2154620
+                |||||||
+Sbjct  694610   ACTGGCT  694604
+
+
+
+
+>Halobacterium sp. GSL-19 chromosome, complete genome
+Sequence ID: CP070377.1 Length: 1987132
+Range 1: 636306 to 636372
+
+Score:59.0 bits(64), Expect:0.011, 
+Identities:53/67(79%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  2154554  GAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGT  2154613
+                |||| || |  ||||| ||||||||||  || || || ||||||||||  | ||| ||||
+Sbjct  636372   GAAGCGACAGCAGCCACAGGCTGACGACGGTGTACCCGATCATCACGAGCACGAACGGGT  636313
+
+Query  2154614  ACTGGCT  2154620
+                |||||||
+Sbjct  636312   ACTGGCT  636306
+
+
+
+
+>Halobacterium salinarum R1 complete genome
+Sequence ID: AM774415.1 Length: 2000962
+Range 1: 682823 to 682889
+
+Score:59.0 bits(64), Expect:0.011, 
+Identities:53/67(79%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  2154554  GAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGT  2154613
+                |||| || |  ||||| ||||||||||  || || || ||||||||||  | ||| ||||
+Sbjct  682889   GAAGCGACAGCAGCCACAGGCTGACGACGGTGTACCCGATCATCACGAGCACGAACGGGT  682830
+
+Query  2154614  ACTGGCT  2154620
+                |||||||
+Sbjct  682829   ACTGGCT  682823
+
+
+
+
+>TPA_inf: Halobacterium salinarum NRC-1
+Sequence ID: BK010829.1 Length: 2014239
+>Halobacterium sp. NRC-1, complete genome
+Sequence ID: AE004437.1 Length: 2014239 
+Range 1: 691548 to 691614
+
+Score:59.0 bits(64), Expect:0.011, 
+Identities:53/67(79%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  2154554  GAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGT  2154613
+                |||| || |  ||||| ||||||||||  || || || ||||||||||  | ||| ||||
+Sbjct  691614   GAAGCGACAGCAGCCACAGGCTGACGACGGTGTACCCGATCATCACGAGCACGAACGGGT  691555
+
+Query  2154614  ACTGGCT  2154620
+                |||||||
+Sbjct  691554   ACTGGCT  691548
+
+
+
+
+>Natronobiforma cellulositropha JCM 31939 DNA, complete genome
+Sequence ID: AP043950.1 Length: 3826460
+Range 1: 760783 to 760931
+
+Score:58.1 bits(63), Expect:0.038, 
+Identities:102/149(68%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  2154547  GCTGTTGGAAGTGAAATAAGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATG  2154606
+                ||||  || || || |  ||||||||||| || || ||  | |  |||||||| |  || 
+Sbjct  760783   GCTGCGGGCAGCGAGACGAGCCAGAGGCTCACCATGGTGAAACAGATCATCACCAGAATA  760842
+
+Query  2154607  AAAGGGTACTGGCTGCGAATTGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAG  2154666
+                || || |||||||| || || ||||| | ||  |  ||||||||||   |||   | | |
+Sbjct  760843   AACGGATACTGGCTACGGATCGCCTGCAGTCTGCCCGGAAAGAGTTCGAACGAGATGGTG  760902
+
+Query  2154667  TGTGCGACCCAAATTGCAATGAGATGTCC  2154695
+                || |||| ||| |  || | ||  |||||
+Sbjct  760903   TGAGCGATCCAGACGGCGAGGATGTGTCC  760931
+
+
+
+
+>Halapricum salinum strain CBA1105 chromosome, complete genome
+Sequence ID: CP031310.1 Length: 3452056
+Range 1: 612561 to 612699
+
+Score:58.1 bits(63), Expect:0.038, 
+Identities:96/139(69%),  Gaps:0/139(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                ||||||||||   || || ||  | | ||| ||||   || | ||||||||||| || ||
+Sbjct  612699   CCAGAGGCTGGACATGGTGTAGACGACCATGACGACAGTGTAGGGGTACTGGCTTCGGAT  612640
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 ||||| |  || |  |||||||| |   ||||||| | ||| ||  |||| || || | 
+Sbjct  612639   GGCCTGCAGCCGTCCGGGAAAGAGGTCGAACGCCGTCGCGTGGGCAGCCCAGATCGCGAG  612580
+
+Query  2154687  GAGATGTCCGACAAGAACA  2154705
+                ||  || ||||  || |||
+Sbjct  612579   GACGTGGCCGAGCAGGACA  612561
+
+
+
+
+>Natronococcus wangiae strain AD-5 chromosome, complete genome
+Sequence ID: CP132294.1 Length: 4145149
+Range 1: 1438787 to 1438870
+
+Score:58.1 bits(63), Expect:0.038, 
+Identities:63/84(75%),  Gaps:0/84(0%), Strand: Plus/Plus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                ||| ||||| |||   || ||  | | ||||| |  || ||| |||||||||||||| ||
+Sbjct  1438787  CCACAGGCTCACGGCGGTGTAGACGACCATCAGGGCGACGAACGGGTACTGGCTGCGGAT  1438846
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAG  2154650
+                 ||||| || ||||  ||||||||
+Sbjct  1438847  CGCCTGCAACCGACCCGGAAAGAG  1438870
+
+
+
+
+>Natronomonas gomsonensis strain KCTC 4088 chromosome, complete genome
+Sequence ID: CP101323.1 Length: 3544915
+Range 1: 1387138 to 1387266
+
+Score:58.1 bits(63), Expect:0.038, 
+Identities:90/129(70%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||| |||||||| || || | || |||| |   | ||   ||||||||||| || ||
+Sbjct  1387266  CCAGAGACTGACGATGGTGTAACACACCATCGCCGCGGTGGTCGGGTACTGGCTTCGGAT  1387207
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 ||||| | |   |  || ||||  |  ||||| |  | ||| |||||||| || || | 
+Sbjct  1387206  GGCCTGCAGTTTCCCGGGGAAGACGTCGTACGCTGCGGCGTGGGCGACCCAGATGGCCAA  1387147
+
+Query  2154687  GAGATGTCC  2154695
+                 ||||||||
+Sbjct  1387146  CAGATGTCC  1387138
+
+
+
+
+>Haloterrigena alkaliphila strain KZCA68 plasmid unnamed2, complete sequence
+Sequence ID: CP084320.1 Length: 161705
+Range 1: 101592 to 101698
+
+Score:58.1 bits(63), Expect:0.038, 
+Identities:79/108(73%),  Gaps:2/108(1%), Strand: Plus/Plus
+
+Query  2154565  AGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGA  2154624
+                ||||| || |||||||  || || |  | |||||||| || ||| ||||||||||| || 
+Sbjct  101592   AGCCACAGACTGACGACCGTGTAGCAGACCATCACGACGACGAACGGGTACTGGCTCCGG  101651
+
+Query  2154625  ATTGCCTGTAATCG-ACTTGGAAAGAGTTGATACGCCGTTGAGTGTGC  2154671
+                || ||||| |  ||  |  ||||| ||| || | ||||| | ||| ||
+Sbjct  101652   ATCGCCTGCAGCCGTCCCGGGAAACAGTCGA-AGGCCGTCGCGTGAGC  101698
+
+
+
+
+>Haloarchaeobius sp. DT45 chromosome, complete genome
+Sequence ID: CP196560.1 Length: 3384205
+Range 1: 2204995 to 2205125
+
+Score:57.2 bits(62), Expect:0.038, 
+Identities:91/131(69%),  Gaps:0/131(0%), Strand: Plus/Minus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                ||| ||||| || || || ||   || |||||||  |||||| ||||||||||| || | 
+Sbjct  2205125  CCACAGGCTCACCATCGTGTAGAGCACCATCACGGCGATGAACGGGTACTGGCTCCGGAC  2205066
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGCAAT  2154686
+                 ||||| |  || || || || || |  || || |  | ||| || ||||| || || | 
+Sbjct  2205065  GGCCTGCAGCCGGCTCGGGAACAGGTCGTAGGCGGCGGCGTGGGCCACCCAGATGGCGAG  2205006
+
+Query  2154687  GAGATGTCCGA  2154697
+                 || || ||||
+Sbjct  2205005  CAGGTGGCCGA  2204995
+
+
+
+
+>Natronorubrum halobium strain FCH18a chromosome, complete genome
+Sequence ID: CP195595.1 Length: 4803121
+Range 1: 1356298 to 1356416
+
+Score:57.2 bits(62), Expect:0.038, 
+Identities:86/120(72%),  Gaps:2/120(1%), Strand: Plus/Plus
+
+Query  2154565  AGCCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGA  2154624
+                ||||| |||||||     || || |  | |||||||  || ||| || |||||||| || 
+Sbjct  1356298  AGCCACAGGCTGAGCGCCGTGTAGCAGACCATCACGGCGACGAACGGATACTGGCTTCGG  1356357
+
+Query  2154625  ATTGCCTGTAATC-GACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCAAATTGC  2154683
+                || |||||||||| | |  ||||| ||| || |||| || | ||| |||  ||| || ||
+Sbjct  1356358  ATCGCCTGTAATCGGCCCGGGAAACAGTCGA-ACGCGGTCGCGTGGGCGGTCCAGATCGC  1356416
+
+
+
+
+>PREDICTED: Larimichthys crocea thrombospondin 2a (thbs2a), transcript variant X2, mRNA
+Sequence ID: XM_010756614.3 Length: 5450
+Range 1: 158 to 219
+
+Score:57.2 bits(62), Expect:0.038, 
+Identities:51/63(81%),  Gaps:1/63(1%), Strand: Plus/Minus
+
+Query  2154677  AAATTGCAATGAGATGTCCGACAAGAACAAAAACAATATTAAAAGCTGAAATCCAGGCTG  2154736
+                ||||| || | ||||||||||||| || ||||| ||| ||||||  ||||||| |||  |
+Sbjct  219      AAATT-CAGTCAGATGTCCGACAACAAGAAAAATAATTTTAAAAAATGAAATCGAGGGGG  161
+
+Query  2154737  GAA  2154739
+                |||
+Sbjct  160      GAA  158
+
+
+
+
+>PREDICTED: Larimichthys crocea thrombospondin 2a (thbs2a), transcript variant X1, mRNA
+Sequence ID: XM_010756607.3 Length: 5481
+Range 1: 158 to 219
+
+Score:57.2 bits(62), Expect:0.038, 
+Identities:51/63(81%),  Gaps:1/63(1%), Strand: Plus/Minus
+
+Query  2154677  AAATTGCAATGAGATGTCCGACAAGAACAAAAACAATATTAAAAGCTGAAATCCAGGCTG  2154736
+                ||||| || | ||||||||||||| || ||||| ||| ||||||  ||||||| |||  |
+Sbjct  219      AAATT-CAGTCAGATGTCCGACAACAAGAAAAATAATTTTAAAAAATGAAATCGAGGGGG  161
+
+Query  2154737  GAA  2154739
+                |||
+Sbjct  160      GAA  158
+
+
+
+
+>Halorussus salilacus strain YCN54 chromosome, complete genome
+Sequence ID: CP099993.1 Length: 3037152
+Range 1: 541091 to 541201
+
+Score:57.2 bits(62), Expect:0.038, 
+Identities:79/111(71%),  Gaps:0/111(0%), Strand: Plus/Plus
+
+Query  2154567  CCAGAGGCTGACGATTGTATATCCCATCATCACGAAGATGAAAGGGTACTGGCTGCGAAT  2154626
+                |||||||||||  || || ||   || ||||||||  | ||| ||||||||||| || | 
+Sbjct  541091   CCAGAGGCTGATCATGGTGTACAGCACCATCACGACCACGAAGGGGTACTGGCTCCGGAC  541150
+
+Query  2154627  TGCCTGTAATCGACTTGGAAAGAGTTGATACGCCGTTGAGTGTGCGACCCA  2154677
+                 ||||| |  || |  || || |  |  ||||| || | ||| ||||||||
+Sbjct  541151   CGCCTGCAGACGCCCCGGGAACACCTCGTACGCGGTCGCGTGGGCGACCCA  541201
+
+
+
+
+
+
+
+		
+
+
