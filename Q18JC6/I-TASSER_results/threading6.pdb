@@ -1,0 +1,33 @@
+Rank   :6 Template name:7cqzA
+REMARK :Column 1 -  30 present Atom & Residue records of query sequence.
+REMARK :Column 31 - 54 present XYZ coordinates of query sequence obtained after threading alignment.
+REMARK :Column 55 - 59 present residue number in Template
+REMARK :Column 60 - 59 present residue name of Template
+ATOM   1001  CA  ARG   421      20.145 -14.396  -5.136  296 MET
+ATOM   1002  CA  THR   422      18.008 -11.852  -6.999  297 ILE
+ATOM   1003  CA  VAL   423      14.930 -13.367  -5.358  298 LEU
+ATOM   1004  CA  TYR   424      16.637 -13.147  -1.960  299 ARG
+ATOM   1005  CA  GLU   425      17.454  -9.450  -2.394  300 ARG
+ATOM   1006  CA  VAL   426      13.870  -8.552  -3.333  301 VAL
+ATOM   1007  CA  GLN   427       8.885  -7.438   2.983  306 THR
+ATOM   1008  CA  ARG   428       6.999  -5.425   5.610  307 VAL
+ATOM   1009  CA  ARG   429       7.645  -5.716   9.348  308 CYS
+ATOM   1010  CA  LEU   430       4.310  -7.447  10.007  309 LEU
+ATOM   1011  CA  GLY   431       8.805 -10.994   9.370  311 GLY
+ATOM   1012  CA  ILE   432       7.884 -14.649   9.856  312 HIS
+ATOM   1013  CA  GLU   433       7.141 -15.089   6.149  313 GLU
+ATOM   1014  CA  TYR   434      10.283 -13.129   5.249  314 ARG
+ATOM   1015  CA  ARG   435      12.636 -15.240   7.373  315 ARG
+ATOM   1016  CA  GLN   436      10.880 -18.463   6.349  316 GLN
+ATOM   1017  CA  THR   437      11.095 -17.641   2.636  317 THR
+ATOM   1018  CA  ARG   438      14.664 -16.315   2.853  318 LEU
+ATOM   1019  CA  ASP   439      15.684 -19.582   4.524  319 ASN
+ATOM   1020  CA  LEU   440      14.048 -21.608   1.742  320 LEU
+ATOM   1021  CA  LEU   441      15.827 -19.469  -0.864  321 ILE
+ATOM   1022  CA  ASP   442      19.197 -20.072   0.803  322 SER
+ATOM   1023  CA  GLN   443      18.660 -23.833   1.120  323 LEU
+ATOM   1024  CA  LEU   444      17.696 -24.067  -2.558  324 LEU
+ATOM   1025  CA  ASP   445      20.778 -22.077  -3.576  325 ALA
+ATOM   1026  CA  ILE   446      22.977 -24.150  -1.255  326 LEU
+ATOM   1027  CA  LEU   447      21.781 -27.350  -2.934  327 ARG
+TER
