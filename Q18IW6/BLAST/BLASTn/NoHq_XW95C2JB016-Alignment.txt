@@ -1,0 +1,72 @@
+<ul id="msgFrm" class=" msg">
+<li class="warning">
+    
+    <p class="warning">Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users.</p><p class="warning">Please consider running your BLAST searches with <a href="https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/">ElasticBLAST</a> or <a href="https://www.ncbi.nlm.nih.gov/books/NBK279690/">BLAST+</a>.</p>
+</li>
+</ul>
+RID: XW95C2JB016	
+Job Title:emb|AM180088.1|  				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: Haloquadratum walsbyi DSM 16790 complete genome Query ID: emb|AM180088.1 Length: 2171
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Natronomonas moolapensis 8.8.11 complete genome                   Natronomonas... NA              268739     76.1   76.1  24%   2e-07 64.11  2912573    HF582854.1       
+
+
+Alignments:
+
+>Natronomonas moolapensis 8.8.11 complete genome
+Sequence ID: HF582854.1 Length: 2912573
+Range 1: 1810267 to 1810784
+
+Score:76.1 bits(83), Expect:2e-07, 
+Identities:334/521(64%),  Gaps:6/521(1%), Strand: Plus/Minus
+
+Query  1118938  GAGAAGACGTACTTAAAAGCGAAATCAAGTGCCTCAGCACAAAGCAACATCAAGGCTGCT  1118997
+                || ||||||||  | |  ||||||   || || || || || |||||  | || || || 
+Sbjct  1810784  GAAAAGACGTATCTCAGGGCGAAAAATAGCGCGTCCGCCCAGAGCAATGTGAAAGCCGCC  1810725
+
+Query  1118998  GGTGAATTTCGGGTAAAGCGACAACAATATGCACGGAGAAAGTTCACTCAGATTGCAGCC  1119057
+                || || || || || |||||||||||  | || ||  ||||||||    |||| || || 
+Sbjct  1810724  GGCGAGTTCCGTGTCAAGCGACAACAGCACGCCCGTCGAAAGTTCTTCGAGATCGCCGCT  1810665
+
+Query  1119058  GATTCTGCAGAACCAATTCGAACAC-GTATCAGAAACGGACTTCG-GACAGCAGAGAATC  1119115
+                || || |  ||| || | | ||| | |   ||| ||||   |||| | || | ||||| |
+Sbjct  1810664  GACTCGGACGAAACACTGCTAACGCGGGGGCAG-AACGCGTTTCGCGGCATC-GAGAACC  1810607
+
+Query  1119116  TATTTCTTGAGTTTTCCTGCGGGTATGGACTCCGGTTGTACCGAATTACTACCGTGTTCA  1119175
+                | ||||| | | |||| ||||| || ||  | ||| | || ||||| || || |||||  
+Sbjct  1810606  TGTTTCTCGGGATTTCGTGCGGCTACGGGTTGCGGCTCTATCGAATCACGACGGTGTTTG  1810547
+
+Query  1119176  TACTGGTTCCACTGATAGCCGCGATTTTGTTCACTTTTGCTGGACCGCTATTCGAGACTA  1119235
+                  ||| |||| ||| | || |   |  ||||  |  | |  ||  |||  ||||| ||  
+Sbjct  1810546  CCCTGTTTCCGCTGTTTGCTGGTCTCCTGTTTGCACTCGGGGGCTCGCCCTTCGAAACCG  1810487
+
+Query  1119236  GTGCCGGGCAGGCTTCACTTTCCCAAGCATTGAACG-CGACCAGTACTCGCACGCTTCTA  1119294
+                | ||||| |||    |   |||| || |     ||| |   | |    || |||||    
+Sbjct  1810486  GGGCCGGACAGATCGCGGCTTCCGAA-CTCGCCACGTCTGGCGGGCTCCGGACGCTCGGG  1810428
+
+Query  1119295  CTCAATGTATACTTTTCATATATCACATTTCTCACAATCGGATATGGTGGCATTGGTCCA  1119354
+                 | ||  | |||||||| |||||||| || |||||  |||| || |||  ||| || || 
+Sbjct  1810427  TTGAACCTGTACTTTTCGTATATCACGTTCCTCACGGTCGGCTACGGTAACATCGGCCCG  1810368
+
+Query  1119355  CTCGGTCTTGGGGCTCGATTCCTTGCTGCAATTCTTGTTTATCTTAATGTAATTTTGGCT  1119414
+                 |||| |  || ||  ||||| |  | ||  | || || ||  | || || ||  | || 
+Sbjct  1810367  ATCGGCCCCGGTGCCAGATTCGTCTCCGCGTTCCTCGTCTACATGAACGTGATCCTTGCG  1810308
+
+Query  1119415  GGACTCTTCATTTACTCCCTAATTAAACGGAGTGAAATTTA  1119455
+                || || ||| | ||| || | || ||||| || ||||| ||
+Sbjct  1810307  GGGCTGTTCCTGTACGCCTTGATCAAACGAAGCGAAATCTA  1810267
+
+
+
+
+
+
+
+		
+
+
