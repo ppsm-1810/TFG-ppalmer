@@ -1,0 +1,3534 @@
+RID: VGK9S871014	
+Job Title:tr|Q18H44|Q18H44_HALWD Uncharacterized				
+Program: BLASTP 
+Database: ClusteredNR clustered nr
+Query #1: tr|Q18H44|Q18H44_HALWD Uncharacterized protein OS=Haloquadratum walsbyi (strain DSM 16790 / HBSQ001) OX=362976 GN=HQ_2589A PE=4 SV=1 Query ID: lcl|Query_3688709 Length: 512
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E   Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value Ident  Len        Accession        
+hypothetical protein [Haloquadratum walsbyi]                      4          1          Haloquadratu... euryarchaeotes  293091     1030   1030  100%  0.0   99.22  512        WP_014556258.1   
+MAG: hypothetical protein J07HQW1_02514 [Haloquadratum walsbyi... 1          1          Haloquadratu... euryarchaeotes  1238424    796    796   100%  0.0   76.65  509        ERG92470.1       
+hypothetical protein [Haloquadratum walsbyi]                      1          1          Haloquadratu... euryarchaeotes  293091     753    753   100%  0.0   72.85  513        WP_021054273.1   
+hypothetical protein [Halogeometricum pallidum]                   1          1          Halogeometri... euryarchaeotes  411361     160    160   99%   5e-39 25.88  517        WP_008383555.1   
+hypothetical protein [Halopelagius inordinatus]                   1          1          Halopelagius... euryarchaeotes  553467     138    199   73%   3e-31 36.52  535        WP_092893331.1   
+hypothetical protein [Halopelagius longus]                        1          1          Halopelagius... euryarchaeotes  1236180    134    134   99%   7e-30 27.17  486        WP_092534772.1   
+hypothetical protein [Halogeometricum borinquense]                4          1          Halogeometri... euryarchaeotes  60847      126    189   76%   4e-27 34.19  518        WP_363463906.1   
+hypothetical protein [Halogeometricum rufum]                      1          1          Halogeometri... euryarchaeotes  553469     125    186   71%   6e-27 32.51  510        WP_089810644.1   
+hypothetical protein [Halobacteriales archaeon]                   1          1          Halobacteria... euryarchaeotes  1904752    123    123   99%   2e-26 25.92  440        MFB6300936.1     
+hypothetical protein [Halogeometricum limi]                       1          1          Halogeometri... euryarchaeotes  555875     124    124   44%   2e-26 32.66  485        WP_089883332.1   
+hypothetical protein [Salinigranum salinum]                       1          1          Salinigranum... euryarchaeotes  1364937    103    103   99%   1e-19 25.97  468        WP_152041632.1   
+hypothetical protein [Halogeometricum luteum]                     1          1          Halogeometri... euryarchaeotes  2950537    103    177   75%   2e-19 31.17  496        WP_310926509.1   
+hypothetical protein [Natronobacterium lacisalsi]                 1          1          Natronobacte... euryarchaeotes  229731     102    102   98%   3e-19 25.65  464        WP_007141881.1   
+hypothetical protein [Salinigranum marinum]                       1          1          Salinigranum... euryarchaeotes  1515595    100    100   44%   4e-19 32.17  365        WP_318569534.1   
+hypothetical protein [Salinigranum sp.]                           1          1          Salinigranum... euryarchaeotes  1966351    102    102   98%   4e-19 26.73  481        WP_372910761.1   
+hypothetical protein [Candidatus Chewarchaeum aethiopicum]        2          2          Archaea         archaea         2157       101    101   98%   5e-19 24.47  432        MDY6819810.1     
+hypothetical protein [Halopelagius fulvigenes]                    1          1          Halopelagius... euryarchaeotes  1198324    101    101   44%   7e-19 35.24  468        WP_379695563.1   
+hypothetical protein [Halogeometricum salsisoli]                  1          1          Halogeometri... euryarchaeotes  2950536    97.4   162   74%   2e-17 28.06  536        WP_310923747.1   
+hypothetical protein [Salinigranum sp. GCM10025319]               1          1          Salinigranum... euryarchaeotes  3252687    96.7   96.7  47%   3e-17 31.40  475        WP_380676663.1   
+hypothetical protein [Haloferacaceae archaeon]                    1          1          Haloferacace... euryarchaeotes  2080321    92.0   92.0  98%   7e-16 23.92  430        MFB6123410.1     
+hypothetical protein [Salinigranum rubrum]                        1          1          Salinigranum... euryarchaeotes  755307     91.7   91.7  98%   2e-15 26.81  489        WP_103425710.1   
+hypothetical protein [Salinigranum halophilum]                    3          1          Salinigranum... euryarchaeotes  2565931    84.7   84.7  98%   2e-13 25.49  461        WP_142861129.1   
+hypothetical protein [Halobium salinum]                           1          1          Halobium sal... euryarchaeotes  1364940    83.2   83.2  48%   9e-13 30.92  527        WP_267619823.1   
+hypothetical protein [Haloferacaceae archaeon]                    1          1          Haloferacace... euryarchaeotes  2080321    83.2   139   70%   1e-12 27.76  702        MFB6095778.1     
+hypothetical protein [Natronobacterium haloterrestre]             1          1          Natronobacte... euryarchaeotes  148448     81.6   81.6  99%   2e-12 27.03  427        WP_089788680.1   
+hypothetical protein [Halobacteriales archaeon]                   2          1          Halobacteria... euryarchaeotes  1904752    80.5   80.5  99%   4e-12 23.75  435        MFB6211240.1     
+MULTISPECIES: hypothetical protein [Haloferax]                    1          1          Haloferax       euryarchaeotes  2251       80.5   80.5  42%   5e-12 33.48  429        WP_151162382.1   
+hypothetical protein [Halolamina sp.]                             1          1          Halolamina sp.  euryarchaeotes  1940283    79.7   79.7  99%   1e-11 24.09  484        MFW5911642.1     
+hypothetical protein [Halogeometricum sp. CBA1124]                1          1          Halogeometri... euryarchaeotes  2668071    75.9   75.9  26%   2e-11 31.76  234        WP_191452926.1   
+hypothetical protein [Haloferacaceae archaeon]                    1          1          Haloferacace... euryarchaeotes  2080321    78.2   78.2  100%  3e-11 23.76  452        MFB6123832.1     
+hypothetical protein [Halobium palmae]                            1          1          Halobium palmae euryarchaeotes  1776492    74.3   74.3  36%   4e-11 29.19  212        MFC6726717.1     
+hypothetical protein [Halolamina sp.]                             1          1          Halolamina sp.  euryarchaeotes  1940283    77.4   77.4  47%   6e-11 27.35  469        MFB6126970.1     
+hypothetical protein [Haloferacaceae archaeon]                    1          1          Haloferacace... euryarchaeotes  2080321    76.3   76.3  44%   1e-10 27.76  441        MFB6302911.1     
+hypothetical protein [Candidatus Chewarchaeum aethiopicum]        1          1          Candidatus C... archaea         3138745    75.1   75.1  99%   3e-10 24.86  464        MDY6819051.1     
+hypothetical protein [Salinibaculum salinum]                      1          1          Salinibaculu... euryarchaeotes  3131996    74.7   74.7  99%   4e-10 24.18  428        WP_340099827.1   
+hypothetical protein [Halogeometricum limi]                       1          1          Halogeometri... euryarchaeotes  555875     74.7   74.7  99%   4e-10 24.86  469        WP_089881281.1   
+hypothetical protein [Haloferax larsenii]                         3          2          Haloferax la... euryarchaeotes  302484     73.9   73.9  42%   5e-10 31.51  445        WP_074795946.1   
+hypothetical protein [Haloferax profundi]                         1          1          Haloferax pr... euryarchaeotes  1544718    73.9   73.9  44%   6e-10 32.91  429        WP_058571152.1   
+hypothetical protein [Haloferax sp. DFSO60]                       1          1          Haloferax sp... euryarchaeotes  3388652    71.6   71.6  48%   3e-09 32.03  397        WP_410766590.1   
+hypothetical protein [Halobacteriales archaeon]                   3          2          Archaea         archaea         2157       70.1   70.1  44%   4e-09 28.14  280        MFB6148845.1     
+hypothetical protein [Haloferax sp. DFSO52]                       1          1          Haloferax sp... euryarchaeotes  3388505    70.5   70.5  42%   8e-09 32.59  416        WP_416840504.1   
+hypothetical protein [Haloarculaceae archaeon]                    1          1          Haloarculace... euryarchaeotes  2497615    70.1   70.1  52%   2e-08 27.18  725        MFB6170051.1     
+MAG: hypothetical protein BRC86_05935 [Halobacteriales archaeo... 1          1          Halobacteria... euryarchaeotes  1919172    69.7   69.7  47%   2e-08 30.71  475        PSP74419.1       
+MAG: hypothetical protein BRC68_06135 [Halobacteriales archaeo... 1          1          Halobacteria... euryarchaeotes  1919154    69.7   69.7  44%   2e-08 30.70  537        PSP43665.1       
+hypothetical protein [Salinigranum marinum]                       1          1          Salinigranum... euryarchaeotes  1515595    69.3   69.3  99%   2e-08 24.54  478        WP_318569476.1   
+hypothetical protein [Haloarculaceae archaeon]                    1          1          Haloarculace... euryarchaeotes  2497615    67.8   67.8  43%   3e-08 26.91  302        MFB6309202.1     
+DUF7537 family lipoprotein [Salinigranum halophilum]              3          1          Salinigranum... euryarchaeotes  2565931    65.1   65.1  31%   3e-08 32.28  176        WP_136592006.1   
+hypothetical protein [Halobacteriales archaeon]                   1          1          Halobacteria... euryarchaeotes  1904752    68.2   68.2  44%   5e-08 30.93  447        MFB6299294.1     
+hypothetical protein [Haloarchaeobius sp. HME9146]                1          1          Haloarchaeob... euryarchaeotes  2978732    68.2   68.2  61%   6e-08 27.04  564        WP_261651843.1   
+MULTISPECIES: hypothetical protein [Haloferax]                    2          2          Haloferax       euryarchaeotes  2251       67.8   67.8  49%   6e-08 30.86  457        WP_225317637.1   
+hypothetical protein [Haloplanus sp.]                             1          1          Haloplanus sp.  euryarchaeotes  1961696    67.8   67.8  97%   6e-08 23.31  511        WP_299332503.1   
+hypothetical protein [Haloferax sp. S1W]                          1          1          Haloferax sp... euryarchaeotes  3377110    67.4   67.4  44%   8e-08 31.30  415        WP_396611707.1   
+hypothetical protein [Halosimplex salinum]                        1          1          Halosimplex ... euryarchaeotes  1710538    65.9   65.9  43%   9e-08 29.44  273        WP_123539384.1   
+MULTISPECIES: hypothetical protein [Haloarcula]                   2          2          Haloarcula      euryarchaeotes  2237       65.1   65.1  42%   1e-07 27.27  254        WP_188996759.1   
+hypothetical protein [Halobacteriales archaeon]                   1          1          Halobacteria... euryarchaeotes  1904752    66.6   66.6  96%   1e-07 23.23  455        MFB6300017.1     
+MULTISPECIES: hypothetical protein [Haloferax]                    1          1          Haloferax       euryarchaeotes  2251       66.6   66.6  44%   1e-07 31.88  426        WP_151136418.1   
+MAG: hypothetical protein BRC77_07555, partial [Halobacteriale... 1          1          Halobacteria... euryarchaeotes  1919162    66.6   66.6  49%   2e-07 28.63  472        PSP63198.1       
+hypothetical protein [Halobacteriales archaeon]                   1          1          Halobacteria... euryarchaeotes  1904752    64.3   64.3  44%   3e-07 29.61  275        MFB6173917.1     
+hypothetical protein [Halorubrum sp. SD626R]                      3          2          Halorubrum      euryarchaeotes  56688      65.9   65.9  48%   3e-07 27.84  483        WP_092566824.1   
+hypothetical protein [Halolamina pelagica]                        1          1          Halolamina p... euryarchaeotes  699431     60.8   60.8  25%   4e-07 33.85  136        WP_054584178.1   
+hypothetical protein [Haloarchaeobius amylolyticus]               1          1          Haloarchaeob... euryarchaeotes  1198296    64.7   64.7  49%   7e-07 27.51  558        WP_267640083.1   
+DUF7537 family lipoprotein [Halomicrobium urmianum]               1          1          Halomicrobiu... euryarchaeotes  1586233    62.8   62.8  42%   1e-06 26.27  276        WP_225335757.1   
+MAG: hypothetical protein BRC81_00520 [Halobacteriales archaeo... 1          1          Halobacteria... euryarchaeotes  1919169    63.5   63.5  44%   1e-06 25.11  447        PSP81478.1       
+DUF7537 family lipoprotein [Haloarcula sp. HT12]                  1          1                                          3683832    61.6   61.6  45%   2e-06 30.47  264        WP_463455423.1   
+hypothetical protein [Haloferax profundi]                         1          1          Haloferax pr... euryarchaeotes  1544718    62.8   62.8  97%   3e-06 24.53  516        WP_058570795.1   
+DUF7537 family lipoprotein [Halomicrobium urmianum]               1          1          Halomicrobiu... euryarchaeotes  1586233    60.8   60.8  43%   4e-06 25.65  290        WP_225333921.1   
+hypothetical protein [Haloferacaceae archaeon]                    1          1          Haloferacace... euryarchaeotes  2080321    61.6   61.6  46%   5e-06 27.41  430        MFB6304734.1     
+hypothetical protein [Halosimplex rubrum]                         1          1          Halosimplex ... euryarchaeotes  869889     60.5   60.5  46%   7e-06 26.14  307        WP_179911610.1   
+MAG: hypothetical protein BRC60_02920 [Halobacteriales archaeo... 1          1          Halobacteria... euryarchaeotes  1919146    60.1   60.1  43%   8e-06 26.99  286        PSP51446.1       
+hypothetical protein [Haloarculaceae archaeon]                    1          1          Haloarculace... euryarchaeotes  2497615    60.8   60.8  100%  1e-05 23.55  460        MEF8843579.1     
+hypothetical protein [Salinirussus sp.]                           1          1          Salinirussus... euryarchaeotes  2036002    60.8   60.8  46%   1e-05 25.30  462        MFB6298088.1     
+hypothetical protein [Halosimplex sp. J119]                       1          1                                          3234952    59.7   59.7  42%   1e-05 27.15  273        WP_459194344.1   
+MAG: hypothetical protein BRC91_12760 [Halobacteriales archaeo... 1          1          Halobacteria... euryarchaeotes  1919173    59.3   59.3  46%   1e-05 25.42  266        PSP92707.1       
+PQQ-binding-like beta-propeller repeat protein [Halobacteriale... 1          1          Halobacteria... euryarchaeotes  1904752    60.5   60.5  27%   2e-05 28.57  635        MFB6299863.1     
+hypothetical protein [Haloferacaceae archaeon]                    1          1          Haloferacace... euryarchaeotes  2080321    58.5   58.5  42%   2e-05 27.04  258        MFB6161275.1     
+hypothetical protein [Halobacteriaceae archaeon]                  1          1          Halobacteria... euryarchaeotes  1931997    59.7   112   80%   2e-05 29.15  481        MFB6106189.1     
+hypothetical protein [Haloplanus sp. GCM10025708]                 1          1          Haloplanus s... euryarchaeotes  3252679    55.1   55.1  14%   2e-05 38.03  100        WP_379797897.1   
+MULTISPECIES: DUF7537 family lipoprotein [Haloarcula]             3          2          Haloarcula      euryarchaeotes  2237       58.5   58.5  45%   2e-05 28.33  264        WP_004963442.1   
+DUF7537 family lipoprotein [Haloarcula rubripromontorii]          3          2          Haloarcula      euryarchaeotes  2237       58.2   58.2  45%   3e-05 29.18  264        WP_053966126.1   
+hypothetical protein [Haloarchaeobius sp. TZWSO28]                2          2          unclassified... euryarchaeotes  2614452    59.7   59.7  58%   3e-05 25.17  585        WP_435318853.1   
+hypothetical protein [Salinirarus marinus]                        1          1          Salinirarus ... euryarchaeotes  3068310    58.9   58.9  19%   4e-05 31.96  449        WP_423751639.1   
+DUF7537 family lipoprotein [Haloarcula sp. KBTZ06]                10         8          Haloarcula      euryarchaeotes  2237       57.4   57.4  45%   5e-05 29.91  264        WP_420182492.1   
+MULTISPECIES: DUF7537 family lipoprotein [unclassified...         3          2          unclassified... euryarchaeotes  2624677    57.4   57.4  46%   5e-05 30.08  259        WP_151100689.1   
+hypothetical protein [Haloarculaceae archaeon]                    1          1          Haloarculace... euryarchaeotes  2497615    57.8   57.8  42%   6e-05 25.44  302        MEF8851784.1     
+MAG: hypothetical protein BRC94_03970 [Halobacteriales archaeo... 1          1          Halobacteria... euryarchaeotes  1919181    56.2   56.2  44%   7e-05 28.70  225        PSQ01398.1       
+hypothetical protein [Halolamina sp. CBA1230]                     1          1          Halolamina s... euryarchaeotes  1853690    58.2   58.2  45%   7e-05 28.57  465        WP_079233011.1   
+hypothetical protein [Halomicrobium sp. IBSBa]                    6          6          Halomicrobium   euryarchaeotes  203135     57.0   57.0  46%   8e-05 26.12  265        WP_208626337.1   
+hypothetical protein [Salinigranum sp. GCM10025319]               1          1          Salinigranum... euryarchaeotes  3252687    57.8   57.8  23%   1e-04 30.51  474        WP_380675889.1   
+DUF7537 family lipoprotein [Halomicrobium salinisoli]             2          1          Halomicrobiu... euryarchaeotes  2878391    56.2   56.2  42%   1e-04 25.11  261        WP_226022532.1   
+hypothetical protein [Haloarculaceae archaeon]                    1          1          Haloarculace... euryarchaeotes  2497615    56.6   56.6  43%   1e-04 24.78  290        MEF8841699.1     
+hypothetical protein [Halosimplex litoreum]                       1          1          Halosimplex ... euryarchaeotes  1198301    56.6   56.6  45%   1e-04 24.79  305        WP_198062257.1   
+hypothetical protein [Halorubrum sp. BOL3-1]                      1          1          Halorubrum s... euryarchaeotes  2497325    57.0   57.0  43%   2e-04 26.32  486        WP_128908981.1   
+hypothetical protein [Halosimplex sp. J119]                       1          1                                          3234952    56.2   56.2  44%   2e-04 25.44  292        WP_459192370.1   
+DUF7537 family lipoprotein [Haloarcula sebkhae]                   4          3          Haloarcula      euryarchaeotes  2237       55.1   55.1  44%   3e-04 28.38  264        WP_188978186.1   
+hypothetical protein [Halorientalis sp.]                          1          1          Halorientali... euryarchaeotes  1931229    55.8   55.8  43%   3e-04 26.79  407        MFB6143097.1     
+hypothetical protein [Halosimplex aquaticum]                      1          1          Halosimplex ... euryarchaeotes  3026162    55.1   55.1  19%   3e-04 36.84  275        WP_274322703.1   
+hypothetical protein [Halorussus pelagicus]                       1          1          Halorussus p... euryarchaeotes  2505977    55.5   55.5  46%   4e-04 23.35  347        WP_128477579.1   
+DUF7537 family lipoprotein [Haloarcula argentinensis]             2          2          Haloarcula      euryarchaeotes  2237       55.1   55.1  45%   4e-04 27.54  293        WP_229727259.1   
+hypothetical protein [Haloarcula sp. 1CSR25-25]                   1          1          Haloarcula s... euryarchaeotes  2862545    55.8   55.8  43%   4e-04 28.45  471        WP_312619007.1   
+MAG: hypothetical protein BRC91_10250 [Halobacteriales archaeo... 1          1          Halobacteria... euryarchaeotes  1919173    54.7   54.7  43%   5e-04 29.13  284        PSP93320.1       
+
+
+Alignments:
+
+>hypothetical protein [Haloquadratum walsbyi]
+Sequence ID: WP_014556258.1 Length: 512
+Range 1: 1 to 512
+
+Score:1030 bits(2663), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:508/512(99%), Positives:510/512(99%), Gaps:0/512(0%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV
+Sbjct  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+            VGHSWMP+RFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT
+Sbjct  61   VGHSWMPSRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+
+Query  121  AEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASVF  180
+            AEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASVF
+Sbjct  121  AEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASVF  180
+
+Query  181  VVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASAE  240
+            VVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASAE
+Sbjct  181  VVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASAE  240
+
+Query  241  QQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAA  300
+            QQSWSQPDP TQSTASDARSQLA NGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAA
+Sbjct  241  QQSWSQPDPGTQSTASDARSQLAPNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAA  300
+
+Query  301  HADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENETEDVN  360
+            HADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENETEDVN
+Sbjct  301  HADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENETEDVN  360
+
+Query  361  LSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRV  420
+            LSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRY+DTSESRV
+Sbjct  361  LSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYLDTSESRV  420
+
+Query  421  VLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNV  480
+            VLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNV
+Sbjct  421  VLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNV  480
+
+Query  481  YVSFEYEDIGSTTTSQPQWYTTAQNETARSTR  512
+            YVSFEYEDIGSTTTSQPQWYTTAQNETARSTR
+Sbjct  481  YVSFEYEDIGSTTTSQPQWYTTAQNETARSTR  512
+
+
+
+
+>MAG: hypothetical protein J07HQW1_02514 [Haloquadratum walsbyi J07HQW1]
+Sequence ID: ERG92470.1 Length: 509
+Range 1: 1 to 508
+
+Score:796 bits(2057), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:394/514(77%), Positives:451/514(87%), Gaps:8/514(1%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQ--SQTVL  58
+            MAPVS DRFATLLR LEQSRFTAFVAALWDAR+DE+VTIEQ+YIY+G  +E++  SQTVL
+Sbjct  1    MAPVSIDRFATLLRGLEQSRFTAFVAALWDARSDENVTIEQRYIYVGDSDETKDNSQTVL  60
+
+Query  59   AVVGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPR  118
+            AV+GHSW+PNRFRR T+P+TVDILITT+QTK+YIE+T  ++AR+VGPAELRSIALYAIPR
+Sbjct  61   AVIGHSWVPNRFRRLTVPDTVDILITTRQTKQYIESTDEINARLVGPAELRSIALYAIPR  120
+
+Query  119  PTAEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVAS  178
+            PTAE LF QYF+TS++ID SHADE  T HHS + T + L  +L SL+  TH  R+RPV +
+Sbjct  121  PTAETLFTQYFDTSISIDDSHADEPDT-HHSESDTGYGLSRNLISLMGGTHLSRQRPVTA  179
+
+Query  179  VFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSAS  238
+            VFVVI++LTVI+GSGIALGV+PG AS++S E TSGD TVGT+INE+S ++QVFLG+S AS
+Sbjct  180  VFVVILILTVISGSGIALGVVPGAASNVSPEFTSGDATVGTVINELSVDVQVFLGISQAS  239
+
+Query  239  AEQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLA  298
+            AEQQSWSQ D       S ++SQ+ASN S+  +TT +TQ LLGYPPGVTTTGIVDP+RLA
+Sbjct  240  AEQQSWSQSD-----AGSRSQSQIASNDSQTAETTNETQRLLGYPPGVTTTGIVDPNRLA  294
+
+Query  299  AAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENETED  358
+            AAHADT+SGQSYRY V+KQ+VSAFG QTW+ELSEEAVVANQI+YLYTATG LQS NETED
+Sbjct  295  AAHADTVSGQSYRYSVQKQHVSAFGVQTWRELSEEAVVANQIEYLYTATGTLQSTNETED  354
+
+Query  359  VNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSES  418
+            VNLSVYAD SAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAES++QRY+DTSES
+Sbjct  355  VNLSVYADGSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESVLQRYLDTSES  414
+
+Query  419  RVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETT  478
+            R+VLSK  D TYTI+A+GQPFGINTDGR   YQAVAQVNEQGFVSSFT SYRRVTEN+TT
+Sbjct  415  RIVLSKLTDETYTIVATGQPFGINTDGRINNYQAVAQVNEQGFVSSFTVSYRRVTENKTT  474
+
+Query  479  NVYVSFEYEDIGSTTTSQPQWYTTAQNETARSTR  512
+             V VSFEYEDIGSTT SQPQWYTTAQN+TARS R
+Sbjct  475  TVSVSFEYEDIGSTTPSQPQWYTTAQNQTARSVR  508
+
+
+
+
+>hypothetical protein [Haloquadratum walsbyi]
+Sequence ID: WP_021054273.1 Length: 513
+Range 1: 1 to 512
+
+Score:753 bits(1944), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:373/512(73%), Positives:440/512(85%), Gaps:0/512(0%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            MAPVS +RFATLLR LEQSRF  FVAALWDAR+D DVT+ Q++I++G  +E++SQTV+AV
+Sbjct  1    MAPVSVNRFATLLRGLEQSRFIDFVAALWDARSDTDVTVGQRFIHVGDSDENESQTVIAV  60
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+            +GHSW+P+RFR+F++PETVDILITTQQTKRYIETT AVDARI+GPAEL SIALYA+ RPT
+Sbjct  61   IGHSWIPDRFRQFSVPETVDILITTQQTKRYIETTDAVDARIIGPAELHSIALYAVSRPT  120
+
+Query  121  AEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASVF  180
+            AE LFN YF+TS+T++SSH  E    H  + Y  + L ++L SLI+NT  +R RPV +VF
+Sbjct  121  AETLFNTYFDTSITVNSSHNRERNAHHRIDNYIGYELSDTLISLIQNTRFRRSRPVGTVF  180
+
+Query  181  VVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASAE  240
+            ++II+L +I GSGIALGVMPG AS++S   +S D+TVGT INE++ EIQ+FLG+SS +AE
+Sbjct  181  ILIIILIIIAGSGIALGVMPGTASNVSPGLSSEDSTVGTAINELTVEIQMFLGISSTNAE  240
+
+Query  241  QQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAA  300
+            QQS S+ +  T S   D  SQL SN S+  +T G+TQTLLGYPPGVTTTGIVDPDRLAAA
+Sbjct  241  QQSLSRSESETTSAPLDPGSQLTSNESQSGETEGNTQTLLGYPPGVTTTGIVDPDRLAAA  300
+
+Query  301  HADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENETEDVN  360
+            HA+T+SGQSYRY V KQ+V+AFG QTWQELSEEA+VA+Q++YLYTATG LQS NETEDVN
+Sbjct  301  HANTVSGQSYRYDVNKQHVNAFGGQTWQELSEEAIVASQVEYLYTATGTLQSTNETEDVN  360
+
+Query  361  LSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRV  420
+            LSVYADRS AYIRVDRESE NVSFG+FSVSGGEFGSNNGRFANRAESI+QRY+DTSESR+
+Sbjct  361  LSVYADRSDAYIRVDRESETNVSFGKFSVSGGEFGSNNGRFANRAESILQRYLDTSESRI  420
+
+Query  421  VLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNV  480
+            VLSK N+ TY+I+A+GQPFG+NTDGR  +YQAVAQVNEQGFVSSFTASYRRVTEN+TT V
+Sbjct  421  VLSKLNNETYSIVATGQPFGLNTDGRVNDYQAVAQVNEQGFVSSFTASYRRVTENKTTTV  480
+
+Query  481  YVSFEYEDIGSTTTSQPQWYTTAQNETARSTR  512
+             VSF YEDIGS T SQPQWYTTAQNETARSTR
+Sbjct  481  SVSFNYEDIGSATPSQPQWYTTAQNETARSTR  512
+
+
+
+
+>hypothetical protein [Halogeometricum pallidum]
+Sequence ID: WP_008383555.1 Length: 517
+Range 1: 1 to 456
+
+Score:160 bits(404), Expect:5e-39, 
+Method:Compositional matrix adjust., 
+Identities:140/541(26%), Positives:222/541(41%), Gaps:119/541(21%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M  V+ D FA  LR L+    TAFVA L+  R  E V +      + G  +   + +  V
+Sbjct  1    MPVVTPDEFAGWLRRLDGDALTAFVADLYADRG-ESVAVRDDGAVVLGDGD---RVLSPV  56
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+             G      R RR ++    D+++  + T   +      DA +VGPAELR+IALY + R  
+Sbjct  57   SGR----RRLRRPSVAPDADVVVAARPTPALLRRAARTDASVVGPAELRNIALYGLDRRD  112
+
+Query  121  AEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASVF  180
+            AE+LF ++F+ S  +D+   D        ++  +H+ L  +                   
+Sbjct  113  AERLFREHFDASPVVDARDPD--------DSLDRHAALGRV-------------------  145
+
+Query  181  VVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASAE  240
+                      G  + +GV+  V + ++     G                   G++ +  +
+Sbjct  146  ----------GDSLGVGVIAVVLAVLAVAVLFGP-----------------FGLALSPTD  178
+
+Query  241  QQSWSQPDPRTQSTAS-DARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAA  299
+              + SQPD    ST S  AR++  S                 +PPG+  TG+ +P+RLAA
+Sbjct  179  DAAGSQPDSGDGSTDSATARTEAES-----------------FPPGIAPTGVTNPERLAA  221
+
+Query  300  AHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENETEDV  359
+            AHAD + G+SYR +V +     +  + W ++ +EA V +   + Y  TG ++ E      
+Sbjct  222  AHADAVVGRSYRLVVSESGTENWEGEVWGDVWKEAAVESPRRFRYIVTGSVRGEERDAGA  281
+
+Query  360  NLS------------------------------VYADRSAAYIRVDRESEENVSFGRFSV  389
+            N S                               YAD    Y+R +R    + S  RF V
+Sbjct  282  NASGGASGPDDPTETAGGDGTAAGDGDGLVHYTAYADGQYTYVRNER---GDGSVSRFPV  338
+
+Query  390  SGGEFGSNNGRFANRAESIIQRYID---TSESRVVLSKPNDGTYTIIASGQPFGINTDGR  446
+                 G+ +G F  R  + ++RY++   TS +R   S+P D  Y ++A+G P        
+Sbjct  339  R--LDGNGHGPFERRTAAAVERYLNATRTSVAREAESEP-DAPYHVVATGTPEAFADPEN  395
+
+Query  447  TEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNE  506
+               Y+A A+V+  GFV + T SY      ET  V     Y  + +   S P WY  A+  
+Sbjct  396  VSNYRAEARVDPDGFVRTLTVSYAVTDGGETRKVRYHLSYSGVDAVELSPPPWYERARGA  455
+
+Query  507  T  507
+            T
+Sbjct  456  T  456
+
+
+
+
+>hypothetical protein [Halopelagius inordinatus]
+Sequence ID: WP_092893331.1 Length: 535
+Range 1: 212 to 437
+
+Score:138 bits(348), Expect:3e-31, 
+Method:Compositional matrix adjust., 
+Identities:84/230(37%), Positives:124/230(53%), Gaps:5/230(2%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQID  341
+            +PPGV  TG+V  + LA AHAD ++G+SY+ IVR+    A+  +TW    + A VA   +
+Sbjct  212  FPPGVGPTGVVSAETLATAHADAVTGRSYQLIVRQSGSGAWAGRTWDRAYQRADVAGPTN  271
+
+Query  342  YLYTATGILQSEN-ETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGR  400
+            Y Y+ TG   +++ + E V  S+YAD    Y+ +  E  +N SF R+SV   E G  +G 
+Sbjct  272  YHYSVTGYRSTDDGDDELVQYSMYADGRDNYVFI--EDGDNRSFVRYSVRTDEAG--HGP  327
+
+Query  401  FANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQG  460
+            F NRA   I+RY+D + + V     +   Y I+A+G P  ++   R  +Y+A A V   G
+Sbjct  328  FENRAARAIERYLDATRTNVTRENWSVQPYRIVATGTPESVDDAERIVDYRAEAHVGADG  387
+
+Query  461  FVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETARS  510
+            FVS  T +Y    ++E  NV    EY  +   T   P WY  A+N T +S
+Sbjct  388  FVSRLTVAYGVRIDDEVENVSFRMEYVQMDVQTVRPPSWYDEARNATLKS  437
+
+
+
+
+Range 2: 1 to 136
+
+Score:60.8 bits(146), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:41/144(28%), Positives:64/144(44%), Gaps:8/144(5%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M  VS   F   LR L+  R   FV+ L+ A    DV        +  ++    QTV+ V
+Sbjct  1    MGVVSARTFERWLRRLDSERLRGFVSDLYAAAG-RDVRRRADGTLVLAES---GQTVVTV  56
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+                    R R   IP   DI++    ++R +         ++GP +LR +ALY + R  
+Sbjct  57   DARL----RLRTPRIPADADIVVAASPSRRLVGRAAESGVTLLGPTDLREMALYGVDRDD  112
+
+Query  121  AEKLFNQYFNTSVTIDSSHADETG  144
+             E+LF +YF+ S  ++ S+    G
+Sbjct  113  CERLFRRYFDESPVVERSNGGADG  136
+
+
+
+
+>hypothetical protein [Halopelagius longus]
+Sequence ID: WP_092534772.1 Length: 486
+Range 1: 1 to 447
+
+Score:134 bits(336), Expect:7e-30, 
+Method:Compositional matrix adjust., 
+Identities:138/508(27%), Positives:214/508(42%), Gaps:62/508(12%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M  VS   F   LR L+ +    FV  L+ A   E        + +G    S  + V+ V
+Sbjct  1    MPVVSARTFERWLRRLDSASLREFVRDLYAAAGREVRVRGDGTLAVG----SDGRVVVTV  56
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+                    R R   +P+  D+++    ++R +       A +VGP++LR++ALY   R  
+Sbjct  57   SAR----RRLRTPRVPDDADVVVAASPSRRLVGRVTESGATLVGPSDLRTLALYGADRDD  112
+
+Query  121  AEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASVF  180
+             E+LF +YF+ S +++    D    R  ++   +H+ +  +  +  +       PV+ + 
+Sbjct  113  CERLFRRYFDESPSVE--RPDAVAARE-TDGDRRHASVRGVERIAAD-------PVSGLA  162
+
+Query  181  VVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASAE  240
+            V+ +   V+       GV P           +GD+   T      AE  V      +S  
+Sbjct  163  VLALAGLVVAALLGTFGVAP----------ETGDSAGPT------AEPVVAASSDRSSDS  206
+
+Query  241  QQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAA  300
+                         T+SD           P            +PPGV  TG+ D + LAAA
+Sbjct  207  DADADVNADADAGTSSD----------RP------------FPPGVGPTGVADAETLAAA  244
+
+Query  301  HADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQS-ENETEDV  359
+            HAD ++G+SY+ IVR+    A     W      A VA+   Y    TG   + +  TE V
+Sbjct  245  HADAVAGRSYQLIVRRSGTDAR-TGGWPRAYRRAEVASPTRYRSFVTGYRATGDGGTELV  303
+
+Query  360  NLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESR  419
+            + S+YAD    Y  V RE  E  S+ R++V   E G  +G F NRA + ++RY++   + 
+Sbjct  304  HCSMYAD--GEYTYVYREHGEERSYARYAVETDEEG--HGPFENRAAAAVRRYLNAPRTT  359
+
+Query  420  VVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTN  479
+            V     +   Y ++A+G P  +       +Y+A A+V   GFVS    SY      ET +
+Sbjct  360  VTRKNWSVQPYRVVATGTPASLPNLANVTDYRAEARVGADGFVSRLLVSYEVRAGEETRS  419
+
+Query  480  VYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+            V    EY D    T   P WY  A+N T
+Sbjct  420  VSFRMEYADADPRTVRAPPWYGEARNAT  447
+
+
+
+
+>hypothetical protein [Halogeometricum borinquense]
+Sequence ID: WP_363463906.1 Length: 518
+Range 1: 173 to 438
+
+Score:126 bits(316), Expect:4e-27, 
+Method:Compositional matrix adjust., 
+Identities:93/272(34%), Positives:127/272(46%), Gaps:23/272(8%)
+
+Query  253  STASDARSQLASN----GSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQ  308
+            + A D  +Q  SN    G       GD + L  +PPG+  TG+ D + LA AHAD ++G+
+Sbjct  173  APAEDDAAQAGSNPVAVGMSNTADDGDEEQL--FPPGIGPTGVTDSEMLAEAHADAVAGR  230
+
+Query  309  SYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENE-------------  355
+            SYR ++R+     +  + WQ+   +A V N   + YT TG  QS +              
+Sbjct  231  SYRLVIRQSGTRDWNGRRWQDAWHQAEVENARHFGYTVTGYAQSTDSAPTAPTPTTSPDG  290
+
+Query  356  TEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDT  415
+             + V  S YAD    Y++   E   N SF R  VS  E+G   G F  RA   IQRY+ T
+Sbjct  291  ADLVQYSAYADGEIVYVKT--ELRNNESFYRTPVSVNEYGY--GVFERRASFAIQRYLTT  346
+
+Query  416  SESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTEN  475
+            + + V  +      + I+A+G P  I+   R  +Y+A A V   GFVS    SY    EN
+Sbjct  347  TRTNVTRTDRAQYPFRIVATGTPEHISNADRISDYRAEASVGSDGFVSVLNVSYDVTIEN  406
+
+Query  476  ETTNVYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+            ET  V    EY  I     S+P WY  A N T
+Sbjct  407  ETREVSYRLEYAAIDEVNLSRPVWYDRAVNAT  438
+
+
+
+
+Range 2: 1 to 127
+
+Score:62.8 bits(151), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:42/135(31%), Positives:64/135(47%), Gaps:8/135(5%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M+ V    F   L  L+ + F+AFVA L+ +R  E VT+       G         VL  
+Sbjct  1    MSVVPAYTFERWLHRLDGATFSAFVADLYASRGRE-VTVRDD----GAVVLVDEGRVLVP  55
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+            +   W   RFRR  +P   D ++    ++R          R++GP ++R++ALY I R  
+Sbjct  56   IASRW---RFRRPRVPNDADAIVAPAPSRRLRRVAVRRGLRLLGPTDIRNLALYGIDRRD  112
+
+Query  121  AEKLFNQYFNTSVTI  135
+            AE+LF +YF  S  +
+Sbjct  113  AERLFEEYFGESPAV  127
+
+
+
+
+>hypothetical protein [Halogeometricum rufum]
+Sequence ID: WP_089810644.1 Length: 510
+Range 1: 204 to 441
+
+Score:125 bits(315), Expect:6e-27, 
+Method:Compositional matrix adjust., 
+Identities:79/243(33%), Positives:122/243(50%), Gaps:21/243(8%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQID  341
+            +PPG+  TG+ D + LA AHAD ++G+SYR ++R+     +  + W+ + ++A V +   
+Sbjct  204  FPPGIGATGVTDAETLADAHADAVAGRSYRIVLRQSGTEDWSGRVWRGVWQQAEVEDPRH  263
+
+Query  342  YLYTATGILQSE-----------NETED-----VNLSVYADRSAAYIRVDRESEENVSFG  385
+            + YT TG  +              +T+D     V  + YAD    ++RVD  +E   SF 
+Sbjct  264  FRYTVTGYARDRAAESRSGETPATDTDDDGDELVQYTAYADGEQIFVRVDGRNE---SFY  320
+
+Query  386  RFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDG  445
+            R+ V   E G  +G F  RA S ++RY++ S +RV         + ++A+G P  I    
+Sbjct  321  RYPVRIDENG--HGLFEQRASSAVERYLNASRTRVTRVDDTRYPFRVVATGTPESIPRAA  378
+
+Query  446  RTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQN  505
+               +Y+A A V   GFVS    SY R   +ET  V    EY  + + T S+P+WY  A N
+Sbjct  379  NVSDYRAEASVGSDGFVSVLIVSYDRTVGDETREVSYRMEYASMDAVTVSRPRWYDRAVN  438
+
+Query  506  ETA  508
+             TA
+Sbjct  439  ATA  441
+
+
+
+
+Range 2: 1 to 127
+
+Score:60.5 bits(145), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:45/135(33%), Positives:63/135(46%), Gaps:8/135(5%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M  V    F   LR L +  FTAFVA L+ +R    VT+       G    +    VLA 
+Sbjct  1    MPAVPVRTFEGWLRRLGEDAFTAFVADLYASRG-RAVTVRDD----GAVVLADEGRVLAP  55
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+            V  +W   R R   +P   D ++  + T R           +VGPA+LR++ALY I R  
+Sbjct  56   VASAW---RLRNPRVPADADAVVAARPTPRIDRLAAREGLTLVGPADLRNLALYGIDRRD  112
+
+Query  121  AEKLFNQYFNTSVTI  135
+            AE+LF  +F+ S  +
+Sbjct  113  AERLFATHFDASPVV  127
+
+
+
+
+>hypothetical protein [Halobacteriales archaeon]
+Sequence ID: MFB6300936.1 Length: 440
+Range 1: 1 to 436
+
+Score:123 bits(309), Expect:2e-26, 
+Method:Compositional matrix adjust., 
+Identities:134/517(26%), Positives:208/517(40%), Gaps:90/517(17%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            MAP+  DRFA  LR+L   R   FVA LW AR  E  T     I +  +N  +++ V   
+Sbjct  1    MAPIPEDRFADRLRDLPLDRMVTFVADLWAARGYETHTEGDSVIAV--RNGERTRLVCQH  58
+
+Query  61   VGHSW------MPNRFRRFTIPE-TVDILITTQQTKRYIETTGAVDARIVGPAELRSIAL  113
+                W      +P R R  +IP+ + DI++ T    R       +DAR++G   LR++ L
+Sbjct  59   GTGRWGTVLDRLPGRERSLSIPDGSADIVVITASAWRVRRLDKQLDARVIGVDTLRNLLL  118
+
+Query  114  YAIPRPTAEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRR  173
+            YAI       L  +YF+    + +       TR                     T   R 
+Sbjct  119  YAISPQQGNALCREYFDRPARMPTEMEPTGWTR---------------------TRGGRI  157
+
+Query  174  RPVASVFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLG  233
+              + ++ V ++L+T     G  +G  PG+         S +T VGT           F  
+Sbjct  158  AVLGAIGVTVLLVT-----GGIIGA-PGMTGLFGIGAQSPETDVGT---------PSFTE  202
+
+Query  234  VSSASAEQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVD  293
+             +       S + P+PR                                PPG++ +GI +
+Sbjct  203  TAGTPLPPTSTATPEPR------------------------------ALPPGLSESGIAN  232
+
+Query  294  PDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSE  353
+            P+ L  AH +TI G+SY + +  Q V   G + + +  EE  V  Q  Y+   +G   + 
+Sbjct  233  PETLIDAHLETIVGRSYTWTITYQ-VFVRG-EGYLKRQEEIRVRQQSRYVTNLSGDTVTG  290
+
+Query  354  NETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYI  413
+                  N+S YAD    Y + D+ +E      R+  +   +  +  R+A RA+ ++ +Y+
+Sbjct  291  PADPTANVSAYADGDFRYTKNDQGNET-----RYRRTLLTYRRDGTRYAIRAQVLLAKYL  345
+
+Query  414  DTSESRVVLSKPNDG--TYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRR  471
+              + S  V     +G   Y +   G+    N   RT      A +   GF+      Y  
+Sbjct  346  WGNYSTSVSEARRNGEPVYILTLVGENPDQNVSTRT-----TAVIGPDGFIRDLQRKYVT  400
+
+Query  472  VTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETA  508
+             + +ETT + VS  Y DIG+TT   P WY  A+N TA
+Sbjct  401  SSPSETT-IVVSLRYTDIGTTTVEAPPWYEAAKNATA  436
+
+
+
+
+>hypothetical protein [Halogeometricum limi]
+Sequence ID: WP_089883332.1 Length: 485
+Range 1: 203 to 445
+
+Score:124 bits(310), Expect:2e-26, 
+Method:Compositional matrix adjust., 
+Identities:81/248(33%), Positives:121/248(48%), Gaps:27/248(10%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQID  341
+            +PPG+  TG+VD + LAAAHAD+++G+SYR IV +     +  + W+ + ++A V N   
+Sbjct  203  FPPGIGATGVVDAETLAAAHADSVAGRSYRLIVHESGTRGWNDRVWRGVWQQAEVENPRH  262
+
+Query  342  YLYTATGILQS--ENET--------------------EDVNLSVYADRSAAYIRVDRESE  379
+            + YT TG ++S  EN++                    E V  + YAD    Y+R +  +E
+Sbjct  263  FRYTVTGYVESAAENDSARGVQNGTAESAGDTDGDGDELVQYTAYADGELVYVRTELRNE  322
+
+Query  380  ENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPF  439
+               SF R+ V   E G  +G F  RA   ++RY+D  E+ V     +   + ++A+G P 
+Sbjct  323  ---SFYRYPVYTDENG--HGLFERRAARNVERYLDAPETTVTREPRDLYPFHVVATGTPP  377
+
+Query  440  GINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+             +       +Y+A A V   GFVS    SY R   NET  V    EY  +     S+P W
+Sbjct  378  SLPDAENVSDYRAEATVGTDGFVSLLIVSYDRTRGNETRTVTYRLEYATMDRVNVSRPTW  437
+
+Query  500  YTTAQNET  507
+            Y  A  ET
+Sbjct  438  YDRAVGET  445
+
+
+
+
+>hypothetical protein [Salinigranum salinum]
+Sequence ID: WP_152041632.1 Length: 468
+Range 1: 1 to 426
+
+Score:103 bits(258), Expect:1e-19, 
+Method:Compositional matrix adjust., 
+Identities:134/516(26%), Positives:204/516(39%), Gaps:98/516(18%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            MA VS       LR+L   RF AFV  LW AR  E   +  + + +  +   Q + +  V
+Sbjct  1    MALVSVGTVRRGLRDLSADRFVAFVVTLWTARGAETTVVSGEGV-VDARRGGQHRQLRPV  59
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+            VG   +P   R     + + +L       R ++  G    R+V   +L ++ LYA+PR  
+Sbjct  60   VGRR-VPTAARD----DEILVLARPASAVRGVDDHGG---RVVDADDLHAMLLYAVPRSE  111
+
+Query  121  AEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASVF  180
+            A+ L  ++F+  +  DS+                             T    R P  S  
+Sbjct  112  ADDLCRRFFDRPLVADSTQ----------------------------TPVTARVPEYSAP  143
+
+Query  181  VVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASAE  240
+            +V+ LL      G+AL V                             + VF G +    +
+Sbjct  144  LVVGLL------GVALLV-----------------------------VGVFGGPTLYGDD  168
+
+Query  241  QQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLG-YPPGVTTTGIVDPDRLAA  299
+               +  PD    S  + A ++  ++  EP     +T    G YPPG+   G++D + LA 
+Sbjct  169  AAVFGAPD----SVGAGASAETPTD--EPTSAATETSAERGPYPPGLGPDGVIDANTLAD  222
+
+Query  300  AHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYL--YTATGILQSENETE  357
+             HA  ++GQSYR+ +  +         ++   E   VA+  +Y     A G L+  +   
+Sbjct  223  THAKAMTGQSYRWTITHREFVDGRPNAYRR--ETVSVASSTEYRTELEAAGDLRRADLVV  280
+
+Query  358  DVNLSVYADRSAAYIR--VDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDT  415
+              ++ VYAD    Y R  +  E EE+ +     V G   G +   +A+RAE  ++ Y+  
+Sbjct  281  -ASVEVYADGEIRYERRPIADEFEESYTVDPAPVQGVRNGEDE--YADRAERYLEWYLSV  337
+
+Query  416  SESRVVLSKPNDGT--YTIIASGQPF-GINTDGRTEEYQAVAQVNEQGFVSSFTASYRRV  472
+            SES VV S   DGT  Y +     P+ G+      E     A V+E G V      Y   
+Sbjct  338  SESAVVDSFERDGTRYYWVRLGRDPYPGV------ENSSGSALVDENGVVHELRRQYDVP  391
+
+Query  473  TENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETA  508
+             E   + V VS  Y D+GSTT   P WY      TA
+Sbjct  392  GEPGVSAV-VSLRYTDVGSTTVEPPAWYEAESAGTA  426
+
+
+
+
+>hypothetical protein [Halogeometricum luteum]
+Sequence ID: WP_310926509.1 Length: 496
+Range 1: 202 to 428
+
+Score:103 bits(256), Expect:2e-19, 
+Method:Compositional matrix adjust., 
+Identities:72/231(31%), Positives:109/231(47%), Gaps:9/231(3%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQID  341
+            +PPG+  TG+ DP+ LAAAHAD    +SYR +VR      +    W ++   A VA  + 
+Sbjct  202  FPPGIGPTGVTDPEGLAAAHADAAVDRSYRLVVRASGTETWDGDVWTDVRRRAAVAGPLT  261
+
+Query  342  YLYTATGILQSENE--TED---VNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGS  396
+            Y Y   G L+  ++  T D   V  + YAD    Y+R + E EE   F R+     E G 
+Sbjct  262  YRYAVVGSLRDGDDGATADGSLVRYAAYADGRYTYVRNNPEGEEE-RFRRYPARLDEGG-  319
+
+Query  397  NNGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQV  456
+             +G     A   + RY++ + + V           ++A+G P  ++     ++Y+A A+V
+Sbjct  320  -HGVIERGAAVAVARYLNATRTSVAREA-ESSRLRVVATGVPEAVDDPASVDDYRAEARV  377
+
+Query  457  NEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+               GFV +   SY R    E   V     Y+D+G+   S P WY  A+ ET
+Sbjct  378  APDGFVETLVVSYNRTDGGEARRVTYRLTYDDVGAVDVSPPAWYERARTET  428
+
+
+
+
+Range 2: 1 to 149
+
+Score:73.9 bits(180), Expect:8e-10, 
+Method:Compositional matrix adjust., 
+Identities:52/161(32%), Positives:76/161(47%), Gaps:16/161(9%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M  V++D FA  LR L+    TAFVA L+ AR  E V +                 VL  
+Sbjct  1    MPVVTSDEFARWLRRLDGDALTAFVADLYAARG-ESVAVRDD-----------GAVVLRD  48
+
+Query  61   VGHSWMP----NRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAI  116
+             G  + P     R RR ++    D ++  + T   +      DA +VGPAELR +ALY +
+Sbjct  49   GGRVFSPVPGRRRLRRPSVAADADAVVAARPTSALLRRAARADASVVGPAELRDLALYGL  108
+
+Query  117  PRPTAEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSL  157
+             R  AE+LF ++F+ S  +D+ + DE+  R  +      SL
+Sbjct  109  DRRDAERLFRKHFDASPVVDAPNPDESSGRRAALGRVGDSL  149
+
+
+
+
+>hypothetical protein [Natronobacterium lacisalsi]
+Sequence ID: WP_007141881.1 Length: 464
+Range 1: 1 to 452
+
+Score:102 bits(254), Expect:3e-19, 
+Method:Compositional matrix adjust., 
+Identities:139/542(26%), Positives:200/542(36%), Gaps:128/542(23%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M   S +RFA L   LE+    AFVAALWDA               G +   +   V+AV
+Sbjct  1    MVVPSRERFAALYEALERDERRAFVAALWDA--------------CGWETTVEGDVVVAV  46
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+                    R RR  +                 E   A DA  V P  LR   LYAI R  
+Sbjct  47   -----RDGRTRRLRV-----------------EVPPADDA--VDPGSLRDRLLYAIDREE  82
+
+Query  121  AEKLFNQYFNTSV-------------TIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRN  167
+             E+LF +YF+TS+             T DS   D  G+            L+      R 
+Sbjct  83   GERLFREYFDTSLEGVTRGTDDDGSATTDSRGRDRGGSAADIEAKNGDPGLDGADPTRRR  142
+
+Query  168  THAKRRRPVASVFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAE  227
+            + A R+ P+A++ VV ++L +   +G+ LG  PG   D +                    
+Sbjct  143  SLADRKHPIAALAVVCVVLGIAV-AGVWLG--PGALGDPT--------------------  179
+
+Query  228  IQVFLGVSSASAEQQSWSQPDPRTQSTASDARSQLA---SNGSEPRKTTGDTQTLL----  280
+                  V  AS  + + + PD       SD RS  A   ++G  P   T + +  L    
+Sbjct  180  ------VDRASDAEPTGTNPDRSDAERGSDPRSDAAESTADGDGPAALTAEEEAGLEGTP  233
+
+Query  281  ----GYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVV  336
+                G PPG+  TG+ DPDR+AA H + + G           + A   Q   +   EA  
+Sbjct  234  GSTQGPPPGIFLTGVDDPDRVAAEHLEALEG-----------IDALTLQVTVDGPREATP  282
+
+Query  337  ANQI---------DYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRF  387
+            A            D  Y          +  +     Y D    Y+ V  E +   S+ R 
+Sbjct  283  AGTPPGEFRVRIEDDAYRFEAGPDFGGDDRETAAERYGDGEYEYVVV--EDDGGRSYERR  340
+
+Query  388  SVSGGEFGSNNGRFANR--AESIIQRYIDTSESRVVLSKPNDGT--YTIIASGQPFGI-N  442
+             ++     +N  R + R  A+ +    ID      V +   DG   Y + A+  P  + N
+Sbjct  341  PLAA---DANPTRHSARIGADLVETHLIDPDAD--VTTALADGIVGYRVNATEPPAPLAN  395
+
+Query  443  TDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTT  502
+            T   T+ Y+A A V + G V     +Y         +V ++F YED+G T    P WY  
+Sbjct  396  T---TDGYRATAFVAQTGVVLELEVTYHHYPTG--ADVRIAFRYEDVGETVVEPPAWYDA  450
+
+Query  503  AQ  504
+            A+
+Sbjct  451  AK  452
+
+
+
+
+>hypothetical protein [Salinigranum marinum]
+Sequence ID: WP_318569534.1 Length: 365
+Range 1: 124 to 342
+
+Score:100 bits(250), Expect:4e-19, 
+Method:Compositional matrix adjust., 
+Identities:74/230(32%), Positives:113/230(49%), Gaps:15/230(6%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAF-GKQTWQELSEEAVVANQI  340
+            YPPGV     +D   L+AAH   + G+SYR+I R     A  G + W    + AVV + +
+Sbjct  124  YPPGVDDD-FLDVWVLSAAHTAAVDGRSYRFIARHTGAEALDGDRRWDTAWQHAVVDDDV  182
+
+Query  341  DYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGR  400
+             +LY+  G   + N++  V  + YAD ++ Y R   E+  + ++ R  V     GS+   
+Sbjct  183  -WLYSIVGYTAAGNDSRLVQYTTYADGNSVYRRA--ENGTDPAYERRPVRATAGGSDP--  237
+
+Query  401  FANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQG  460
+             A+RA   ++RY+ T+  R+     N   Y I+A+G+P  +  DG    Y A A V+  G
+Sbjct  238  HADRAGRYLRRYLATTAVRIDRPSWNPSMYRIVATGRPTAV--DGDVSNYTATALVDRDG  295
+
+Query  461  FVSSFTASYRRVTENETTN---VYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+            FVS+ +  Y   T +E T+   V   FEY  +  T    P WY  A+  T
+Sbjct  296  FVSTLSVEY---TLDEGTSERTVRFRFEYAAVDDTRVRPPGWYDDARAAT  342
+
+
+
+
+>hypothetical protein [Salinigranum sp.]
+Sequence ID: WP_372910761.1 Length: 481
+Range 1: 1 to 427
+
+Score:102 bits(254), Expect:4e-19, 
+Method:Compositional matrix adjust., 
+Identities:135/505(27%), Positives:209/505(41%), Gaps:83/505(16%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYI-YIGGQNESQSQTVLA  59
+            M  VS +     LR L + RF AFV+ALW AR  E   +E   +  +  Q+  +++ +  
+Sbjct  1    MGLVSNETVRRSLRGLSEERFVAFVSALWAARGAETNVVEGPGLSVVEAQHRGRTRRLGV  60
+
+Query  60   VVGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRP  119
+            V G S +P+       PE+VD+L+  +     +  T A   R+V   ++R++ LYA+PR 
+Sbjct  61   VTGRS-VPSD------PESVDVLVLARPAST-VRGTDAFAGRLVDSDDVRTMLLYAVPRT  112
+
+Query  120  TAEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASV  179
+             AE +  ++F      D   A+E   R  S T T     +S+                S+
+Sbjct  113  AAEDICRRFF------DRPLAEE---RDPSPTTTAPGPDHSV----------------SL  147
+
+Query  180  FVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASA  239
+             V ++ L+++            VA         G+T+             VF   +S  A
+Sbjct  148  VVGLVGLSLL------------VAGVFGGPILYGETS------------PVFGAPASDGA  183
+
+Query  240  EQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAA  299
+                    DP +  T +D+ S+   N SE        Q+   YPPG+   G+VD D LA 
+Sbjct  184  --------DPVSDVTTADSASE---NTSETESAAASFQSTT-YPPGLGAGGVVDHDALAD  231
+
+Query  300  AHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENETEDV  359
+            AHA+ ++GQSYR  +  +         ++   E   VA    Y     G    E  +  V
+Sbjct  232  AHANAVTGQSYRLTITHREYVDGKPAAYRR--ETVFVAEPTVYRTELEGAGDLERGSLVV  289
+
+Query  360  -NLSVYADRSAAYIR--VDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTS  416
+              +  YAD    Y R  V  E +   +    +V G   G   GR+A+R E  +  ++  S
+Sbjct  290  AGVEAYADGERRYQRRVVADEFDRRYTVETDAVRGVRNG--EGRYADRVEQYVDWFLSVS  347
+
+Query  417  ESRVVLS-KPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTEN  475
+            +S +V S +  D  Y  +      G +     E     A V+E G V      Y     +
+Sbjct  348  DSAIVDSFERGDVRYYWVR----LGADPYAGVENSTGSALVDENGVVHEVRREY-DYPGS  402
+
+Query  476  ETTNVYVSFEYEDIGSTTTSQPQWY  500
+            E  +  VS  Y D+G+TT S P+WY
+Sbjct  403  EGVSAAVSIRYTDVGTTTVSPPEWY  427
+
+
+
+
+>hypothetical protein [Candidatus Chewarchaeum aethiopicum]
+Sequence ID: MDY6819810.1 Length: 432
+Range 1: 1 to 414
+
+Score:101 bits(252), Expect:5e-19, 
+Method:Compositional matrix adjust., 
+Identities:126/515(24%), Positives:208/515(40%), Gaps:116/515(22%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARN-DEDVTIEQQYIYIGGQNESQ--SQTV  57
+            M P+    F   LR L++  F  FV+ALW AR  D D   E   +  G  +E      T 
+Sbjct  1    MPPIPRSTFTKRLRRLDRESFIGFVSALWQARGYDVDRDGELLRVTDGATSERLWVHHTT  60
+
+Query  58   LAVVGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIP  117
+               +G    P+          VDI+++ + +       G+    ++   ELR IALYAI 
+Sbjct  61   WPSIGGVEPPD--------GPVDIVVSNRASGPDQLPDGS--PTVIPADELRDIALYAID  110
+
+Query  118  RPTAEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVA  177
+            RPT ++LF QY + S  ++   +   G R                             VA
+Sbjct  111  RPTRDRLFEQYLDRSPVVEPDRSRPVGPRG----------------------------VA  142
+
+Query  178  SVFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSA  237
+            +V  V +   ++ G+ +++G               G T++  I  E++       GV S 
+Sbjct  143  TVLAVGLGALILVGTAVSMG---------------GPTSIAGITTEIT-------GVKSP  180
+
+Query  238  SA-EQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDR  296
+            +  E  +  QPD   + +A+  R+       EP   T        YPPGV +TGI + + 
+Sbjct  181  TPVEPSTERQPD---EPSATPTRTP-----DEPSPNTS-------YPPGVASTGITNAEL  225
+
+Query  297  LAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENET  356
+            +A  HA  + G+SY  ++           T++E+ E+ ++   +  +    G     +E 
+Sbjct  226  IADRHAQLLVGRSYELVL-----------TYREVEEDQLIG-AVQEIARVQGPTVYASEI  273
+
+Query  357  EDVNLSVYAD----RSAAYIRVDR---ESEENVSFGRFSVSGGEFGSNNGRFANRAESII  409
+            + +   +Y       +A Y    R   E+  N S      SGGE     G F +R E+ +
+Sbjct  274  QRLKPPIYDPSIIAETAVYADGQRRITEAAPNRSQPVDRRSGGE-----GPFTDRVETYL  328
+
+Query  410  QRYIDTSESRVV-LSKPNDGTYTIIASGQ---PFGINTDGRTEEYQAVAQVNEQGFVSSF  465
+              Y+   +S VV   +  + TY  I  G    P  +++ G+         ++++G V   
+Sbjct  329  GWYLTVEDSAVVDRVEHAEHTYYWIRLGNDPWPGLVDSSGQ-------VLIDDRGIVRYL  381
+
+Query  466  TASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWY  500
+              +Y R   ++ T + V   Y DIG TT   P+WY
+Sbjct  382  RVTYHR--PDDRTRITVEIRYTDIGDTTVEPPEWY  414
+
+
+
+
+>hypothetical protein [Halopelagius fulvigenes]
+Sequence ID: WP_379695563.1 Length: 468
+Range 1: 230 to 452
+
+Score:101 bits(252), Expect:7e-19, 
+Method:Compositional matrix adjust., 
+Identities:80/227(35%), Positives:107/227(47%), Gaps:5/227(2%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQID  341
+            +PPGV   G+ D   LAAAHAD ++G+SY+ IVR+   +A   + W      A VA    
+Sbjct  230  FPPGVGPAGVADAATLAAAHADAVAGRSYQLIVRQSGTNARTGRGWTRAYRRADVAGPTR  289
+
+Query  342  YLYTATGILQS-ENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGR  400
+            Y Y  TG   + E   E  + S+YAD    Y+    E  E  S+ R  V   E G  +G 
+Sbjct  290  YRYFVTGYRATGEGGAEFAHYSMYADGRHNYVYT--EHGEKQSYARHVVEADEDG--HGP  345
+
+Query  401  FANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQG  460
+            F NRA   ++RY+D   + V     +   Y I+A+G P  +   G   +Y+A A V   G
+Sbjct  346  FENRAAGAVRRYLDAPRTNVTRKNWSVQPYRIVATGTPRSLPNSGNVTDYRAEAHVGADG  405
+
+Query  461  FVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+            FVS    SY      ET +V    EY D    T   P WY  A+N T
+Sbjct  406  FVSLLVVSYEVRAGGETRSVRFRMEYTDADPETVRAPPWYDEARNAT  452
+
+
+
+
+>hypothetical protein [Halogeometricum salsisoli]
+Sequence ID: WP_310923747.1 Length: 536
+Range 1: 204 to 450
+
+Score:97.4 bits(241), Expect:2e-17, 
+Method:Compositional matrix adjust., 
+Identities:71/253(28%), Positives:110/253(43%), Gaps:40/253(15%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQID  341
+            +PPG+  TG+  P+RLAAAHAD ++G+SYR +VR+     +    W ++  EA V +   
+Sbjct  204  FPPGIGPTGVTGPERLAAAHADAVTGRSYRLVVRESGTETWRGDVWDDVWREAAVESPRR  263
+
+Query  342  YLYTATGILQSENETEDVN-------------------------------LSVYADRSAA  370
+            + Y   G ++ E      N                                + YA+   A
+Sbjct  264  FRYVVAGSVRVEENGAGTNASGGGGDAGDSTGTGGADTTPTAGDGDRLVHYTAYANGRYA  323
+
+Query  371  YIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYID---TSESRVVLSKPND  427
+            Y+  +R  E +VS  RF V      S  G F  RA + ++RY+D   TS +R   ++P +
+Sbjct  324  YVHNER-GEGDVS--RFRVRLDR--SGRGPFERRAATAVERYLDATRTSVTREAEAEP-E  377
+
+Query  428  GTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYE  487
+              Y ++A+G P          +Y+A A+V   GFV   + SY      E  +V     Y 
+Sbjct  378  SPYRVVATGTPEAFADPENVSDYRAEARVGPDGFVRRLSVSYVVADGGENRSVRYHLWYS  437
+
+Query  488  DIGSTTTSQPQWY  500
+             + +   S P WY
+Sbjct  438  GVDAVQISPPPWY  450
+
+
+
+
+Range 2: 1 to 150
+
+Score:65.1 bits(157), Expect:5e-07, 
+Method:Compositional matrix adjust., 
+Identities:48/158(30%), Positives:78/158(49%), Gaps:8/158(5%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M  V+   FA  LR L+    T+FVA L+ AR +  V  +   + + G +      VL+ 
+Sbjct  1    MTVVTRAEFARWLRRLDGEALTSFVADLYAARGESVVVRDDGAVVLDGGDR-----VLSP  55
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+            V       R RR ++    D+++  + T          +A +VGPAELR +ALYA+ R  
+Sbjct  56   VSAR---RRLRRPSVAADADVVVAARPTPALRRRAARANAAVVGPAELRDLALYALDRRD  112
+
+Query  121  AEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLL  158
+            AE+LF++YF+ S  +D+  ++    R  +      SL+
+Sbjct  113  AERLFDEYFDASPVVDAPESETPSGRRAALGRVGDSLV  150
+
+
+
+
+>hypothetical protein [Salinigranum sp. GCM10025319]
+Sequence ID: WP_380676663.1 Length: 475
+Range 1: 233 to 465
+
+Score:96.7 bits(239), Expect:3e-17, 
+Method:Compositional matrix adjust., 
+Identities:76/242(31%), Positives:109/242(45%), Gaps:11/242(4%)
+
+Query  272  TTGD-TQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAF-GKQTWQE  329
+            T GD T++   YPPGV   G +D   L+ AHA  + G+SY+ ++R     A  G   W  
+Sbjct  233  TPGDATESAPEYPPGVID-GYLDVWSLSRAHAAAVEGRSYQLVIRHSGSEALDGDHRWSS  291
+
+Query  330  LSEEAVVANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSV  389
+              + AVV N   +LY+  G   +EN +  V  + YAD    Y R      E   F R   
+Sbjct  292  AWQRAVVGNGETWLYSTIG-YTAENASRHVQYTEYADGEFVYRRTG--LSEGPEFDRRQA  348
+
+Query  390  SGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEE  449
+                  + +    +R +  + RY+ T+E  V     +   Y +IA+G+P G+  DG    
+Sbjct  349  ---RIDAADVPHTDRVQLYLLRYLRTTEISVDRPSWDPDRYRLIATGRPIGV--DGDVSN  403
+
+Query  450  YQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETAR  509
+            Y A   V+ +GFVS+ TA Y   T  E   V    +Y  +       P WY  A+N TA 
+Sbjct  404  YTATVFVSPEGFVSTLTAEYTLDTGGEARTVRFRLQYVAVDRARVRPPGWYDEARNATAS  463
+
+Query  510  ST  511
+             T
+Sbjct  464  PT  465
+
+
+
+
+>hypothetical protein [Haloferacaceae archaeon]
+Sequence ID: MFB6123410.1 Length: 430
+Range 1: 1 to 412
+
+Score:92.0 bits(227), Expect:7e-16, 
+Method:Compositional matrix adjust., 
+Identities:122/510(24%), Positives:196/510(38%), Gaps:108/510(21%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M  V   R  + LR L+ +   A VA LW AR  E  T  +  + +  +N  +SQ V   
+Sbjct  1    MTRVDPGRVESHLRRLDAAACRALVADLWSARGFE--TTREGDVVVADRN-GESQVVYVA  57
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+               +  P R         VD+++     +  +      D R++   +L  + LYA+ RP 
+Sbjct  58   TARASGPER--------RVDVVVAIGGNRPDVSD----DVRVLDATDLCEMLLYAVDRPV  105
+
+Query  121  AEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAK-----RRRP  175
+            A  L  ++         +  DE              L   L++ +RN  A      R  P
+Sbjct  106  AVDLCTRHLG-------APPDE--------------LAPPLSTRLRNRGAAVASTARSTP  144
+
+Query  176  VASVFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVS  235
+             A   V++    V+ G+  A    P   +D                              
+Sbjct  145  FA--LVLVACFVVVAGAAYA---PPSADAD------------------------------  169
+
+Query  236  SASAEQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPD  295
+               A+QQS   P   T +   D         S P +   D+      PPGV T+G+ +  
+Sbjct  170  --DADQQSAGAP---TATATPD------DGSSSPSRADADS------PPGVGTSGVTNLS  212
+
+Query  296  RLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENE  355
+             LA+AH+  + G++Y   +       + +     +  +  VA   D  +  T +   E+ 
+Sbjct  213  ALASAHSRVLDGRAYTLWLDYSRPRGW-EPNGTRVQRDTDVAVDGDRFFGETTLEGPESR  271
+
+Query  356  TEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAE---SIIQRY  412
+            T     +VY D S  YI     S++   + R   SGG        +A+ +    +++  Y
+Sbjct  272  TP--VQAVYYDGSDWYIA--DASDDGTRYRRIQSSGGA----PALYADPSTVRYTLVTEY  323
+
+Query  413  IDTSESRVV--LSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYR  470
+            + T E+ V    S+ +D  Y ++  G+P G+    R E Y  VA V+ +G V   TA YR
+Sbjct  324  LSTPETTVTERRSRGDDVLYRLVGRGRPTGLGA-ARAENYTVVAYVDSRGLVRDLTARYR  382
+
+Query  471  RVTENETTNVYVSFEYEDIGSTTTSQPQWY  500
+            R T++    V V   Y   GST+ + P WY
+Sbjct  383  RETDDGPIRVVVEVTYGRFGSTSVTPPPWY  412
+
+
+
+
+>hypothetical protein [Salinigranum rubrum]
+Sequence ID: WP_103425710.1 Length: 489
+Range 1: 1 to 425
+
+Score:91.7 bits(226), Expect:2e-15, 
+Method:Compositional matrix adjust., 
+Identities:137/511(27%), Positives:208/511(40%), Gaps:97/511(18%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M  VS++     LR     RF AFVAALW+AR  E   +    + +  +   Q++ +  V
+Sbjct  1    MGLVSSEAVGRRLRGFSDERFVAFVAALWNARGAETRVVTGTNV-VEARRGGQTRRLRVV  59
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+             G   +P+        + VD L+ ++     +  T A + RI+   ++ ++ LYA+PR  
+Sbjct  60   TGRR-VPSEC------DGVDALVLSRPVS-AVRGTDAFEGRILDSDDVHAMLLYAVPRSA  111
+
+Query  121  AEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASVF  180
+            A+ L  ++F      D S A+E   R  S T T  +  +S                AS+ 
+Sbjct  112  ADDLCRRFF------DRSLAEE---REPSGTVTARAPEHS----------------ASLV  146
+
+Query  181  VVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASAE  240
+            V ++ LT++            VAS        G T              VF    S  A+
+Sbjct  147  VGLVGLTLL------------VASVFGGPILYGGTN------------PVFGAPDSVGAD  182
+
+Query  241  QQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAA  300
+                + PDP T   ASDA S+   + S              +PPG+   G+ D D LA A
+Sbjct  183  PADATTPDP-TPENASDAGSESFESAS--------------FPPGLGPDGVTDYDALADA  227
+
+Query  301  HADTISGQSYRYIVRKQNV-----SAFGKQTWQELSEEAVVANQIDYLYTATGILQSENE  355
+            HA  ++GQSYR  +  +       +A+ ++T   ++E  V   ++D      G L+    
+Sbjct  228  HAHAVTGQSYRLTITHREYIDGRPTAYRRET-VSVAEPTVYRTELD----GAGNLE-RGP  281
+
+Query  356  TEDVNLSVYADRSAAYIRVDRESEENVSF-----GRFSVSGGEFGSNNGRFANRAESIIQ  410
+                 +  +AD    Y R     E + S+     G   V G   G   GR+A+R E  + 
+Sbjct  282  LVIARVEAFADGETRYERRVVADEFDRSYTVDTVGSDLVPGVRNG--EGRYADRVEQYVG  339
+
+Query  411  RYIDTSESRVVLSKPNDGT-YTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASY  469
+             ++  SES VV S   DGT Y  +      G +T    E     A V+E G V      Y
+Sbjct  340  WFLSVSESDVVDSFERDGTRYYWVR----LGADTYAGVENSTGSALVDENGVVHEVRRQY  395
+
+Query  470  RRVTENETTNVYVSFEYEDIGSTTTSQPQWY  500
+                 ++  +  VS  Y D G+TT S P WY
+Sbjct  396  -DYPGSDGVSAAVSIRYTDFGTTTVSPPAWY  425
+
+
+
+
+>hypothetical protein [Salinigranum halophilum]
+Sequence ID: WP_142861129.1 Length: 461
+Range 1: 3 to 426
+
+Score:84.7 bits(208), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:129/506(25%), Positives:191/506(37%), Gaps:88/506(17%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            + PV T R    LR L + RF AFV ALW AR  E   +E   + +  + + ++  +  V
+Sbjct  3    LVPVETVR--RRLRGLSEERFVAFVRALWSARGAETRVVEGTAV-VEARRDGRTTRLGVV  59
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+             G    P    R      VD+ +  + +   +  T A + RIV    +  + LYA+PR  
+Sbjct  60   TGRRLPPEADGR-----DVDVFVLARPSSS-VRGTNAFEGRIVDSDGIHGMLLYAVPRSV  113
+
+Query  121  AEKLFNQYFNTSVTIDSSHA-DETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASV  179
+            AE L  ++ + ++  +++ A  E+  R  +++    SL+  L  L               
+Sbjct  114  AEDLCRRFLDQALVTEAADARSESAPRVPAHS---ASLVVGLVGL---------------  155
+
+Query  180  FVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASA  239
+               +++  V  G  +  G  P                             VF   +S  A
+Sbjct  156  --ALLVAGVFGGPMLYGGPNP-----------------------------VFGAPASVGA  184
+
+Query  240  EQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAA  299
+            +     +    T + A DA        S P              PG+   G+ D   LA 
+Sbjct  185  DPVDDGETAESTPTNADDAEEPSVDAASFP--------------PGLGPDGVADAGALAD  230
+
+Query  300  AHADTISGQSYRY-IVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENETED  358
+            AHA   +GQSYR  I  ++ V   G+ T     E   VA    Y     G  + E     
+Sbjct  231  AHAKATTGQSYRVTITHREYVD--GRPTAYR-RETVFVAEPTVYRTELEGAGRFERGPLV  287
+
+Query  359  VN-LSVYADRSAAYIR--VDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDT  415
+            V+    +AD    Y R  V  E E   +     V G   G   GR+A+R E  +  Y+  
+Sbjct  288  VSGAEAFADGETRYHRRVVADEFEGTDTVDSEPVRGVRNG--EGRYADRVEQYVDWYLSV  345
+
+Query  416  SESRVVLSKPNDGT-YTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTE  474
+            S+S VV S   DGT Y  +      G +T    E     A V E G V      Y     
+Sbjct  346  SDSAVVDSIERDGTRYYWVR----LGADTYPGVENSTGSALVGEDGLVYEVRRQYDYPGS  401
+
+Query  475  NETTNVYVSFEYEDIGSTTTSQPQWY  500
+               + V VS  Y D+G+TT + P+WY
+Sbjct  402  TGVSAV-VSIRYTDVGTTTVTPPRWY  426
+
+
+
+
+>hypothetical protein [Halobium salinum]
+Sequence ID: WP_267619823.1 Length: 527
+Range 1: 244 to 483
+
+Score:83.2 bits(204), Expect:9e-13, 
+Method:Compositional matrix adjust., 
+Identities:77/249(31%), Positives:108/249(43%), Gaps:13/249(5%)
+
+Query  264  SNGSEPRKTTGDTQTLLGYPPGVT-TTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAF  322
+            SNG+      G       YPPGV    G VD + L+AAHA+ + G+SYR++       AF
+Sbjct  244  SNGTNDSGPVGAIDASPTYPPGVDREQGYVDVEALSAAHAEALDGRSYRWVGELDRSGAF  303
+
+Query  323  GKQTWQELSEEA-VVANQIDYLYTATGILQSEN-ETEDVNLSVYADRSAAYIRVDRESEE  380
+            G +   +    + VV     YL  ATG+   EN      + + YAD    Y RVD  +  
+Sbjct  304  GDRDDWDDIRWSEVVETDTRYLTNATGVRVEENGNVVRRSYASYADGEVRYRRVDGGAGP  363
+
+Query  381  NVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGT-YTIIASGQPF  439
+             V + R S      G     +A      I+RY+  S + V   +  +G  Y +  +  P 
+Sbjct  364  -VRYHRTSAE--PIGRPQATWA------IERYLGGSNASVSRLETREGRFYRVTVADPPP  414
+
+Query  440  GINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+            G     R  EYQA A V  +GFV +   +Y      ET  V   FEY+ +G  +  +P W
+Sbjct  415  GDEELRRAAEYQATAYVTGEGFVVALRVTYTLSEGEETGRVRYRFEYDRVGEASVDEPPW  474
+
+Query  500  YTTAQNETA  508
+               A   TA
+Sbjct  475  LDEALRRTA  483
+
+
+
+
+>hypothetical protein [Haloferacaceae archaeon]
+Sequence ID: MFB6095778.1 Length: 702
+Range 1: 220 to 462
+
+Score:83.2 bits(204), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:73/263(28%), Positives:113/263(42%), Gaps:59/263(22%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRK----QNVSAF--------GKQTWQE  329
+            YPPGV   G+ D   LA+AH   ++ +SY+ ++R     ++V  +        G   W  
+Sbjct  220  YPPGVDVDGVRDASALASAHRQAVANRSYQLLLRGHGDVRSVRPWPPGVYLYAGAPRWAS  279
+
+Query  330  LSEEAVVANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSV  389
+            L +   V     Y    TG+  +++  + V +  YAD  A Y R                
+Sbjct  280  LRQRISVERPTVYRSRLTGLHGNDSGGDMVVVDDYADGRAVYRRY---------------  324
+
+Query  390  SGGEFGSNNGRFANR-------AESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGIN  442
+             GG       R  NR       A   + R++ TSE+RV   + N+  + I+A+G PF I+
+Sbjct  325  -GGNATPKFVRVTNRDDLVGYAASEYLIRFLSTSETRV--ERLNENWFRIVATGNPFSIS  381
+
+Query  443  TDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETT------NVY--------------V  482
+               R+  Y+AVA V+  GFVS  + SY R   +E +      N++               
+Sbjct  382  DPIRS--YRAVAVVSRSGFVSRLSVSYERPVPSERSDSDTPGNIWQGRSLADPPARETEF  439
+
+Query  483  SFEYEDIGSTTTSQPQWYTTAQN  505
+            SFEY D+  T   +P WY  A++
+Sbjct  440  SFEYSDVNRTEVPRPPWYEAARS  462
+
+
+
+
+Range 2: 1 to 130
+
+Score:56.2 bits(134), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:39/136(29%), Positives:60/136(44%), Gaps:6/136(4%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M  +  + F+  LR L+   F AFVAAL+DAR +    +E   I +G            +
+Sbjct  1    MGLLGREPFSRSLRRLDSRGFVAFVAALYDAR-ETVARVEGSRIRLGDGRTVACLHRGPI  59
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+                  P R     +PE  D++++   + R         AR VGP  LRS+ LY I R  
+Sbjct  60   RARLAGPPR-----VPEGADVVVSASASDRSRAQAVERGARYVGPRRLRSLLLYGIDREV  114
+
+Query  121  AEKLFNQYFNTSVTID  136
+            AE L  ++    + ++
+Sbjct  115  AETLCREHLGRPLPVE  130
+
+
+
+
+>hypothetical protein [Natronobacterium haloterrestre]
+Sequence ID: WP_089788680.1 Length: 427
+Range 1: 1 to 426
+
+Score:81.6 bits(200), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:143/529(27%), Positives:201/529(37%), Gaps:125/529(23%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            MA  S DRFA L   LE+    AFVAALWDA    D T+E      GG        V+AV
+Sbjct  1    MAVPSRDRFAALYEALERDERRAFVAALWDACG-WDTTVE------GG-------VVVAV  46
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+                    R  R  +P T D                AVD     PA LR   LYAI R  
+Sbjct  47   RDGR---TRRLRVEVPPTDD----------------AVD-----PASLRDRLLYAIDREE  82
+
+Query  121  AEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASVF  180
+             E+LF +YF T++  D++  D+                + L +   N    R+ P+A + 
+Sbjct  83   GERLFREYFGTALE-DATRTDD----------------DELVTDPGNETRDRKPPIARLL  125
+
+Query  181  VVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASAE  240
+            +V  +L ++  S   L   P V    + E  S      T  ++               AE
+Sbjct  126  LVCAVLGIVVAS---LSFGPAVLGGPTVEQGSEAEPAATDPDD------------RGDAE  170
+
+Query  241  QQSWSQPDPR---TQSTASDARSQL--ASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPD  295
+              S    DPR    +STA +A S    A  G+    T G TQ   G PP +  TG+ DPD
+Sbjct  171  PDS----DPRLDGPESTAENAGSAALTAEEGAGLEGTPGSTQ---GPPPEIFLTGVDDPD  223
+
+Query  296  RLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENE  355
+            R+AA H + + G           + A   Q       EA  A       T  G  +   E
+Sbjct  224  RVAAEHLEALEG-----------IDALTLQVTVAGPREATPAA------TPPGEFRVRIE  266
+
+Query  356  TEDVNLSVYADRSAAYIRVDRE-SEENVSFGRFS--VSGGEFGSNNGRF-----ANRAES  407
+             +        D    +   DRE + E    G +   V  G+ G +  R      AN A  
+Sbjct  267  DDAYRFEAGPD----FGGNDRETAAERYGDGDYEYVVVEGDGGRSYERRPLAPDANPARH  322
+
+Query  408  IIQRYIDTSESRVVLSKPNDGTYTIIASG-QPFGINTDGRTEEYQAVAQVNEQGFVSSFT  466
+              +   D +E+ ++   P+    T +  G   + +N    TE    +A   +    ++F 
+Sbjct  323  SARIGADLAETHLI--DPDADVSTALVDGIVGYRVNA---TEPPAPLANATDGYRATAFV  377
+
+Query  467  ASYRRVTENETT--------NVYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+            A    V E E T        +V + F Y+D+G T    P WY  A++ T
+Sbjct  378  AQTGVVLELEVTYHHYPTGADVRIEFRYQDVGETVVEPPAWYDAARSAT  426
+
+
+
+
+>hypothetical protein [Halobacteriales archaeon]
+Sequence ID: MFB6211240.1 Length: 435
+Range 1: 1 to 432
+
+Score:80.5 bits(197), Expect:4e-12, 
+Method:Compositional matrix adjust., 
+Identities:124/522(24%), Positives:209/522(40%), Gaps:107/522(20%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDAR------NDEDVTIEQQYIYIGGQNESQS  54
+            M P+    F   L  L+     AFV  LW AR      +DE V +E+         ++++
+Sbjct  1    MPPIPRSTFRRRLNTLDAPDLAAFVRDLWAARGFEATVDDETVRVERP------STDAEA  54
+
+Query  55   QTVLAVVGHSWMPNRFRRFTIP--------ETVDILITTQQTKRYIETTGAVDARIVGPA  106
+            +T +       +P+   RFT+P        +  D  I T    + I      +  I+   
+Sbjct  55   RTFVI----RRVPSLLGRFTVPWNRSIASPDRDDACIVTNAPTQAIRRELDDNITIIDAD  110
+
+Query  107  ELRSIALYAIPRPTAEKLFNQYFN-TSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLI  165
+            +L  IA YAIPR     L + + + T VT+    AD +     S+  T H  +       
+Sbjct  111  DLYDIAFYAIPREQCSALLDDHLDITDVTV--PPADRSAG-PASDRRTIHVAV-------  160
+
+Query  166  RNTHAKRRRPVASVFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVS  225
+                         V V +I+L ++ G  +  G+  G  S +     S D T+ ++    +
+Sbjct  161  ------------WVLVGVIVLGLVAGGLLTTGI--GARSSL----VSSDATIDSVTPLPT  202
+
+Query  226  AEIQVFLGVSSASAEQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPG  285
+             +                   P P T  TA+ + S LA                    PG
+Sbjct  203  TD------------------TPAPST-VTATSSMSMLA--------------------PG  223
+
+Query  286  VTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYT  345
+            VT  G ++P RLAAAH D I+G++Y + +  +    +G      ++E   V+    YL T
+Sbjct  224  VTRDGQLNPARLAAAHEDAITGRAYTWTLTYRE---YGPNQTVIMNETVRVSTPTFYLIT  280
+
+Query  346  ATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRA  405
+                 +    T   +  VYA+    Y R+   + + V +    + G       GR ANRA
+Sbjct  281  VDRNGEPLLPTPISDREVYANTRMRYERI--LTADAVQYQERPIDG--HSRVAGRNANRA  336
+
+Query  406  ESIIQRYI--DTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVS  463
+            E+ I +Y+  D+S    + S+ +   + +  +G P    T+  T     +A +++ G V 
+Sbjct  337  ETYIIQYLSGDSSMYAGIESRGDRTLFILKTTGDPRPEITNATT-----IAWIDDTGLVY  391
+
+Query  464  SFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQN  505
+                 ++     + T V ++++Y  IG+TT S P W+T  Q+
+Sbjct  392  ELRRQHQPAGRADVT-VEITWKYTRIGNTTVSPPSWFTKIQS  432
+
+
+
+
+>MULTISPECIES: hypothetical protein [Haloferax]
+Sequence ID: WP_151162382.1 Length: 429
+Range 1: 204 to 408
+
+Score:80.5 bits(197), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:75/224(33%), Positives:109/224(48%), Gaps:27/224(12%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRY-IVRKQNVSAFGKQTWQELSEEAVVANQIDY  342
+            PGVTT GI +   LA AH   ++ +SYR+ +V +++++  G +T +E+    VV  +  +
+Sbjct  204  PGVTTAGIENATLLANAHRRAVTNESYRWTVVYRESIA--GDETGREVE---VVRVEAPH  258
+
+Query  343  LYTA----TGILQS---ENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFG  395
+            +YT+     G L++      TED     YAD S  Y R  R +E +    R  V   +  
+Sbjct  259  VYTSEVQRVGRLRAFPRPTATED----SYADGSMRYAR--RPNEPDGIAAR--VLDPDVR  310
+
+Query  396  SNNGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQ  455
+               GR A R E  ++ Y+ T  SRVV S   DG       G    +N   R+ +Y+  A 
+Sbjct  311  DGPGRHATRGERYVEWYLSTERSRVVNSTVEDGVVVYRVEGT---VNEFPRSRDYEFTAL  367
+
+Query  456  VNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+            V E GFV S   SY      +   V V FEY+ +G TT + PQW
+Sbjct  368  VEESGFVRSTRVSYE---TRDGLGVTVWFEYDAVGETTVTPPQW  408
+
+
+
+
+>hypothetical protein [Halolamina sp.]
+Sequence ID: MFW5911642.1 Length: 484
+Range 1: 1 to 435
+
+Score:79.7 bits(195), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:126/523(24%), Positives:196/523(37%), Gaps:103/523(19%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M PV  D F    R L       FVAA+W AR  E  T++   +     +  + +  + V
+Sbjct  1    MPPVPLDAFTREFRRLSPGDRAGFVAAVWAARGWE-TTVDGDVVV---ADRGEDRRRIRV  56
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARI--VGPAELRSIALYAIPR  118
+            V   W       F  P+  D+ +      R    + A +A +  V P  LR + LY I R
+Sbjct  57   VAPGW-------FGTPDLDDVDVLVVARDRKGVRSVASEAGVEYVPPEILRDLVLYGIDR  109
+
+Query  119  PTAEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVAS  178
+              A  L+ ++F+  +T     A E  T   +  +       +L SL  N     RR V +
+Sbjct  110  NRARTLYGEWFDRPLT---RTAPEPETEERAFDW----FWAALPSLTGN-----RRAVGT  157
+
+Query  179  VFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSAS  238
+            +  V+++   + G  +  G  P  +   +++ T  D   G +            G +S +
+Sbjct  158  LLFVVLVGIAVAGPALPGGSAPDQSPVTAADVTPADEPGGAV------------GAASPT  205
+
+Query  239  AEQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLA  298
+              ++S                                     G P GVT  G+VDP  L 
+Sbjct  206  PTERS-------------------------------------GLPSGVTRAGVVDPTTLV  228
+
+Query  299  AAHADTISGQSYRYIVR------KQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQS  352
+            AAH    +G   R  VR        N S  G    + ++   V  N+  Y + A      
+Sbjct  229  AAH---TAGVRNRSRVRSVTMTGSPNTSTMGGTVARNMTTRIV--NESHYRHRAESRFAG  283
+
+Query  353  ENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRY  412
+            E  T    L VYAD    Y RV+  +E    + R++V             +   S + RY
+Sbjct  284  EESTN--QLGVYADGDGVYQRVEIGNE--TRYSRYTVD-----ERPATGYDDLTSSLYRY  334
+
+Query  413  IDTSESRVVLS----KPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTAS  468
+               +E  VV        +  TY I   G+  G   +G  E+Y+A+A V+++G V++  AS
+Sbjct  335  FVGAEDTVVRCAIAYDTDCPTYRIEIDGEAPGA-LEGEAEDYEALAIVSDEGVVTTIRAS  393
+
+Query  469  YRRVTEN---ETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETA  508
+            Y     N   E   V  + +Y+   +     P W   A+N TA
+Sbjct  394  YTLPDANDDGEREPVRFALDYQ-FETVELESPTWLDDARNATA  435
+
+
+
+
+>hypothetical protein [Halogeometricum sp. CBA1124]
+Sequence ID: WP_191452926.1 Length: 234
+Range 1: 59 to 201
+
+Score:75.9 bits(185), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:47/148(32%), Positives:77/148(52%), Gaps:21/148(14%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQID  341
+            +PPG+  TG+ D + LA AHAD ++G+SYR ++R+     +  + W+ + ++A V +   
+Sbjct  59   FPPGIGATGVTDAETLADAHADAVAGRSYRIVLRQSGTEDWSGRVWRGVWQQAEVEDPRH  118
+
+Query  342  YLYTATGILQSE-----------NETED-----VNLSVYADRSAAYIRVDRESEENVSFG  385
+            + YT TG  +              +T+D     V  + YAD    ++RVD  +E   SF 
+Sbjct  119  FRYTVTGYARDRAAESRSGETPATDTDDDGDELVQYTAYADGEQIFVRVDGRNE---SFY  175
+
+Query  386  RFSVSGGEFGSNNGRFANRAESIIQRYI  413
+            R+ V   E G  +G F  RA S ++RY+
+Sbjct  176  RYPVRIDENG--HGLFEQRASSAVERYL  201
+
+
+
+
+>hypothetical protein [Haloferacaceae archaeon]
+Sequence ID: MFB6123832.1 Length: 452
+Range 1: 1 to 443
+
+Score:78.2 bits(191), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:125/526(24%), Positives:210/526(39%), Gaps:98/526(18%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            MAP+S   F +LLR L +  F  FVA LW AR   DV  +   + +   +  + + +L  
+Sbjct  1    MAPISRSAFRSLLRGLSREEFEGFVADLWAARG-RDVAADGDALVVTDPDSGERRRLL--  57
+
+Query  61   VGHSWMPNRFRRFTIPET------VDILITTQQTKRYIETTGAVDARIVGPAELRSIALY  114
+            V H        RF +         VD ++ +   +  ++  G     +V   EL  +ALY
+Sbjct  58   VRHD-----APRFALGSATAANADVDGVVRSGTGEADVDADGVA---VVDAEELYGMALY  109
+
+Query  115  AIPRPTAEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRR  174
+            AI R T   LF+ YF+ S T      D                       +    A+  R
+Sbjct  110  AIDRETCATLFDAYFDRSPTASDDAPDA----------------------LAGGSARSGR  147
+
+Query  175  PVASVFVVIILLTVITGS-GIALGV-MPGVASDISSETTSGDTTVGTIINEVSAEIQVFL  232
+            P+   ++V  +  V+  + G++ G+  PG +  +++ T S D   G    E +       
+Sbjct  148  PLPRRYLVAAVAVVVVAAIGVSTGLNAPGASDAVATPTPSDDVDSGGTAAEST-------  200
+
+Query  233  GVSSASAEQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIV  292
+            GV          ++PDP T                  R T  +    + +PPG+  TG+ 
+Sbjct  201  GVD---------AEPDPSTA-----------------RPTATEEWDDVPFPPGLAETGVT  234
+
+Query  293  DPDRLAAAHADTISGQSYRYI-VRKQNVSAFGKQTWQELSEEAVVANQIDY--LYTATGI  349
+            +   LA AH + +SG+ YR + V ++ V        +E+ +   VA+   Y    T  G 
+Sbjct  235  NVSALADAHTEALSGRPYRMVLVHREFVEGRPTGYRREVVD---VASLTRYRSRVTGAGT  291
+
+Query  350  LQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGR--FANRAES  407
+            +++     D +  VYA+ S  ++R  R SE   ++     +    G   GR  F  R++S
+Sbjct  292  VRTNPLVVD-DEDVYANGSVQFVR--RTSETGDAY-----AATPLGPRVGRDPFLLRSDS  343
+
+Query  408  IIQRYIDTSESRVV-LSKPNDGTYTIIA-SGQPFGINTDGRTEEYQAVAQVNEQGFVSSF  465
+             ++ ++  S++R+  + + N  TY  +   G P+        E     A V+ +G V   
+Sbjct  344  YVRWFLSVSDARISDVVQRNGRTYVWLTYRGDPW-----PGAENTTGSALVSSRGVVRVI  398
+
+Query  466  TASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETARST  511
+               Y      +   V V+    D+G    + P W   A+  TA  T
+Sbjct  399  HRQYTPAGWPD-VRVDVTVRITDVGDADVTPPPWAAEARQATANHT  443
+
+
+
+
+>hypothetical protein [Halobium palmae]
+Sequence ID: MFC6726717.1 Length: 212
+Range 1: 18 to 195
+
+Score:74.3 bits(181), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:54/185(29%), Positives:87/185(47%), Gaps:10/185(5%)
+
+Query  327  WQELSEEAVVANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGR  386
+            W+ +    VV +   YL  A+G+   + ETE  + + YAD    Y R+D E ++ V + R
+Sbjct  18   WERVEWHRVVESGDRYLTNASGVRVVDGETERASYATYADGEIQYRRIDDE-DDPVRYER  76
+
+Query  387  FSVSGGEFGSNNGRFANRAESI--IQRYIDTSESRVV-LSKPNDGTYTIIASGQPFGINT  443
+             S+     G      A R ES+  I RY+D     V+ L  P +  Y +  +  P  +  
+Sbjct  77   TSLVDRRDG------AVRPESVYVIDRYLDGKNVSVIRLEIPGETVYRVTVTDAPDTVGE  130
+
+Query  444  DGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTA  503
+             G   +Y+A A V + GFV+     Y    +  T+ V   F+++D+G+ T  +P W   A
+Sbjct  131  LGTVSDYRATAYVTDAGFVARLDVEYTARFDGATSEVRYGFDFDDVGNATVDEPAWIELA  190
+
+Query  504  QNETA  508
+            +  TA
+Sbjct  191  RQRTA  195
+
+
+
+
+>hypothetical protein [Halolamina sp.]
+Sequence ID: MFB6126970.1 Length: 469
+Range 1: 204 to 438
+
+Score:77.4 bits(189), Expect:6e-11, 
+Method:Compositional matrix adjust., 
+Identities:67/245(27%), Positives:113/245(46%), Gaps:16/245(6%)
+
+Query  266  GSEPRKTTGDTQT-----LLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVR-KQNV  319
+            G++P +   D +T     +  YP G+++ G+     L A+HA    G +YR  +      
+Sbjct  204  GTDPLRGGDDQETTTAAAVASYPAGLSSAGVESARALGASHASLARGSAYRLRLEFAGPP  263
+
+Query  320  SAFGKQTWQELSEEAVVANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESE  379
+               G Q ++ +   A V +   Y+     + ++E+     + S YA+ S  ++R  R++ 
+Sbjct  264  DEPGFQGFRRIQLRATVQSPSRYVVGVRFVPRNESAPA-TSYSRYANGSEEFVR--RDNG  320
+
+Query  380  ENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPF  439
+              V++ R   + G   + N        S+++RY+DT  SRV ++  +  T   + +  P 
+Sbjct  321  SAVTYDRRGRARGPSVTGN------VVSLVERYLDTRRSRVRVAGDDAETRLRVRAVDPG  374
+
+Query  440  GINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+            G + D     Y+A A V E GFV S    Y R  + E   V + F Y D+G+  TS P W
+Sbjct  375  G-SFDDTVSGYEATATVRESGFVESMRVQYARERDGERFPVRIVFSYLDVGTAETSPPSW  433
+
+Query  500  YTTAQ  504
+            Y  AQ
+Sbjct  434  YDDAQ  438
+
+
+
+
+>hypothetical protein [Haloferacaceae archaeon]
+Sequence ID: MFB6302911.1 Length: 441
+Range 1: 196 to 437
+
+Score:76.3 bits(186), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:68/245(28%), Positives:99/245(40%), Gaps:24/245(9%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSYRY-IVRKQNVSAFGKQTWQELSEEAVVANQI  340
+            YP G++  G+  P +LAAAH  T+  +SY   +       A G + W+ +     +  + 
+Sbjct  196  YPAGLSPAGVTAPSKLAAAHVTTVKNRSYALDVTFDGPAEARGFEDWEHVRWSLRIERRD  255
+
+Query  341  DYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESE-------------------EN  381
+             Y   AT     + +   V L VYAD    + R+                         +
+Sbjct  256  RYRVNATYRRAPDTDPSRVRLGVYADGETRFRRIGTPKGTGYVALPTNATAASAFPYVSS  315
+
+Query  382  VSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRV-VLSKPNDGTYTIIASGQPFG  440
+            V F R  V     G+    F + A S+I RY+DTSES V  ++   D  Y +IA+G+P  
+Sbjct  316  VEFDRAGVD-ALAGTTPRAFPHVASSLITRYLDTSESTVDPVTIDGDVRYHVIATGKPAR  374
+
+Query  441  INTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWY  500
+            +N       Y+A A V   G V+S T  Y          V  SF Y D  +     P WY
+Sbjct  375  LNDS--VIGYRADAWVTPNGRVTSMTVRYTLRRNGWPRYVRFSFAYTDYRTARVEPPPWY  432
+
+Query  501  TTAQN  505
+               +N
+Sbjct  433  GEGKN  437
+
+
+
+
+>hypothetical protein [Candidatus Chewarchaeum aethiopicum]
+Sequence ID: MDY6819051.1 Length: 464
+Range 1: 1 to 459
+
+Score:75.1 bits(183), Expect:3e-10, 
+Method:Compositional matrix adjust., 
+Identities:133/535(25%), Positives:202/535(37%), Gaps:104/535(19%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIG-GQNESQSQTVLA  59
+            MAP+S+  FA  LR+L   R  AFVA LW AR  E   I+Q +   G G ++S+  +V+ 
+Sbjct  1    MAPISSATFARRLRDLPPERLAAFVADLWAARGYE-THIDQDWNGDGNGDSDSEGISVIV  59
+
+Query  60   ---------VVGHSWMPNRFR----RFTIPE-------TVDILITTQQTKRYIETTGAVD  99
+                     V  H   P R+R    R    E       + DI++TT   +R        D
+Sbjct  60   RRDGERQRLVCRHG--PGRWRAPLARLIGDEQPPSPSSSADIVVTTASGQRVRRLDARTD  117
+
+Query  100  ARIVGPAELRSIALYAIPRPTAEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLN  159
+            AR++G   LR + LYAI     ++L   Y +       +  D   T   + +  + ++L 
+Sbjct  118  ARVIGTNTLRELLLYAIDPRRGDELCQAYLDRPA---RTTTDAETTAWTATSGGRVAILG  174
+
+Query  160  SLTSLIRNTHAKRRRPVASVFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGT  219
+            ++                    V+IL   I G+  A GV  G  +               
+Sbjct  175  AI-----------------ALTVVILTGGIIGAPGAAGVF-GFGA---------------  201
+
+Query  220  IINEVSAEIQVFLGVSSASAEQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTL  279
+                     Q     ++       WSQ  P        AR Q  +   +P +  G ++T 
+Sbjct  202  ---------QSTPTSTTTPTTAPVWSQGSP-----VPTAR-QTPTLTPKPARPPGLSET-  245
+
+Query  280  LGYPPGVTTTGIVDPDRLAAAHADTISGQSY----RYIVRKQNVSAFGKQTWQELSEEAV  335
+                      GI DP+ L   H D ISG SY     Y +  +N S F  Q   E  E   
+Sbjct  246  ----------GITDPEVLIDDHFDDISGHSYTLTITYRILPEN-SLFRGQRTIERQEVIR  294
+
+Query  336  VANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFG  395
+            V     Y+   +G     N + D   +V A  +  +  V         + R  ++   + 
+Sbjct  295  VRRPSRYVTNVSGDRLQLNGS-DPTATVEAFGTDGFRYVKATGPNGTHYRRTPIT---YW  350
+
+Query  396  SNNGRFANRAESIIQRYIDTSESRVVLSKPNDGTYT-IIASGQPFGINTDGRTEEYQAVA  454
+            ++  R+A RA  +   Y+  + S  V     +G    I+   +P    T    +     A
+Sbjct  351  NDRTRYAVRARVLFASYLFGNYSTSVTETQYNGEPAYILTLVEP---ATAADEDPTTVTA  407
+
+Query  455  QVNEQGFVSSFTASYRRVT--ENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+             +   G + +     RR T  E +   V VS +Y +IGSTT S P WY  A+N T
+Sbjct  408  VIGTDGVIHTLQ---RRSTLKERDDVTVVVSLQYSEIGSTTVSPPPWYEAAKNAT  459
+
+
+
+
+>hypothetical protein [Salinibaculum salinum]
+Sequence ID: WP_340099827.1 Length: 428
+Range 1: 1 to 427
+
+Score:74.7 bits(182), Expect:4e-10, 
+Method:Compositional matrix adjust., 
+Identities:126/521(24%), Positives:194/521(37%), Gaps:107/521(20%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M P   D   T LR L  S   AFVA LWDA+              G + E     V+A 
+Sbjct  1    MTPADRDVVETHLRHLNVSELAAFVADLWDAQ--------------GFRTERDGLDVVAT  46
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVD--ARIVGPAELRSIALYAIPR  118
+             G   +  R         VD +         +   G  D  A  +  ++L     YA+ R
+Sbjct  47   RGEETLTIRV--------VDAVSGPVSADLVVAIDGGFDGHATTLDASDLGERLWYAVDR  98
+
+Query  119  PTAEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVAS  178
+            P A +L  ++                        T  +L   L   ++   + R  P  +
+Sbjct  99   PVARELCRRHLGE---------------------TPSALSTPLGLQLQRWGSGRSAPALA  137
+
+Query  179  VFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSAS  238
+              +VI ++TV+     A+G++                + G I N VS++ QV  G S   
+Sbjct  138  GILVIAVVTVL-----AVGLL---------------ASSGWIPNTVSSDSQV--GASDTP  175
+
+Query  239  AEQQS------WSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIV  292
+            A   +      WS      +S   DA      N  +P +          +PPGVT+ GI 
+Sbjct  176  AATATPAAATTWSH-----ESRLVDA------NTVDPAQ----------FPPGVTSDGID  214
+
+Query  293  DPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQS  352
+            D D LA+AH+  I  QSY   + +     + ++      +  +  +   YL  A    ++
+Sbjct  215  DIDALASAHSLAIGEQSYTMSIDRYQPEIWDQEVIDVHRDLDIEVSNGTYLLDAAE--RA  272
+
+Query  353  ENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANR-AESIIQR  411
+              ET  +  ++Y D +  Y+   +E    VS+    VS  E         +   E ++  
+Sbjct  273  NGETIPMG-TLYHDGTKTYLA--QEGFSGVSY--REVSATELRQQYPPLPSELTEQLVST  327
+
+Query  412  YID--TSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASY  469
+             +   T+E R +L +  D  Y +  SGQP   +  G    Y   A V E G V   + SY
+Sbjct  328  RLSTPTTEVRGILREGGDRLYLLTGSGQPEWQDI-GEVLRYNVSALVTETGLVRDVSLSY  386
+
+Query  470  RRVTENETTNVYVSFEYEDIGSTTTSQPQWYTT--AQNETA  508
+                 +   +V     Y+D+G TT   P WY    A+NET 
+Sbjct  387  MIRDGDRIVDVRREITYDDVGETTVDPPGWYHEQFARNETG  427
+
+
+
+
+>hypothetical protein [Halogeometricum limi]
+Sequence ID: WP_089881281.1 Length: 469
+Range 1: 1 to 462
+
+Score:74.7 bits(182), Expect:4e-10, 
+Method:Compositional matrix adjust., 
+Identities:130/523(25%), Positives:200/523(38%), Gaps:77/523(14%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLA-  59
+            M PV   +F   +R L+      FVAA W AR  E VT+       GG       TV+  
+Sbjct  1    MHPVDRRQFRRSVRRLDTGELRDFVAAAWRARGAE-VTVND-----GGSESRDGLTVVHG  54
+
+Query  60   -------VVGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIA  112
+                   VV   W     RR +    VD+L+  +      +       R+V P  LR   
+Sbjct  55   GESRFVRVVCGRWA---TRRLSPSPDVDVLVVDRPVSSRPDGV-----RVVDPDGLRDQL  106
+
+Query  113  LYAIPRPTAEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKR  172
+            LYA+PR    ++   +   S+ ++ S A  +     S    + S +  L +         
+Sbjct  107  LYALPRDRGVEVAATHLGLSLLVEDSGATSSVAERLSTD--RFSWVEPLPASAAVLVGVL  164
+
+Query  173  RRPVASVFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFL  232
+                         +T     GIALG         +SE   GD +VGT  +          
+Sbjct  165  VLLAVLGSAGGFWMTDGQNPGIALG--------DASERLGGDRSVGTAASA---------  207
+
+Query  233  GVSSASAEQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIV  292
+              ++ ++   + ++  P T+S A  A +     GS             G+PPG+ T G+ 
+Sbjct  208  --TATASATATTAERGPTTESEAETATAAGGRAGS-------------GFPPGLGTDGVT  252
+
+Query  293  DPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYL--YTATGIL  350
+            DP RLAAAHAD ++ QSY   +R Q         W+   E   VA+   Y+   T +G++
+Sbjct  253  DPYRLAAAHADGVTTQSYTVRIRYQESRNGTATGWRR--ERIQVASPTRYVTNVTRSGVV  310
+
+Query  351  QSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRF--SVSGGEFGSNNGRFANRAESI  408
+             +       ++  YAD    + R  R     +  G    +    +  + +G +A+R E  
+Sbjct  311  AAPPSVV-ADVEAYADGGTRWER--RVDGPPLPGGVVYTATPTRDARARHGYYADRIERY  367
+
+Query  409  IQRYIDTSESRVVLSKPNDG-TYTIIASGQ---PFGINTDGRTEEYQAVAQVNEQGFVSS  464
+            +  Y+    S V  S    G TY  +  G    P   N+ GR       A V  +G V  
+Sbjct  368  LGWYLSVENSTVEDSVEQSGTTYYWVRLGPDSYPGVENSTGR-------ALVTGEGIVLW  420
+
+Query  465  FTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+               SY    +N      VS +Y + G    ++P W + A+N T
+Sbjct  421  VERSY-ETPDNPDVTATVSIQYLNRGDVPVTEPPWVSNARNAT  462
+
+
+
+
+>hypothetical protein [Haloferax larsenii]
+Sequence ID: WP_074795946.1 Length: 445
+Range 1: 222 to 426
+
+Score:73.9 bits(180), Expect:5e-10, 
+Method:Compositional matrix adjust., 
+Identities:69/219(32%), Positives:103/219(47%), Gaps:17/219(7%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYL  343
+            PGVT+ GI +   LAAAH D ++  SY +I+  +  S  G +T +E+    V    +  +
+Sbjct  222  PGVTSAGIQNASVLAAAHRDAVTNHSYEWILGYRE-SIAGDETGREVEVVRVERPHVYSV  280
+
+Query  344  YTA-TGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFA  402
+             T   G L++         S +AD +  Y R   E +    F    V   +     GR A
+Sbjct  281  ETQRAGRLRAYPRPTSAEDS-FADGTYRYSRRPMEPD---GFA-VRVIDPDVLDGPGRQA  335
+
+Query  403  NRAESIIQRYIDTSESRVVLSKPNDGT--YTIIASGQPFGINTDGRTEEYQAVAQVNEQG  460
+             RAE  ++ Y+ T +SRVV +  +DGT  Y ++  G  F      R+ +Y+ VA V E G
+Sbjct  336  TRAERYVEWYLSTGDSRVVNTTSDDGTRVYRVVGRGTDF-----PRSRQYEVVALVEEDG  390
+
+Query  461  FVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+            FV S T +Y      +   + V FEY+D+  T    P W
+Sbjct  391  FVRSLTVTYE---TRDGLGITVWFEYDDVDETRIETPPW  426
+
+
+
+
+>hypothetical protein [Haloferax profundi]
+Sequence ID: WP_058571152.1 Length: 429
+Range 1: 204 to 419
+
+Score:73.9 bits(180), Expect:6e-10, 
+Method:Compositional matrix adjust., 
+Identities:78/237(33%), Positives:111/237(46%), Gaps:31/237(13%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRY-IVRKQNVSAFGKQTWQELSEEAVVANQIDY  342
+            PGVTT G+ +   LA AH   ++ +SYR+ +V +++++  G +T +E+    V       
+Sbjct  204  PGVTTAGVENATLLATAHRRVVANESYRWTVVYRESIA--GDETGREVEVVHVEEPH---  258
+
+Query  343  LYTA----TGILQS---ENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFG  395
+            +YT+     G L++      TED     YAD S  Y R  R +E +    R  V      
+Sbjct  259  VYTSEVQRVGRLRAFPRPTATED----SYADGSTRYAR--RPNEPDGIAAR--VLDPAVR  310
+
+Query  396  SNNGRFANRAESIIQRYIDTSESRVVLSKPNDG--TYTIIASGQPFGINTDGRTEEYQAV  453
+               GR A RAE  ++ Y+ T  SRVV S   DG   Y +  SG  F      R+ +Y+  
+Sbjct  311  DGPGRHATRAERYVEWYLSTERSRVVNSTVEDGVVVYRVEGSGNEF-----PRSRDYEFT  365
+
+Query  454  AQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETARS  510
+            A V E GFV S   SY      +   V V FEY+ +G TT + PQW       T R+
+Sbjct  366  ALVEESGFVRSTRVSYE---TRDGLGVTVWFEYDAVGDTTVTPPQWAGPEDRPTNRT  419
+
+
+
+
+>hypothetical protein [Haloferax sp. DFSO60]
+Sequence ID: WP_410766590.1 Length: 397
+Range 1: 159 to 397
+
+Score:71.6 bits(174), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:82/256(32%), Positives:112/256(43%), Gaps:29/256(11%)
+
+Query  261  QLASNGSEPRKTTGDTQTLLGYP------PGVTTTGIVDPDRLAAAHADTISGQSYRYIV  314
+            QLA+  + P  T   T T    P      PG+TT G+ +   LA AH + +   SY++ +
+Sbjct  159  QLATQDASPAATESSTSTPTATPVPRAIAPGLTTAGVENATALATAHREALGNHSYQWTI  218
+
+Query  315  RKQNVSAFGKQTWQELSEEAVVA-NQIDYLYTATGILQS---ENETEDVNLSVYADRSAA  370
+              +  S  G QT   +   AV A ++       +G L++      +ED     +AD +  
+Sbjct  219  GYRE-SIAGNQTGSAVETVAVEAPHRYRSSVQRSGTLRAFPRPTASED----AFADGTFR  273
+
+Query  371  YIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGT-  429
+            Y R  R SE +    R  V   E  +  GR A RAES I  Y+ T  SRVV S   +GT 
+Sbjct  274  YAR--RPSEPDGVAVR--VIDPETVAGPGRQAIRAESYIDWYLSTENSRVVNSSVENGTQ  329
+
+Query  430  -YTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYED  488
+             Y I+ SG  F      R+  Y   A + + GFV S   SY      +   V V FEY  
+Sbjct  330  LYEIVGSGNEF-----PRSVRYTVSAIIEDSGFVRSMEVSYE---TRDGVTVTVWFEYRA  381
+
+Query  489  IGSTTTSQPQWYTTAQ  504
+            I  TT   P W   A+
+Sbjct  382  IDETTVEPPSWAVNAR  397
+
+
+
+
+>hypothetical protein [Halobacteriales archaeon]
+Sequence ID: MFB6148845.1 Length: 280
+Range 1: 44 to 261
+
+Score:70.1 bits(170), Expect:4e-09, 
+Method:Compositional matrix adjust., 
+Identities:65/231(28%), Positives:98/231(42%), Gaps:19/231(8%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAV--VANQID  341
+            PGV TTG+ D DRLAAAH D++  +SY  +V  +     G +T++ ++   V     Q  
+Sbjct  44   PGVATTGVTDVDRLAAAHRDSLQDRSYTVLVVVRIELINGSRTYRRVTRLKVDTAHRQFW  103
+
+Query  342  YLYTATGILQSENETEDVNLSVYADRSAAYIR--VDRESEENVSFGRFSVSGGEFGSNNG  399
+                A+G    E E    N   ++D +  Y+R     E++    F RF+ +       N 
+Sbjct  104  LRQNASGPFPHELEPRR-NFDAWSDGNFTYVRSTTGDETDNRTEFQRFNPTSAPV---NA  159
+
+Query  400  RFANRAESIIQRYIDTSESRVVLSKPNDG--TYTIIASGQPFGINTDGRTEEYQAVAQVN  457
+               N  +S I+ Y+       V     DG   Y I   G  F        + Y   A V+
+Sbjct  160  EMLN-GQSAIRSYLGAVNRTTVTEVSRDGWIAYEIRTIGDRF--------QPYAIRAVVD  210
+
+Query  458  EQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETA  508
+              G + + T  Y   TE         FEY  +G+TT + P W + A+N T+
+Sbjct  211  TFGMIHALTVRYPVDTEFGAAIATYRFEYSGVGTTTVTAPDWVSKARNRTS  261
+
+
+
+
+>hypothetical protein [Haloferax sp. DFSO52]
+Sequence ID: WP_416840504.1 Length: 416
+Range 1: 194 to 400
+
+Score:70.5 bits(171), Expect:8e-09, 
+Method:Compositional matrix adjust., 
+Identities:73/224(33%), Positives:104/224(46%), Gaps:25/224(11%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEA-----VVAN  338
+            PGVTT GI +   LAAAH + ++ +SY++ +  +  S  G +T +E+         V  +
+Sbjct  194  PGVTTDGIENASVLAAAHRNVVANESYQWTIGYRE-SIAGDETGREVEVVRVEEPHVYTS  252
+
+Query  339  QIDYL-YTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSN  397
+            ++ ++ ++          +ED     YAD +  Y R  R +E +    R  V   E    
+Sbjct  253  EVQHVSWSGLRAFPRPTASED----SYADGAFRYAR--RPAEPDGVAVR--VLDPEVLDG  304
+
+Query  398  NGRFANRAESIIQRYIDTSESRVVLSKPNDG--TYTIIASGQPFGINTDGRTEEYQAVAQ  455
+             GR A RAE  I  Y+ T +SRV  S   DG   Y I  SG  F      R+ +Y   A 
+Sbjct  305  PGRHAIRAERYIDWYLSTEQSRVADSAVVDGVVVYRIEGSGTDF-----PRSRDYAFTAF  359
+
+Query  456  VNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+            V E GFV S  ASY      +   V V FEY+ +G+TT   P W
+Sbjct  360  VEESGFVRSMQASYE---TRDGLGVTVWFEYDSVGTTTVEAPSW  400
+
+
+
+
+>hypothetical protein [Haloarculaceae archaeon]
+Sequence ID: MFB6170051.1 Length: 725
+Range 1: 416 to 665
+
+Score:70.1 bits(170), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:78/287(27%), Positives:116/287(40%), Gaps:58/287(20%)
+
+Query  243  SWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHA  302
+            SW +P          AR +LA+      + TG + ++  YPPG+  TG++D D LAA H 
+Sbjct  416  SWLRP----------ARERLAAV-----EGTGPSHSIR-YPPGLGLTGVLDADALAATHE  459
+
+Query  303  DTISGQSYRYIV--------------RKQNVSAFGKQTWQELSEEAVVANQIDYLYTATG  348
+                 ++YR+ V              R   +   G   + E +  A VA    Y Y   G
+Sbjct  460  RLARDRNYRWTVVHEGSRDAARAPLGRPPALLGSGPDRYGEATAVARVAGDDRYRYAVEG  519
+
+Query  349  ILQS-ENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAES  407
+               +       V++ VYAD S     V R    N++   +     +    N  FA+RA  
+Sbjct  520  TTATGSGPPAHVSVGVYADGST----VIRREGGNLTDA-YHAESVDAADGNAVFADRAGR  574
+
+Query  408  IIQRYIDTSESRVVLSKPNDGTYTIIASGQP-FGINT-----DGRTEEYQAVAQVNEQGF  461
+             + R +    S V           ++  G+P F +       D    +Y A A V E+GF
+Sbjct  575  YVARALADRRSAVT---------PVVVDGRPHFRVRVPATPRDRSGLDYYATAVVTERGF  625
+
+Query  462  VSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETA  508
+            V S    Y R       +V  +FEY+ +G+ T   P WY TA + TA
+Sbjct  626  VRSL--DYER-----NGSVSFAFEYDHLGNATAPPPPWYGTALDRTA  665
+
+
+
+
+>MAG: hypothetical protein BRC86_05935 [Halobacteriales archaeon QS_3_64_16]
+Sequence ID: PSP74419.1 Length: 475
+Range 1: 222 to 446
+
+Score:69.7 bits(169), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:78/254(31%), Positives:111/254(43%), Gaps:43/254(16%)
+
+Query  263  ASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVR-KQNVSA  321
+            AS G E   T     TL   PPG+  +GI D + LA AH   ++ +SYR++V  ++ V  
+Sbjct  222  ASAGPELDATNESVGTL---PPGLGESGIADAEALADAHEAAVTNRSYRWVVTYEERVDG  278
+
+Query  322  FGKQTWQE-LSEEA------VVANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRV  374
+             G  T +E ++ EA       +  + D  Y AT  L SE E        YAD    Y  V
+Sbjct  279  QGVSTVREVVTAEAPDVYTIALEREGDQTYAAT--LFSETE-------AYADGEHRYEPV  329
+
+Query  375  DRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRV--VLSKPNDGTYTI  432
+                   V+  R  V     G  +G F +RAE+ ++ Y+  + S +  V    N   Y +
+Sbjct  330  ------RVAGSRDDVRETTLGIEDGTFPDRAETYVEWYLSATRSAITDVHEHDNRTIYRV  383
+
+Query  433  IASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTN----VYVSFEYED  488
+               G P+    + R     A A V  +G V      YR  +E E  +    V ++F Y D
+Sbjct  384  ETIGDPYPGAENAR-----ASAIVGSEGMV------YRLRSEREIPDSDRKVVLTFRYTD  432
+
+Query  489  IGSTTTSQPQWYTT  502
+            IG+ T S P WY T
+Sbjct  433  IGNATVSPPTWYRT  446
+
+
+
+
+>MAG: hypothetical protein BRC68_06135 [Halobacteriales archaeon QH_6_64_20]
+Sequence ID: PSP43665.1 Length: 537
+Range 1: 243 to 456
+
+Score:69.7 bits(169), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:70/228(31%), Positives:97/228(42%), Gaps:16/228(7%)
+
+Query  277  QTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVV  336
+            Q+L   PPG+  +GI D D LA AH   +S +SYR++V  +       Q    + E   V
+Sbjct  243  QSLRVLPPGLDESGISDADELADAHERALSNRSYRWVVTYEEF--VDGQPSGAVRETVTV  300
+
+Query  337  ANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGS  396
+                  +YT   I +  + T D  L  +AD  A      R     VS  R  V     G 
+Sbjct  301  ERP--RVYTVD-IERRGDPTLDPLL--FADTEAYADGEHRYEPIRVSGSRDDVRTAGLGF  355
+
+Query  397  NNGRFANRAESIIQRYIDTSESRV--VLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVA  454
+                FA+RA + I+ Y+  S S +  V    N   Y I  +G P+        E  +A A
+Sbjct  356  GQAAFADRAATYIEWYLSVSRSSIADVREAGNRTQYLIETAGDPY-----PGAENARASA  410
+
+Query  455  QVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTT  502
+             V+ +G V    +   R   NE   + V+F Y  IG+ T S P WY T
+Sbjct  411  VVDSEGMVHRLRSE--RELPNEDVRMVVTFRYTAIGNATVSPPAWYAT  456
+
+
+
+
+>hypothetical protein [Salinigranum marinum]
+Sequence ID: WP_318569476.1 Length: 478
+Range 1: 1 to 442
+
+Score:69.3 bits(168), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:132/538(25%), Positives:204/538(37%), Gaps:127/538(23%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDE-----DVTIEQQYIYIGGQNESQSQ  55
+            MA VS       LR L  +RF AFV ALW AR  E     D T+E ++       + + +
+Sbjct  1    MALVSPAAVRRQLRRLSDARFVAFVDALWAARGVETAVRGDRTVEARH-------DGRVE  53
+
+Query  56   TVLAVVGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYA  115
+            T+ AV G        R  +     D+L+ ++     +        R+V   +L ++ LYA
+Sbjct  54   TLRAVTGR-------RAPSDAADTDVLVLSRPASE-VRGVDEHPGRVVDADDLHAMLLYA  105
+
+Query  116  IPRPTAE----KLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAK  171
+            + R  A+    + F+   + +   D S A                               
+Sbjct  106  VSRSAADDLCRRFFDWPLSAAGPPDRSIA-------------------------------  134
+
+Query  172  RRRPVASVFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVF  231
+             R P +S  +V+ LL ++    I  GV  G A                     + +  VF
+Sbjct  135  VRVPESSAPLVVGLLGIVL---IVAGVFGGSAV-------------------YTDDAAVF  172
+
+Query  232  LGVSSASAEQQSWSQ-PDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTG  290
+                SA ++     +  DP T       R+ L +  +    TT        +PPG+   G
+Sbjct  173  GAPDSAGSDASDVVETADPPTT------RTPLGTESASFESTT--------FPPGIGPGG  218
+
+Query  291  IVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGIL  350
+            + D   LA +HA  ++G+SYR  +  +   +     ++   E   VA+  +Y     G  
+Sbjct  219  VDDEAILADSHAAAVTGRSYRLTITHREYVSGRPNAYRR--ETVFVASPTEYRTELDG--  274
+
+Query  351  QSENETEDVNLS---VYADRSAAYIR--VDRESEENVSFGRFSVSGGEFGSNNGRFANRA  405
+              E    D+ +S    +AD    Y R  V  E E   +     V G    S+ GR+A+R 
+Sbjct  275  AGELRRPDLVVSGVEAFADGGTRYERRVVAGEVEPAGTVDVTPVRG--IRSDEGRYADRV  332
+
+Query  406  ESIIQRYIDTSESRVVLSKPNDGT--YTIIASGQPF-GI-NTDGRTEEYQAVAQVNEQGF  461
+            E  ++ Y+  SES ++ S    GT  Y I     P+ G+ N+ G        A V+E G 
+Sbjct  333  ERYVEWYLSVSESAIIDSFERGGTSYYWIRLGSDPYPGVANSTGS-------AVVDEDGV  385
+
+Query  462  VSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWY------------TTAQNET  507
+            V      Y    E   + V V+  Y D G+TT   P W+            T+A NET
+Sbjct  386  VHEIRRRYDHPDEGNVSAV-VTIRYTDFGTTTVQPPAWHDASPAGTESDPPTSADNET  442
+
+
+
+
+>hypothetical protein [Haloarculaceae archaeon]
+Sequence ID: MFB6309202.1 Length: 302
+Range 1: 49 to 265
+
+Score:67.8 bits(164), Expect:3e-08, 
+Method:Compositional matrix adjust., 
+Identities:60/223(27%), Positives:93/223(41%), Gaps:9/223(4%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSY-RYIVRKQNVSAFGKQTWQELSEEAVVANQIDY  342
+            PG+   G+ D + LAAAH +++ GQSY RY          G    + + +   V N+  Y
+Sbjct  49   PGIAEYGVADVNALAAAHRESLEGQSYTRYERMNITPQMVGPAPTRTMEQRVAVENETTY  108
+
+Query  343  LYTATGILQSENET--EDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGR  400
+               AT   +   ++     N S Y      Y R     E+ +   R+SV     GS   R
+Sbjct  109  AVFATRTFRPREQSIRPLRNYSAYGSGGTVYARYRFAGEDQM---RYSVQ--TNGSGTER  163
+
+Query  401  FANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQG  460
+            F       I R++D   + V +++     Y +I    P         +E    A V++ G
+Sbjct  164  FRIDIGQRIIRFLDADRTNVTVTEYRGQRYYLIRGRGPQTRQLR-PLQELTVRAYVSKSG  222
+
+Query  461  FVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTA  503
+            FV + TA Y   +    +  +  FEY  +G TT  +P+W  TA
+Sbjct  223  FVRAMTAEYLAGSSGRVSRYHYHFEYRKVGETTVDRPEWIETA  265
+
+
+
+
+>DUF7537 family lipoprotein [Salinigranum halophilum]
+Sequence ID: WP_136592006.1 Length: 176
+Range 1: 18 to 165
+
+Score:65.1 bits(157), Expect:3e-08, 
+Method:Compositional matrix adjust., 
+Identities:51/158(32%), Positives:72/158(45%), Gaps:11/158(6%)
+
+Query  352  SENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQR  411
+            SE     V+  V+AD +  Y RV  E           ++G    ++  RF N+    +  
+Sbjct  18   SEGGFGSVHAEVFADGTDVYRRVHGEDRS------VYLTGPRLRAD--RFQNQGAWFVSV  69
+
+Query  412  YIDTSESRVVLS-KPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYR  470
+            Y+ T+ES V  S +    TY +   G P  +  DG    Y A A V+  G V S   SY 
+Sbjct  70   YLATAESAVSQSSRSAQRTYLVTGRGTPEQL--DGDISNYTATAVVDSDGLVRSLNVSYD  127
+
+Query  471  RVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETA  508
+            R T   T  V ++FEY D+G+TT + P WY  A+  T 
+Sbjct  128  RTTNGTTQLVSLAFEYRDVGNTTVTAPSWYPEARTVTG  165
+
+
+
+
+>hypothetical protein [Halobacteriales archaeon]
+Sequence ID: MFB6299294.1 Length: 447
+Range 1: 217 to 426
+
+Score:68.2 bits(165), Expect:5e-08, 
+Method:Compositional matrix adjust., 
+Identities:73/236(31%), Positives:113/236(47%), Gaps:36/236(15%)
+
+Query  283  PPGVTTTGIVDPDRLAAAHADTISGQSYRYIV--RKQNVSAFGKQTWQELSEEAVVANQI  340
+            PPG+  +GIVD   LA  HA  I+G+SY   +  R+ N + F       + E A V    
+Sbjct  217  PPGLAPSGIVDARALAQRHAQLIAGRSYELELTYREFNDTRFVGS----IQETARVERPT  272
+
+Query  341  DYLYTATGILQSENETEDVNLSVYADRSAAY----IRVDRESEENV-SFGRFSVSGGEFG  395
+             Y   A+ I+Q E+ + D    + AD SAAY    +RV R++ ++     +F  SGGE  
+Sbjct  273  VY---ASRIIQRESPSRDPQ--IIAD-SAAYANGTVRVTRDAPDDPRPVNQF--SGGE--  322
+
+Query  396  SNNGRFANRAESIIQRYIDTSESRVVLSKPNDG--TYTIIASGQPF-GINTDGRTEEYQA  452
+               G + +RAE+ +  Y+  +ES ++  +  D    Y +     P+ GI      E+   
+Sbjct  323  ---GWYEDRAETYLTWYLSVNESEIISREEQDNRTLYWVRIDEDPWPGI------EDSFG  373
+
+Query  453  VAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETA  508
+             A ++E+G V   + SY       TT + ++  Y +IG  T + P WY  A N TA
+Sbjct  374  RALIDERGIVHYLSVSYD--IPGSTTQIVIAIHYTEIGGVTVTPPDWY-EATNRTA  426
+
+
+
+
+>hypothetical protein [Haloarchaeobius sp. HME9146]
+Sequence ID: WP_261651843.1 Length: 564
+Range 1: 261 to 534
+
+Score:68.2 bits(165), Expect:6e-08, 
+Method:Compositional matrix adjust., 
+Identities:86/318(27%), Positives:129/318(40%), Gaps:50/318(15%)
+
+Query  194  IALGVMPGVASDISSETTSGDTTVGTIIN-EVSAEIQVF-LGVSSASAEQQSWSQPDPRT  251
+            IA G++PG+A D      +GD T     N  ++AE   F LG S            DP  
+Sbjct  261  IAFGLLPGMADD------AGDGTGAAGSNTSIAAEDPDFRLGES------------DPYP  302
+
+Query  252  QSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYR  311
+                 D              T  D       PPG+   GI D   LA AHA+ ++GQSYR
+Sbjct  303  GDFGDD--------------TLTDPTPFDDRPPGLADHGITDAAMLAQAHANVLAGQSYR  348
+
+Query  312  YIVRKQNVS--AFGKQTWQELSEEAVVANQIDYLYTATGILQSENETEDVNLSVYADRSA  369
+            + +    V+  +     WQ   +   V NQ  Y     GI  + +  E  ++   AD   
+Sbjct  349  WTLEFGGVADPSVDGPEWQVARQVVTVENQTAYRSEMVGITVAGDTIEQTSV---ADGET  405
+
+Query  370  AYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGT  429
+              +   +     VS    +V  GE     G   +RAE  ++ Y+D++ +    S    GT
+Sbjct  406  RQVVTKKGDTYAVSRQPVAVRYGE-----GYHEDRAERFVELYLDSARNIRSASYTVGGT  460
+
+Query  430  --YTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYE  487
+              + I+    P  ++      EY+ VA V E+G V   +  Y + T +    V VSF Y+
+Sbjct  461  TYHRIVGWSTPPSLSN---VSEYRFVAVVTEEGLVQDLSVRYVQSTPDGPRTVTVSFHYD  517
+
+Query  488  DIGSTTTSQPQWYTTAQN  505
+            ++G T    P    TA++
+Sbjct  518  EVG-TAVRDPDAEATAED  534
+
+
+
+
+>MULTISPECIES: hypothetical protein [Haloferax]
+Sequence ID: WP_225317637.1 Length: 457
+Range 1: 217 to 446
+
+Score:67.8 bits(164), Expect:6e-08, 
+Method:Compositional matrix adjust., 
+Identities:79/256(31%), Positives:112/256(43%), Gaps:31/256(12%)
+
+Query  249  PRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQ  308
+            P TQS+ +    Q A+   EPR              GVTT GI +   LAAAH D +S +
+Sbjct  217  PETQSSPAATPEQTAT--PEPRPIAS----------GVTTAGIENATLLAAAHRDAVSTE  264
+
+Query  309  SYRY-IVRKQNVSA--FGKQTWQELSEEAVVANQIDYLYTATGILQSENETEDVNLSVYA  365
+            SYR+ I  +++++    G++      EE  V +      + +G+      T   +   +A
+Sbjct  265  SYRWTIGYRESIAGDEIGREVEVVRVEEPHVYSSEVQRVSWSGLRAYPRPTSSED--SFA  322
+
+Query  366  DRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKP  425
+            D +  Y R   E +         V         GR A RAE  ++ Y+ T +SRVV S  
+Sbjct  323  DGAMRYARRPNEPDGLA----VRVIDPAVLDGPGRQALRAERYVEWYLSTEQSRVVNSTV  378
+
+Query  426  NDG--TYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVS  483
+             DG   Y I  SG  F      R+ +Y+ VA V E GFV S   SY      +   + V 
+Sbjct  379  EDGVTVYRIEGSGNDF-----PRSRDYEFVALVEESGFVRSMQVSYE---TRDGLEITVW  430
+
+Query  484  FEYEDIGSTTTSQPQW  499
+             EY+ +GSTT   P W
+Sbjct  431  SEYDSVGSTTVEPPSW  446
+
+
+
+
+>hypothetical protein [Haloplanus sp.]
+Sequence ID: WP_299332503.1 Length: 511
+Range 1: 2 to 510
+
+Score:67.8 bits(164), Expect:6e-08, 
+Method:Compositional matrix adjust., 
+Identities:131/562(23%), Positives:203/562(36%), Gaps:118/562(20%)
+
+Query  3    PVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAVVG  62
+            P S+  F  LL  L+   F AFVAAL++AR  E   ++   +   G+             
+Sbjct  2    PSSSAAFRELLDGLDPDAFAAFVAALYEARGRETDRVDGDILVSDGE-------------  48
+
+Query  63   HSWMPNRFRRFTI-----PETV--DI---LITTQQTKRYIETTGAVDARIVGPAELRSIA  112
+                  R RRF +     P T   DI    I         +T  A D  ++    LR ++
+Sbjct  49   ------RTRRFAVRHDTPPSTAVGDIDADAIVVPTAAGDTDTDAAAD--VIDATRLRRMS  100
+
+Query  113  LYAIPRPTAEKLFNQYFNTSVTIDSSHADET-GTRHHSN-TYTKHSLLNSLTSLIR----  166
+            LYA+  P   +LF ++F    T D   AD + G R  S+   +  S ++S  S+      
+Sbjct  101  LYAVDDPDRTRLFQRFFGVD-TADVGVADPSPGDRGASDDPVSSGSDVDSTRSVADDSFS  159
+
+Query  167  -----------------------------NTHAKRRRPVASVFVVI-ILLTVITGSGIAL  196
+                                           +   R P   +  V+ +LL+V+    + L
+Sbjct  160  SQSSPQSAPTTAGRAEGAGPSAEPLSDDPEANGPNRLPARGLLPVVGVLLSVVA---VTL  216
+
+Query  197  GVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASAEQQSWSQPDPRTQSTAS  256
+             V PG+A         G        N+  A         +      S   P     ST S
+Sbjct  217  AVGPGLAGLGFPSVADGGPAGDAAANDTMATATPTTATPTGGPAGASSRDP----PSTPS  272
+
+Query  257  DARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRY-IVR  315
+            D   + +++G+E             YPPGV   GI +   LAAAH  T+SG+SYR  +V 
+Sbjct  273  DI--EGSADGAE-----------GPYPPGVDADGIENASVLAAAHEATLSGRSYRLSVVD  319
+
+Query  316  KQNVSAFGKQTWQELSEEAVVANQIDYLYT--ATGILQSENETEDVNLSVYADRSAAYIR  373
+            ++ +S    Q      E+ VV     Y  T    G  Q +      + + YAD +  ++R
+Sbjct  320  REFLSG---QPTAAAWEQTVVEGPTRYRSTVEVAGTFQRQPRAV-ADATAYADGTERFVR  375
+
+Query  374  -------------VDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRV  420
+                         VDR  ++N + G           ++  FA R  + ++R +D   S +
+Sbjct  376  LTNRTDETGTIRFVDRRPDDNATAGGPGWRRTALTRDDDPFATRTAAYLRRTLDAENSAL  435
+
+Query  421  VLSKPNDGTYTI---IASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENET  477
+            + +   +GT  +        P G  T G          V+E+G V      Y  V   E+
+Sbjct  436  LGAYERNGTRYVWIEFRRQPPNGALTVGSL-------LVDERGLVHELHYEYAYVPVGES  488
+
+Query  478  TNVYVSFEYEDIGSTTTSQPQW  499
+                 +      G+ T S P W
+Sbjct  489  PVRTTTTVRITRGNVTVSPPSW  510
+
+
+
+
+>hypothetical protein [Haloferax sp. S1W]
+Sequence ID: WP_396611707.1 Length: 415
+Range 1: 191 to 403
+
+Score:67.4 bits(163), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:72/230(31%), Positives:101/230(43%), Gaps:23/230(10%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYL  343
+            PGVT+ G+ +   LAAAH D ++  SY + +  +  S  G +T +E+    V    +   
+Sbjct  191  PGVTSAGVQNASLLAAAHRDVVTNHSYEWTLGYRE-SIAGDETGREVEVVRVERPHVYVT  249
+
+Query  344  YTA-TGILQS---ENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNG  399
+             T   G L++      TED     YAD +  Y R   ES+    F    +      S  G
+Sbjct  250  ETQHAGRLRAYPRPTSTED----SYADGTYRYGRRPAESD---GFATRVIDPDTLNS-PG  301
+
+Query  400  RFANRAESIIQRYIDTSESRVVLSKPNDGT--YTIIASGQPFGINTDGRTEEYQAVAQVN  457
+            R A RAE  ++ Y+ T  SRV  +   +GT  Y ++  G  F      R+ +Y  VA V 
+Sbjct  302  RQAMRAERYVEWYLSTESSRVANTTTENGTRVYRVVGRGTDF-----PRSRQYDVVAVVE  356
+
+Query  458  EQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+            E GFV S   +Y      +   V V FEY+DI  T    P W T     T
+Sbjct  357  EGGFVRSLAVTYE---TRDGLGVTVWFEYDDIDETAVEPPPWVTPINGST  403
+
+
+
+
+>hypothetical protein [Halosimplex salinum]
+Sequence ID: WP_123539384.1 Length: 273
+Range 1: 50 to 266
+
+Score:65.9 bits(159), Expect:9e-08, 
+Method:Compositional matrix adjust., 
+Identities:68/231(29%), Positives:89/231(38%), Gaps:27/231(11%)
+
+Query  283  PPGVTTTGIVDPDRLAAAHADTISGQSYRYI-VRKQNVSAFGKQTWQELSEEAVVANQID  341
+            PPGV+  G +D D LAAAH D ++ +SY +   R  +     +     L   A VA +  
+Sbjct  50   PPGVSGGGRLDLDELAAAHRDALANRSYVWREWRGSHDPGVTETDDLLLVRSARVAAEDR  109
+
+Query  342  YLYTATGILQSEN-ETEDV-NLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNG  399
+            Y Y A   L      T  V N S Y      Y R+     E V   R         S + 
+Sbjct  110  YRYWADSYLVDLGMRTRFVHNYSEYVTGGVGYARLSPSGAEPVEVRRLPAP-----SASD  164
+
+Query  400  RFANRAESIIQRYIDTSESRVVLSKP-NDGTYTIIASGQPFGINTDGRT---------EE  449
+            R  +     I+RY         LS P  D T T++  G P     DG T           
+Sbjct  165  RVGDETAPAIRRY---------LSLPAEDVTVTVLRRGDPARYRIDGHTATVPGANPVRN  215
+
+Query  450  YQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWY  500
+            Y   A V+  G + S + SYR    +  T V   FE  ++G TT   P WY
+Sbjct  216  YSVTAVVSADGLLRSLSVSYRTDRPDGPTVVRYRFELSELGGTTVGPPDWY  266
+
+
+
+
+>MULTISPECIES: hypothetical protein [Haloarcula]
+Sequence ID: WP_188996759.1 Length: 254
+Range 1: 45 to 232
+
+Score:65.1 bits(157), Expect:1e-07, 
+Method:Compositional matrix adjust., 
+Identities:60/220(27%), Positives:89/220(40%), Gaps:36/220(16%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAV----VANQ  339
+            PG+TT GI  PD LA AH  ++  +SY   VR           W   + E V    V ++
+Sbjct  45   PGLTTDGIASPDALARAHRRSLYDRSYTLTVR-----------WTVGAREGVTRLAVEDE  93
+
+Query  340  IDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNG  399
+              Y Y      +SE      +  ++ D +  Y R  R     V F R     G+      
+Sbjct  94   RRYRY------RSEQMGGGYSDRMFVDGATRYNRYRRPL--GVKFVR-----GQSAPARD  140
+
+Query  400  RFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQ  459
+            RF +    +++ ++    + +   +P+   Y ++    P G +   R + Y   A V   
+Sbjct  141  RFGHVTARLVRSFLPAGPAAI---EPHPDGYELVVRRAPDGFD---RVDRYVVRAVVAPS  194
+
+Query  460  GFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+            GFV SF  SYR    N T   Y  F Y D+G T   +P W
+Sbjct  195  GFVRSFVVSYRNTERNATA--YHRFRYADVGETAVERPSW  232
+
+
+
+
+>hypothetical protein [Halobacteriales archaeon]
+Sequence ID: MFB6300017.1 Length: 455
+Range 1: 13 to 428
+
+Score:66.6 bits(161), Expect:1e-07, 
+Method:Compositional matrix adjust., 
+Identities:118/508(23%), Positives:196/508(38%), Gaps:111/508(21%)
+
+Query  13   LRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAVVGHSWMPNRFRR  72
+            LR+L+Q+   AFVA LW AR  E   IE +   +      +S  +  VV       RF  
+Sbjct  13   LRQLDQATLAAFVAELWSARGYE-TRIEDEEPLVIATKVGRSTVLYPVVT-----GRFDT  66
+
+Query  73   FT--IPE-TVDILI---TTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPTAEKLFN  126
+             T  +P+ ++D ++   T +Q  R +E T   +A +   A +R +  YA+ RPT   L  
+Sbjct  67   ATPSLPDRSIDGVVAPRTDRQVPRIVERT---NAELFDAAAIREMLWYAVDRPTRRTLCT  123
+
+Query  127  QYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASVFVVIILL  186
+            +Y                           +L  S+   +R    +R R + S   V+ ++
+Sbjct  124  RYLGGP---------------------PENLQPSVRIRVR----ERARALGSSAAVVSII  158
+
+Query  187  TVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASAEQQSWSQ  246
+            +++      LG + G  +D+    T+                                S 
+Sbjct  159  SLVL-----LGAIIGGIADVGQPPTAD-------------------------------SS  182
+
+Query  247  PDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYP-PGVTTTGIVDPDRLAAAHADTI  305
+            P+     T     + +    S P +T+  + +L   P PGVT  GI +   LA AH  ++
+Sbjct  183  PE-----TPPGTEAPITGTDSTPTETSDQSSSLWNVPVPGVTEDGITNLSALATAHEQSL  237
+
+Query  306  SGQSYRY---IVRKQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENETEDVNLS  362
+            + +SY     + R ++    G+     +  +  +A +         I + E+ +     +
+Sbjct  238  ANRSYTLWLDVYRPRD----GRMNASRVQRDIDIAVEDGQYRLDLSIEEVESGSRRSVRT  293
+
+Query  363  VYADRSAAYIRVDRESEENVSFGRFS--VSGGEFGSNNGRFANRAESIIQRYIDTSES--  418
+            VY D SA Y      + +NV++      VS      N         S++ +Y+ T  +  
+Sbjct  294  VYYDGSAWY--TANTTGDNVTYSHTDSFVSSPALEYNPFVL---ERSLVLKYLSTPRTET  348
+
+Query  419  --RVVLSKPNDGT---YTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVT  473
+              RVV     DG    Y I+  G P G +   +   Y AVA V   GFV S    Y ++ 
+Sbjct  349  AGRVV-----DGDRTYYRIVGHGPPSGFS---QVWGYTAVATVTRDGFVISLRIEYTKIA  400
+
+Query  474  ENETTNVYVSFEYEDIGSTTTSQPQWYT  501
+            +  T  V  +  Y+ +  TT   P WYT
+Sbjct  401  DTGTYEVRFTATYDRLDDTTVDAPAWYT  428
+
+
+
+
+>MULTISPECIES: hypothetical protein [Haloferax]
+Sequence ID: WP_151136418.1 Length: 426
+Range 1: 200 to 414
+
+Score:66.6 bits(161), Expect:1e-07, 
+Method:Compositional matrix adjust., 
+Identities:73/229(32%), Positives:100/229(43%), Gaps:19/229(8%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRY-IVRKQNVSA--FGKQTWQELSEEAVVANQI  340
+            PGVTT G+ +   LA AH   ++ +SYR+ I  +++++    G++      EE  V N  
+Sbjct  200  PGVTTAGVENATLLADAHRRVVANESYRWTIGYRESIAGDETGREVEVVHVEEPHVYNSE  259
+
+Query  341  DYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGR  400
+                + +G+      T   +   YAD +  Y R   E +         V   E     GR
+Sbjct  260  VQRVSWSGLRAYPRPT--ASEDSYADGAMRYSRRPNEPDGVA----IRVLDPEVLDGPGR  313
+
+Query  401  FANRAESIIQRYIDTSESRVVLSKPNDGTYT--IIASGQPFGINTDGRTEEYQAVAQVNE  458
+             A RAE  I  Y+ T  SRVV S   DG     I  SG  F      R+ +Y+ VA V E
+Sbjct  314  HAIRAERYIGWYLSTERSRVVNSTVEDGVEVTRIEGSGNDF-----PRSRDYEFVAFVEE  368
+
+Query  459  QGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+             GFV S   SY      +   V V FEY+ IG+TT   P W      +T
+Sbjct  369  SGFVRSMQVSYE---TRDGLGVTVWFEYDAIGNTTVEPPAWLGPEDRQT  414
+
+
+
+
+>MAG: hypothetical protein BRC77_07555, partial [Halobacteriales archaeon QH_8_64_26]
+Sequence ID: PSP63198.1 Length: 472
+Range 1: 224 to 457
+
+Score:66.6 bits(161), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:73/255(29%), Positives:115/255(45%), Gaps:27/255(10%)
+
+Query  263  ASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAF  322
+            AS G E   T    ++L   PPG++ +GI D + LA AH   IS +SYR++V  +  S  
+Sbjct  224  ASTGPELDATN---ESLGALPPGLSESGIADAEALARAHEAAISNRSYRWVVTYEERS--  278
+
+Query  323  GKQTWQELSEEAVVANQIDYLYTATGILQSENETEDVNL----SVYADRSAAYIRVDRES  378
+            G +T   + E  VV  +   +YT   + +  ++T    L      YAD    Y  V    
+Sbjct  279  GGRTVSTVRE--VVTIEAPDVYT-VALDRKGDQTYAATLFSETEAYADGEHRYEPV----  331
+
+Query  379  EENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDG--TYTIIASG  436
+               V+  R  V    FG  +  F +RA + ++ Y+  S S +     +D    Y I  +G
+Sbjct  332  --RVAGSRDDVRETAFGIEDDTFPDRAGTYVEWYLSASRSAITGVHEHDDRTIYRIETAG  389
+
+Query  437  QPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQ  496
+             P+        E  +A A V  +G V    A  R + +++ T V ++F Y ++G+ T S 
+Sbjct  390  DPY-----PGAENARASAIVGSEGTVYRLRAE-REIPDSDRT-VVLTFRYANVGNATVSP  442
+
+Query  497  PQWYTTAQNETARST  511
+            P WY    +   R+T
+Sbjct  443  PAWYAANASNDTRTT  457
+
+
+
+
+>hypothetical protein [Halobacteriales archaeon]
+Sequence ID: MFB6173917.1 Length: 275
+Range 1: 52 to 272
+
+Score:64.3 bits(155), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:69/233(30%), Positives:102/233(43%), Gaps:21/233(9%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVV-ANQIDY  342
+            PG+T++GIVD + L AAH       SY + VR+ +   +   T      + VV  ++  Y
+Sbjct  52   PGLTSSGIVDLEALVAAHVRAARNTSYVWTVREADSRPYRNGTADHGPTQRVVYVDESRY  111
+
+Query  343  LYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSF-----GRFSVSGGEFGSN  397
+            L   + +L +  +     L  YA       R     +E  ++     G  +    E  + 
+Sbjct  112  LREVS-LLAATVDGRRAYLQDYA-------RYADGDDEYATWTASLTGETTYRHVEDPAA  163
+
+Query  398  NGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVN  457
+            NGRFA  A   +  Y+   E+ V     +  T+  I +G    +   G  E+Y+A A V 
+Sbjct  164  NGRFARLAADPLLEYLALREATVTRVTVDGQTHYRI-TGTRDTLLRYGTVEDYRATAVVQ  222
+
+Query  458  EQGFVSS---FTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+              GFV     F A+YR    +  T V   F Y DIG+ T  +P W  TAQNET
+Sbjct  223  PDGFVRELDVFFAAYR---GSGRTEVSYRFAYTDIGTATLDRPAWVATAQNET  272
+
+
+
+
+>hypothetical protein [Halorubrum sp. SD626R]
+Sequence ID: WP_092566824.1 Length: 483
+Range 1: 232 to 477
+
+Score:65.9 bits(159), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:71/255(28%), Positives:104/255(40%), Gaps:20/255(7%)
+
+Query  263  ASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVR----KQN  318
+            AS G +    TG   +    PPGV  TG+ DPD LA AH  T +  S   ++       N
+Sbjct  232  ASLGLDEEALTGTVGSTARTPPGVFLTGVYDPDALADAHVATAANLSSASVLLVASGPAN  291
+
+Query  319  VSAFGKQTWQEL------SEEAVVANQIDYLYTATGILQSENETEDVNLSVYADRSAAYI  372
+             +     T   +        E  VA+   Y    +      N T D  + V+AD  A Y 
+Sbjct  292  ATDVDAATGGRVGIAGDGGVEMAVASARRYRLAGSANASIVNATRDGVVEVFADGDAVYE  351
+
+Query  373  RVDRESEENVSFGRFSVSGGEFGSNNGRFANR-AESIIQRYIDTSESRVVLSKPNDGTYT  431
+            R        V   R + S      N  R A   AE  I+R+++ S+S V  +      Y 
+Sbjct  352  RA--AGPAGVETRRVAPSA---APNATRLAATVAEEPIRRFLNGSDSTVRAAATEIPLYR  406
+
+Query  432  IIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGS  491
+            I   G+P  +  +   +++++VA V   G V   +A+Y  V E     V V+F Y+ +G 
+Sbjct  407  IEVRGEPRALGDE--VDDFRSVAFVTADGLVLELSATY--VHEPTGERVRVAFRYDRLGD  462
+
+Query  492  TTTSQPQWYTTAQNE  506
+            T    P WY    +E
+Sbjct  463  TAAVPPAWYPEVASE  477
+
+
+
+
+>hypothetical protein [Halolamina pelagica]
+Sequence ID: WP_054584178.1 Length: 136
+Range 1: 1 to 121
+
+Score:60.8 bits(146), Expect:4e-07, 
+Method:Compositional matrix adjust., 
+Identities:44/130(34%), Positives:63/130(48%), Gaps:9/130(6%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M PVS   FA+  R    S  TAFVAALWDAR  E  T+E   +    ++E +   V+  
+Sbjct  1    MPPVSVGTFASEFRGRSASDRTAFVAALWDARGWE-TTVEADTVVAEQEDERRRIRVVD-  58
+
+Query  61   VGHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPT  120
+                  P RF    + + VD+L+T +      +         V PAELR + LY I R T
+Sbjct  59   ------PGRFGTPDL-DGVDVLVTARDRAAVRDAAADAGVAYVPPAELRDLLLYGIDRDT  111
+
+Query  121  AEKLFNQYFN  130
+            A +L+ ++ +
+Sbjct  112  AARLYTEWID  121
+
+
+
+
+>hypothetical protein [Haloarchaeobius amylolyticus]
+Sequence ID: WP_267640083.1 Length: 558
+Range 1: 279 to 535
+
+Score:64.7 bits(156), Expect:7e-07, 
+Method:Compositional matrix adjust., 
+Identities:74/269(28%), Positives:112/269(41%), Gaps:30/269(11%)
+
+Query  247  PDPRTQSTASDARSQLASNGSEPRKTTGDTQTLL----GYPPGVTTTGIVDPDRLAAAHA  302
+            P   T   A D   +L  + + P    GDT        G PPG+   G+ D   LA AHA
+Sbjct  279  PGSDTSIAAEDPEFRLDESDTYPGDFGGDTLADPTPNDGRPPGLGAYGVTDASTLAQAHA  338
+
+Query  303  DTISGQSYRYIVR---KQNVSAFGKQTWQELSEEAVVANQIDYLYTATGILQSENETEDV  359
+            + ++G+SYR+ +      + S  G   W+   E   V N+  Y    TG+     + E +
+Sbjct  339  NALAGESYRWTLEFGATADPSTDGP-VWRVAREVVTVENRTVYSSELTGVTI---DGEAI  394
+
+Query  360  NLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESR  419
+              +  AD     +   + +   ++     V  GE     G   +RAE  ++ Y+DT  S 
+Sbjct  395  EQTGSADGETREVVTKKGNTYAINREPVMVRYGE-----GYHEDRAERFVELYLDTPRSI  449
+
+Query  420  VVLSKPNDGT--YTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENET  477
+               S   DG   + ++    P G++      +Y+ VA V E G V+  T  Y R T    
+Sbjct  450  RSGSYSVDGLTYHRVVGWNAPPGLSN---VTDYRFVAVVTEDGLVTDLTVKYERSTPAGD  506
+
+Query  478  TNVYVSFEYEDIG---------STTTSQP  497
+              V VSF Y+D+G          TTT +P
+Sbjct  507  QTVTVSFHYDDVGEPGIDAGVNGTTTGEP  535
+
+
+
+
+>DUF7537 family lipoprotein [Halomicrobium urmianum]
+Sequence ID: WP_225335757.1 Length: 276
+Range 1: 51 to 251
+
+Score:62.8 bits(151), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:57/217(26%), Positives:96/217(44%), Gaps:17/217(7%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYL  343
+            PG++   + D DRLA  H D +  +SY +  R+        ++  +LS   +V ++  Y 
+Sbjct  51   PGLSGQSVADADRLAQTHLDAVENRSYTWTQRRIVAWPAQNRSLVDLSH-LLVESERRYR  109
+
+Query  344  YTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRFAN  403
+            Y      ++ ++   V+ + YAD    Y R        V + R SV+     +   RF  
+Sbjct  110  Y------ETRSQWSRVDAAEYADGRYRYSRA--RGAGGVRYQRGSVT-----NATDRFGG  156
+
+Query  404  RAESIIQRYIDTSESRVVLSKPN-DGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFV  462
+             A + I+RY+    + V   +   +  Y ++  G+   I T G  E Y   A V+  GFV
+Sbjct  157  GAAASIRRYLAVENATVTAVRAGGERRYRVV--GRADSIPTLGTVENYTVRAVVSSDGFV  214
+
+Query  463  SSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+             +  A+Y     ++   V   F Y ++G+TT S P W
+Sbjct  215  QTLHAAYTTADGDDRQRVSYRFRYTNVGTTTVSPPAW  251
+
+
+
+
+>MAG: hypothetical protein BRC81_00520 [Halobacteriales archaeon QS_1_68_20]
+Sequence ID: PSP81478.1 Length: 447
+Range 1: 217 to 433
+
+Score:63.5 bits(153), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:59/235(25%), Positives:102/235(43%), Gaps:27/235(11%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQID  341
+            YPPG++  G+ + D LAAAH   +SG +Y  +   +   A G+     + E   V     
+Sbjct  217  YPPGISAQGVENADALAAAHVTNLSGYTYTMVFEYR---ALGENHTGTIRETTQVVGDTR  273
+
+Query  342  YL----YTATGILQSENETEDV---NLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEF  394
+            Y      T T +   +  T+     +   +A+    Y R   ESE+ V + R  V  G F
+Sbjct  274  YARHVNRTGTFVADPKVVTDPAVVRDGEAFANGEVHYERF--ESEDGVRYNRRQVYAGRF  331
+
+Query  395  GSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGT--YTIIASGQPFGINTDGRTEEYQA  452
+              ++    +RA   +QR + T E+ +V +    G   Y +  +G  +          ++ 
+Sbjct  332  PVHD----SRAAGFVQRTLATDETALVATFKRGGRTFYRVRFAGDDW--------PAFRG  379
+
+Query  453  VAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+             A ++E+G V      Y R  E+ +  + V+  Y D+ +T  ++P W +   NET
+Sbjct  380  EALIDERGVVHLLRTQY-RPPEHPSITITVTLRYTDLRTTEITEPDWLSDVSNET  433
+
+
+
+
+>DUF7537 family lipoprotein [Haloarcula sp. HT12]
+Sequence ID: WP_463455423.1 Length: 264
+Range 1: 38 to 256
+
+Score:61.6 bits(148), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:71/233(30%), Positives:94/233(40%), Gaps:16/233(6%)
+
+Query  269  PRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQ  328
+            P     DT      PPGVTT  + +   L+AAH   I+G SY    R    +     +  
+Sbjct  38   PTAAESDTVATPDPPPGVTTERLENVALLSAAHRQAINGTSYTLNERYNEFTIGNDTSSV  97
+
+Query  329  ELSEEAVVANQIDYLYTATGILQSENET-EDVNLSVYADRSAAYIRVDRESEENVSFGRF  387
+              +E   V +   Y      +    N T E    S YAD ++ Y R D  +   V   R 
+Sbjct  98   RRTETVAVESPTRYRDEMVRLRTDPNGTIERYEQSTYADGTSWYERRDNGT---VERQRG  154
+
+Query  388  SVSGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDG-TYTIIASGQPFGINTDGR  446
+            +V   +FG +  ++A R    + RY   + S   +   ND   Y I  SG    I T  R
+Sbjct  155  TV---QFGGD--KYAYRTRFYLNRYAVVNRSATTVVTTNDSRVYRIRGSGGE--IPTTER  207
+
+Query  447  TEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+             EE++    V   G V  F   YR     E   V  SF YEDIG TT  +P W
+Sbjct  208  LEEFRVELLVEPDGLVRRFDVRYR----TEDRRVEYSFWYEDIGETTAERPAW  256
+
+
+
+
+>hypothetical protein [Haloferax profundi]
+Sequence ID: WP_058570795.1 Length: 516
+Range 1: 13 to 499
+
+Score:62.8 bits(151), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:131/534(25%), Positives:200/534(37%), Gaps:82/534(15%)
+
+Query  9    FATLLRELEQSRFTAFVAALWDARN---DEDVTIEQQYIYIGGQNESQSQTVLAVVGHSW  65
+             A+ L  L+     AFVA +W AR    D D T+      +      ++QT+L V G  W
+Sbjct  13   LASHLARLDSQSCLAFVAEVWSARGFETDTDGTV------VSATKGGRTQTILPVRGRWW  66
+
+Query  66   MPNRF-----------RRFTIPE---TVDILITTQQTKRYIETTGAVDARIVGPAELRSI  111
+               R            RR   P    ++D++++    +R    + A  AR V  A    +
+Sbjct  67   HVGRSLRGISERLVGDRRVDGPNGRPSIDVVVSLGSDRRGDALSSAHGARHVDSAAFVEM  126
+
+Query  112  ALYAIPRPTAEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAK  171
+             LY + R  A +L  QY    +          G R    T  +  +        R  HA 
+Sbjct  127  FLYGLDRVDANRLAAQYLGAPID---------GLRPPLRTRMRRKVARGGR---RVAHAG  174
+
+Query  172  RRRPVA--------------SVFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTV  217
+            R  P                +V V ++   V  G+  + GV P      SS T SG  TV
+Sbjct  175  RPTPRGVAALVVLVLVVSGGAVNVGLVASPVEWGTQSSAGVAPD-----SSSTASGQPTV  229
+
+Query  218  GTIINEVSAEIQVFLGVSSASAEQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQ  277
+                     E  V    +       + S  DPR  +   D     A    EP    GD  
+Sbjct  230  EPY------EQPVQSTSTPTPTPGATTSITDPRAATAPFDGEPTRAD--LEPLDD-GDLN  280
+
+Query  278  TLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVA  337
+            ++    PGVT TGI +   L  AH   +S +SY   +        G  + +   +  V  
+Sbjct  281  SV----PGVTPTGIANLTELGDAHDAALSNRSYALWLDTYQPRDIGPNSSRIQYDTDVTV  336
+
+Query  338  NQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSN  397
+            ++  YL     +    N+      +VY D S  Y+    E E+     R     G   S 
+Sbjct  337  SENAYLIVEN-VEAGRNQAR--LRTVYYDGSDWYVT---ELEDGREVTRRVA--GNATSP  388
+
+Query  398  NGRFANRA--ESIIQRYIDTSESRVV--LSKPNDGTYTIIASGQPFGINTDGRTEEYQAV  453
+              +F  R     ++++Y+ T  + V   + + N   Y I    +P  I      ++Y+ V
+Sbjct  389  PVQFEPRELNRGLVRQYLATRTTNVTGKIREGNTTYYRIEGETRP-SIGGVEPVQDYRFV  447
+
+Query  454  AQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+            A V++ GFVS+   +Y  V++     V   + Y ++ STT S+P W T   NET
+Sbjct  448  AYVDDDGFVSAAKVTYALVSDAGVYRVQFEWTYGNLDSTTVSRPSWVTV--NET  499
+
+
+
+
+>DUF7537 family lipoprotein [Halomicrobium urmianum]
+Sequence ID: WP_225333921.1 Length: 290
+Range 1: 48 to 261
+
+Score:60.8 bits(146), Expect:4e-06, 
+Method:Compositional matrix adjust., 
+Identities:59/230(26%), Positives:94/230(40%), Gaps:26/230(11%)
+
+Query  285  GVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQ-ELSEEAVVANQIDYL  343
+            GV   G +D  RLA AHA  +  +SY +   +   S    +T    L     V     Y 
+Sbjct  48   GVAADGSIDAGRLARAHARAVENESYAFRSARGTTSTRANRTAPTSLQRTLSVEGPHSYH  107
+
+Query  344  Y-TATGILQSENETEDV-NLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRF  401
+            Y T   + + +     + N S YAD    Y+R    +E  V++   S      G+   RF
+Sbjct  108  YWTDRRLARIDGRLRFLANYSEYADDGVGYVRYTTGAESGVTYRPIS------GATPNRF  161
+
+Query  402  ANRAESIIQRYIDTSESRVVLSKPNDGTY-------TIIASGQPFGINTDGRTEEYQAVA  454
+             + A   I+R++   ++ V   + +   Y         + +G+P         E Y   A
+Sbjct  162  VSLATEPIRRHLALEDADVTAIRRDGQRYYEVEKARDQLVTGEP--------VENYTVTA  213
+
+Query  455  QVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQ  504
+             +   GFV S + SY  V   +    +  FEY D+G TT  +P+W + A+
+Sbjct  214  LIRPDGFVRSLSVSY--VDPEQQRRAFRRFEYADVGETTVERPEWVSDAR  261
+
+
+
+
+>hypothetical protein [Haloferacaceae archaeon]
+Sequence ID: MFB6304734.1 Length: 430
+Range 1: 202 to 429
+
+Score:61.6 bits(148), Expect:5e-06, 
+Method:Compositional matrix adjust., 
+Identities:71/259(27%), Positives:104/259(40%), Gaps:54/259(20%)
+
+Query  272  TTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELS  331
+            T GD    +   PGVT  G+VD D LA AHAD + G+SY + V  +    +  +T     
+Sbjct  202  TPGDGDAAVA--PGVTAAGVVDADALARAHADAVRGRSYEWTVTYREHGLYRGRT-----  254
+
+Query  332  EEAVVANQIDYLYTATGILQSENETEDV---------------NLSVYADRSAAYIRVDR  376
+               +VA     + T T  ++SE E  D                   VYAD S+  +R   
+Sbjct  255  --GLVA-----IGTRTVRVESETEFRDAVRIQGTPHTSPLPARERVVYADGSSRSVRSTA  307
+
+Query  377  ESEENVSFGRFSVSGGEFGSNN-GRFANRAESIIQRYIDTSESRVVLSKPNDGT-YTIIA  434
+                 V   R+ +S   F S+  GR+A+RA S ++R+    E+ +       G  Y  ++
+Sbjct  308  NGTATVD--RYPIS---FTSDGAGRYADRAASHVRRFAAADETELAGRVTRGGVRYRRVS  362
+
+Query  435  SGQPFGINTDGRTEEYQAVAQ------VNEQGFVSSFTASYRRVTENETTNVYVSFEYED  488
+                       R E +  V        V   GFV     +Y  V   +      +F Y  
+Sbjct  363  L----------RDERHAGVIDLRGTLLVAPSGFVRVLRVAY--VVPGQDRVASFTFRYAA  410
+
+Query  489  IGSTTTSQPQWYTTAQNET  507
+            +G+T  S P WY  A+N T
+Sbjct  411  VGATRVSAPAWYDAARNAT  429
+
+
+
+
+>hypothetical protein [Halosimplex rubrum]
+Sequence ID: WP_179911610.1 Length: 307
+Range 1: 47 to 264
+
+Score:60.5 bits(145), Expect:7e-06, 
+Method:Compositional matrix adjust., 
+Identities:63/241(26%), Positives:103/241(42%), Gaps:28/241(11%)
+
+Query  276  TQTLLG-YPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEA  334
+            T+T +G  PPGV+  G VD + LA AH + ++ ++Y + +R ++ S  G           
+Sbjct  47   TRTGVGERPPGVSVNGTVDAEALARAHTEYLADRTYTWSMR-EDASGPGAG----FVRRV  101
+
+Query  335  VVANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEF  394
+            VV N+   L    G L+        N S+Y + S  ++RV     E   +    + G   
+Sbjct  102  VVGNETFSLSQVQGELRR-------NASLYVNESGGFLRV--AEPEGTRYDLLRLPG---  149
+
+Query  395  GSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQP----FGINTDGRTEEY  450
+                  +     SI Q   D + +   + +     Y + A+G P     G   +     +
+Sbjct  150  --RPADYVFATVSIRQFLGDRTVAVSTVDRRGRTYYRLHAAGGPAPRALG-PAEATIRHF  206
+
+Query  451  QAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETARS  510
+             A A V  +GFV S  A Y RV + + ++V + ++Y  +G +  S P W     N T RS
+Sbjct  207  SATAYVTREGFVRSLAAEYDRVVDGDPSHVSIRYDYSRLGESAPSAPDW---VGNVTRRS  263
+
+Query  511  T  511
+            T
+Sbjct  264  T  264
+
+
+
+
+>MAG: hypothetical protein BRC60_02920 [Halobacteriales archaeon QH_1_68_42]
+Sequence ID: PSP51446.1 Length: 286
+Range 1: 69 to 274
+
+Score:60.1 bits(144), Expect:8e-06, 
+Method:Compositional matrix adjust., 
+Identities:61/226(27%), Positives:91/226(40%), Gaps:28/226(12%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSY-RYIVRKQNVSAFGKQTWQELSEEAVVANQI  340
+             PPGV+  G +D DRLA AHAD ++G SY     R   V+       Q L   AV  N  
+Sbjct  69   LPPGVSANGTLDVDRLARAHADALAGTSYTETFARTVTVAGAPTTVRQSLRRVAVDGNAT  128
+
+Query  341  DYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGR  400
+                    +++    T     +VY+D    Y+RV   +   V      ++G      +GR
+Sbjct  129  --------LVERAGTTLAPRRTVYSDPRGTYLRVSDPNRTRV----VELNG------SGR  170
+
+Query  401  FANRAESIIQRYIDTSESRVVLSKPNDGT--YTIIASGQPFGINTDGRTEEYQA-----V  453
+                 E+ + R++D     V   +   GT  Y I A+ +      + R E   A      
+Sbjct  171  VPT-PEATVSRFLDGPAVDVTPVE-RRGTVLYRIAATPEDGPAVLEARRETVTATNVSVT  228
+
+Query  454  AQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+            A V   GFV     +Y R        V ++ EY  +G+T  ++P W
+Sbjct  229  ALVARSGFVRELAVTYVREDRTRQQRVRLAVEYTGLGTTDVARPSW  274
+
+
+
+
+>hypothetical protein [Haloarculaceae archaeon]
+Sequence ID: MEF8843579.1 Length: 460
+Range 1: 1 to 437
+
+Score:60.8 bits(146), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:126/535(24%), Positives:201/535(37%), Gaps:121/535(22%)
+
+Query  1    MAPVSTDRFATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAV  60
+            M+  S   F TLL  L    F  F+AALW AR  E VT++   + + G+          V
+Sbjct  1    MSTPSRREFVTLLDRLGTEAFARFLAALWVARGRE-VTVDGDTLVVDGRR---------V  50
+
+Query  61   VGHSWMPNRFRRFTI----PETVDILITTQQ--TKRYIETTGAVDARIVGPAELRSIALY  114
+              H+        F I    P   D + TT    T R  E        ++GP E+R   LY
+Sbjct  51   RVHTACRRLPADFAIAGFDPGGADAVATTHPGATARLRER----GIEVMGPTEIRRATLY  106
+
+Query  115  AIPRPTAEKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSL----IRNTHA  170
+             I R  AE L  +           H D +  R       +  ++ SL  L    I    +
+Sbjct  107  GIDRREAEGLCRE-----------HLDRSLDRE-----PRPGVIRSLADLSVVDIDLVSS  150
+
+Query  171  KRRRPVASVFVVIILLTVITGSGIALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQV  230
+                  A+V  +I+ + ++   G+ +G +     D            GT           
+Sbjct  151  ------AAVVSIILAIGLVAAVGVPIGFV-----DFPDGGDDDGAAGGT-----------  188
+
+Query  231  FLGVSSASAEQQSWSQPDPRTQSTASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTG  290
+                S AS +  +  +P  R +            +G+      GD       PPGVTT G
+Sbjct  189  ----SVASDDATTPDEPGERIE------------DGTLGDGVAGD------LPPGVTTEG  226
+
+Query  291  IVDPDRLAAAHADTISGQSYRYIV-----RKQNVSAFGKQTWQELSEEAVVANQIDYLYT  345
+            + +   L+ AHAD   G+SY + +        N    G  +W ++     V ++  +  T
+Sbjct  227  VQNASALSRAHADAAVGRSYEWRLEYSRSEGGNPVLGGSSSWTQIVR---VEDRRAFRRT  283
+
+Query  346  ATGILQSENETED----VNLSVYADRSAAYIR----VDRESEENVSFGRFSVSGGEFGSN  397
+               +L S    E       + VYA     Y+R    VD E+ E           G   + 
+Sbjct  284  ---VLSSTGPPEQFLSGTGVDVYAQGDVRYVRTNGSVDAETSE-----------GAVEAE  329
+
+Query  398  NGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVN  457
+              R A+RA  ++ R++ +     + +   +G    + + +  GI+T   T  Y+A+A V 
+Sbjct  330  AVRAADRAAELVARFLASGNVVSIEATTREGENRYLVTAR--GIDTRSET-RYRAIALVE  386
+
+Query  458  EQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETARSTR  512
+              GFV     SY  +T ++  +V +   Y    + T  +P W  TA  + A+S +
+Sbjct  387  PSGFVPRLEVSY--LTGDDGESVSIVSRYSASRNVTVERPGW--TAAVDAAQSKK  437
+
+
+
+
+>hypothetical protein [Salinirussus sp.]
+Sequence ID: MFB6298088.1 Length: 462
+Range 1: 217 to 446
+
+Score:60.8 bits(146), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:63/249(25%), Positives:102/249(40%), Gaps:31/249(12%)
+
+Query  264  SNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNV-SAF  322
+            +N S P   +   +++L  PPGV T G+ DP  LAAAH   ++ +SY   +  +   + F
+Sbjct  217  TNDSRPPGPSELNESML--PPGVGTGGVTDPGSLAAAHDRALTNRSYTLSMEYRGPENRF  274
+
+Query  323  GKQTWQELSEEAVVANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENV  382
+                    + +  VA+    L   TG   + +    +  SV+ D S  ++          
+Sbjct  275  ASSGRVRRTLDVAVADDRYLLSVRTGPAGNTS----IARSVFYDGSDWHV----------  320
+
+Query  383  SFGRFSVSGGEF------GSNNGRFANRA-----ESIIQRYIDTSESRVVLSKPNDGTYT  431
+               RF+ +G  +      G   GR    +     E ++ RY+ T  +R+  S  +D   T
+Sbjct  321  --ARFTDNGTVWSVDRVPGEKAGRRPRPSPFELEEKLVTRYLSTPRTRIDGSPGSDQLVT  378
+
+Query  432  IIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGS  491
+            +   G P  + TD     Y   A V+ QG V   +  Y  VT    T+V +   Y    +
+Sbjct  379  VRGRGTPESVETD-TVRNYTVTALVDPQGLVRQVSVEYTLVTSMMRTDVSIEMSYSRFDA  437
+
+Query  492  TTTSQPQWY  500
+            T+   P WY
+Sbjct  438  TSVEAPVWY  446
+
+
+
+
+>hypothetical protein [Halosimplex sp. J119]
+Sequence ID: WP_459194344.1 Length: 273
+Range 1: 55 to 269
+
+Score:59.7 bits(143), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:60/221(27%), Positives:88/221(39%), Gaps:10/221(4%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYL  343
+            PG+T +GI D D L AAH    + +SY  + R++  S   +     L +  V   +   +
+Sbjct  55   PGLTGSGIADVDALVAAHRAATTNRSY--VWRERRGSTTRQNGSVPLFDRTVAHVESSSV  112
+
+Query  344  YTATG----ILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNG  399
+            Y        IL         N S YAD +  ++        +    R         + + 
+Sbjct  113  YRVWSGEQTILLRSGTASVANYSEYADGTELFVHYRYVGRNDSELQRRHAI---HANAHQ  169
+
+Query  400  RFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQ  459
+            R   RA   I+ Y+D  ES  V +   DG       G+        R   Y  VA V+ +
+Sbjct  170  RIGLRATDAIENYLDV-ESATVAAVSVDGRRQYEVVGRNRTTPAGDRRTNYTVVAVVSPE  228
+
+Query  460  GFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWY  500
+            GFV S  A+Y   +  E   V  +F YE++G TT   P WY
+Sbjct  229  GFVRSLDATYTTRSAGEPRRVRYAFTYENVGETTVDPPAWY  269
+
+
+
+
+>MAG: hypothetical protein BRC91_12760 [Halobacteriales archaeon QS_4_62_28]
+Sequence ID: PSP92707.1 Length: 266
+Range 1: 35 to 254
+
+Score:59.3 bits(142), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:60/236(25%), Positives:97/236(41%), Gaps:17/236(7%)
+
+Query  267  SEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQT  326
+            SEP  ++ +        PGV    I+D +RLA+AH + I  +SY +             T
+Sbjct  35   SEPATSSTEQTPESAIAPGVGGGRIIDANRLASAHRNAIRNRSYVWHEHHSATRVRADGT  94
+
+Query  327  WQELSEEAVVANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRV-DRESEENVSFG  385
+              E+     V N+  Y +      Q        N+S Y + ++ Y RV +R    +V   
+Sbjct  95   -LEIVARLEVENERRYYF------QQSTSWSGRNVSEYTEGTSRYRRVVERAGYRHVEEP  147
+
+Query  386  RFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDG  445
+               V+         R  +R  + + R++    + V  +  +   Y  I +G    I   G
+Sbjct  148  ATDVTA--------RLGDRPAAAVARFLSIGNATVRATDVDGRRYYRI-TGTTNSIPETG  198
+
+Query  446  RTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYT  501
+            R   Y   A V+  GFV + T SY   T ++   +   +EY D+G+ T S P+W T
+Sbjct  199  RINNYNVRALVSSSGFVRTLTVSYIEYTIDDRRRIAYRYEYADVGNATVSPPEWVT  254
+
+
+
+
+>PQQ-binding-like beta-propeller repeat protein [Halobacteriales archaeon]
+Sequence ID: MFB6299863.1 Length: 635
+Range 1: 9 to 146
+
+Score:60.5 bits(145), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:40/140(29%), Positives:62/140(44%), Gaps:3/140(2%)
+
+Query  9    FATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAVVGHSWMPN  68
+            F  L+R L++  F AFV  LW+AR  E  T  +  + +    ++ +   L  + H  M +
+Sbjct  9    FVHLIRRLDEESFAAFVVDLWNARGWE--TEMRNGVVVTTNPKTGAHHTLYPLHHGGMLS  66
+
+Query  69   RFRRFTIP-ETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPTAEKLFNQ  127
+            RFRR   P   +D+++      R       +DA IV  + L  I +YAI      +L   
+Sbjct  67   RFRRRKPPVADIDVIVAVDYGFRERTLAAELDADIVDASTLYEILIYAIDEDCRTRLLKD  126
+
+Query  128  YFNTSVTIDSSHADETGTRH  147
+            YF+ S   D +       RH
+Sbjct  127  YFDRSTLFDGAIGSVLNPRH  146
+
+
+
+
+>hypothetical protein [Haloferacaceae archaeon]
+Sequence ID: MFB6161275.1 Length: 258
+Range 1: 33 to 244
+
+Score:58.5 bits(140), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:63/233(27%), Positives:95/233(40%), Gaps:37/233(15%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYR--YIVRKQNVSAFGKQTWQELSEEAVVANQID  341
+            PG+  +GI +   LA AHA     +SY   Y  R  +         ++   E  V   +D
+Sbjct  33   PGLGRSGITNATALALAHARATDDRSYTVWYDYRGPH---------EDYPNEPRVHLDVD  83
+
+Query  342  YLYTATGILQSENETEDVNLSVYADRSAAYIR----------VDRESEENVSFGRFSVSG  391
+                    +++E +   V  SV    S   +R          V R    N S+  +   G
+Sbjct  84   --------MRAEGDRYTVVESVVRGESRRPVRREYYDGEDWYVARARGGNTSYLAWPAEG  135
+
+Query  392  GE--FGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGT--YTIIASGQPFGINTDGRT  447
+            GE  FG +   F  R   ++  Y+ T E+ V      DG   Y ++  G P     D   
+Sbjct  136  GEPTFGPDP--FTLR-RGLVVYYLSTPETNVTGRVERDGEKRYRVVGRGAPVAPAFD-EV  191
+
+Query  448  EEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWY  500
+            E+Y+ VA V+++GFV S T  Y R  +     V +   Y+ +G+TT   P WY
+Sbjct  192  EDYRFVALVDDRGFVRSLTVEYVRTVDGRRAPVRIEIGYDRVGTTTVRPPPWY  244
+
+
+
+
+>hypothetical protein [Halobacteriaceae archaeon]
+Sequence ID: MFB6106189.1 Length: 481
+Range 1: 217 to 434
+
+Score:59.7 bits(143), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:65/223(29%), Positives:96/223(43%), Gaps:11/223(4%)
+
+Query  283  PPGVTTTGIVDPDRLAAAHADTISGQSYRY--IVRKQNVSAFGKQTWQELSEEAVVANQI  340
+            PPG+   G+VD   LAAAH   + GQ +RY  + R +            L+  AVVA + 
+Sbjct  217  PPGLAPDGVVDVGALAAAHTAALDGQPHRYTLVYRGRTGPGVTADRLVGLTRRAVVARED  276
+
+Query  341  DYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGR  400
+             Y  T T +  + +E        YAD   A+    R   E  S+ R  +  G   ++ G 
+Sbjct  277  RYRATETTVRGTGDERVTRERETYADGRWAF--TVRRGPEETSYDRERL--GPADASVGP  332
+
+Query  401  FANRAESIIQRYIDTSESRV--VLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNE  458
+            F +R  + ++  + T  S +  V+    D  Y + A+G P GI +      Y A A+V E
+Sbjct  333  FGDRTGTYVRYLLSTEASNLSRVVGPDGDVEYRVHATGAP-GIGSYRSRANYTATARVTE  391
+
+Query  459  QGFVSSFTASY--RRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+             G V    A+Y   R   N TT+V   F   +      S+P W
+Sbjct  392  SGLVRRLRATYDVPRDDGNGTTSVLFRFAVSEYEGEAPSRPDW  434
+
+
+
+
+Range 2: 13 to 188
+
+Score:52.8 bits(125), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:52/202(26%), Positives:78/202(38%), Gaps:33/202(16%)
+
+Query  9    FATLLRELEQSRFTAFVAALWDARNDEDVTIEQQYIY-------IGGQNESQSQTVLAVV  61
+            F   LR L+   F AFVA LW AR  E VT E   +        I  +   +    L  V
+Sbjct  13   FRRHLRRLDGPAFAAFVADLWAARGYE-VTPEPPAVAAATDARTITVRRRGEPARRLRPV  71
+
+Query  62   GHSWMPNRFRRFTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPTA  121
+            G S +        +P  VD+++       +     AV A   GPA L  +  YA+  P  
+Sbjct  72   GGSGV------DAVPSGVDVVVAATDAADHRRDATAVGAAHRGPAALHEMLRYAVSPPDR  125
+
+Query  122  EKLFNQYFNTSVTIDSSHADETGTRHHSNTYTKHSLLNSLTSLIRNTHAKRRRPVASVFV  181
+            E+L   +F       S                   L   L+S +R+  A  RRP  ++  
+Sbjct  126  ERLCRTHFGRPPAALSP-----------------GLRVRLSSRVRSGIA--RRPAGTIVT  166
+
+Query  182  VIILLTVITGSGIALGVMPGVA  203
+             ++L ++++G+       P VA
+Sbjct  167  ALVLASLVSGAAAVAAFGPTVA  188
+
+
+
+
+>hypothetical protein [Haloplanus sp. GCM10025708]
+Sequence ID: WP_379797897.1 Length: 100
+Range 1: 13 to 82
+
+Score:55.1 bits(131), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:27/71(38%), Positives:39/71(54%), Gaps:1/71(1%)
+
+Query  430  YTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDI  489
+            + ++  GQP G +   R E Y  VA V+ +GFV + TA Y R T++    V V   Y  +
+Sbjct  13   FRVVGRGQPTGFDVY-RVENYTVVAHVDSRGFVRNLTARYLRRTDDGPIRVVVEVTYGRV  71
+
+Query  490  GSTTTSQPQWY  500
+            G+TT + P WY
+Sbjct  72   GTTTVTSPPWY  82
+
+
+
+
+>MULTISPECIES: DUF7537 family lipoprotein [Haloarcula]
+Sequence ID: WP_004963442.1 Length: 264
+Range 1: 38 to 256
+
+Score:58.5 bits(140), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:66/233(28%), Positives:89/233(38%), Gaps:16/233(6%)
+
+Query  269  PRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQ  328
+            P     DT T L  PPGVTT  + +   LAAAH   ++G +Y    R    +     +  
+Sbjct  38   PTAAESDTATSLDPPPGVTTERLENVALLAAAHRQALNGTTYTLHERYSEFTIGNDSSSV  97
+
+Query  329  ELSEEAVVANQIDYLYTATGILQSEN-ETEDVNLSVYADRSAAYIRVDRESEENVSFGRF  387
+               E   V +   Y      +    N   E    S YAD +  Y R D         G  
+Sbjct  98   RREETVAVESPTRYRDEMVRMRTDSNGAVERYEQSTYADGTNWYERRDN--------GTV  149
+
+Query  388  SVSGGEFGSNNGRFANRAESIIQRYIDTSESR-VVLSKPNDGTYTIIASGQPFGINTDGR  446
+                GE   +  ++A R    + RY   ++S   V+++     Y I  SG    I    R
+Sbjct  150  ERQRGEVRFSRDKYAYRTAFYLNRYAVVNQSATAVITRDGGRVYRIRGSGGE--IPAAER  207
+
+Query  447  TEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+             EE++    V     V  F+  YR     E   V  SF YEDIG TT  +P W
+Sbjct  208  LEEFRVELLVESNSLVRQFSVWYR----TEDRIVEYSFWYEDIGETTAERPAW  256
+
+
+
+
+>DUF7537 family lipoprotein [Haloarcula rubripromontorii]
+Sequence ID: WP_053966126.1 Length: 264
+Range 1: 38 to 256
+
+Score:58.2 bits(139), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:68/233(29%), Positives:91/233(39%), Gaps:16/233(6%)
+
+Query  269  PRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQ  328
+            P     DT T L  PPGVTT  + +   LAAAH   ++G +Y    R          +  
+Sbjct  38   PTAAESDTVTRLDPPPGVTTDRLENIALLAAAHRQAVNGTTYTLNERYSEFRIGNDSSSV  97
+
+Query  329  ELSEEAVVANQIDYLYTATGILQSENET-EDVNLSVYADRSAAYIRVDRESEENVSFGRF  387
+              +E   V +   Y      I    N T E    S YAD +  Y R D         G  
+Sbjct  98   RRAETVTVESPTRYRDELVRITTDSNATVERYEQSTYADGTNWYERRDN--------GTV  149
+
+Query  388  SVSGGEFGSNNGRFANRAESIIQRYIDTSES-RVVLSKPNDGTYTIIASGQPFGINTDGR  446
+                GE   +  ++A R    + RY   ++S   V+++     Y I  SG         R
+Sbjct  150  ERQRGEVQFSRDKYAYRTAFYLNRYAVVNQSTTTVVTRDGSRAYRIRGSGGEIPATEQLR  209
+
+Query  447  TEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+              E++    V   G V  F+  YR  TE+    V  SF YEDIG TT  +P W
+Sbjct  210  --EFRVELLVEPAGLVRRFSVWYR--TEDRI--VEYSFWYEDIGETTVQRPTW  256
+
+
+
+
+>hypothetical protein [Haloarchaeobius sp. TZWSO28]
+Sequence ID: WP_435318853.1 Length: 585
+Range 1: 282 to 542
+
+Score:59.7 bits(143), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:76/302(25%), Positives:119/302(39%), Gaps:45/302(14%)
+
+Query  194  IALGVMPGVASDISSETTSGDTTVGTIINEVSAEIQVFLGVSSASAEQQSWSQPDPRTQS  253
+            IA G++PG A D    T +  +  G     ++AE                    DP  + 
+Sbjct  282  IAFGLLPGTADDAGDATGAAGSNTG-----IAAE--------------------DPDFRL  316
+
+Query  254  TASDARSQLASNGSEPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYI  313
+              SD       +G     T  D       PPG+   GI D   LA AHA+ ++GQSYR+ 
+Sbjct  317  GESDTYPGDFGDG-----TLTDPTPFDDLPPGLADHGITDAAMLAQAHANVLAGQSYRWT  371
+
+Query  314  VRKQNVS--AFGKQTWQELSEEAVVANQIDYLYTATGILQSENETEDVNLSVYADRSAAY  371
+            +    V+  +     WQ   +   V N+  +     GI    +  E   +   AD  +  
+Sbjct  372  LEFGGVADPSVDGPEWQVARQVVTVENRTAFRSEMVGITVEGDTIEQTGV---ADGESRQ  428
+
+Query  372  IRVDRESEENVSFGRFSVSGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGT--  429
+            +   +     VS     V  GE     G   +RAE  ++ Y+D+  +    S    GT  
+Sbjct  429  VVTKQGDTYAVSRHPVVVRYGE-----GYHEDRAERFVEIYLDSPRNIRSASYTVGGTTY  483
+
+Query  430  YTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDI  489
+            + I+    P  ++      EY+ VA V E+G V   +  Y + T +    V VSF Y+++
+Sbjct  484  HRIVGWSTPPSLSN---VSEYRFVAVVTEEGLVQDLSVRYVQSTPDGPRTVTVSFHYDEV  540
+
+Query  490  GS  491
+            G+
+Sbjct  541  GT  542
+
+
+
+
+>hypothetical protein [Salinirarus marinus]
+Sequence ID: WP_423751639.1 Length: 449
+Range 1: 336 to 431
+
+Score:58.9 bits(141), Expect:4e-05, 
+Method:Compositional matrix adjust., 
+Identities:31/97(32%), Positives:51/97(52%), Gaps:3/97(3%)
+
+Query  406  ESIIQRYIDTSESRVV--LSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVS  463
+            ++++  Y+ T E+ V   + +     + ++  GQP G +   R E Y  VA V+ +GFV 
+Sbjct  336  DTLVTDYLSTPETTVTEQVERRGHRVFRVVGRGQPTGFDV-YRVENYTVVAHVDSRGFVR  394
+
+Query  464  SFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWY  500
+            + TA Y R T++    V V   Y  +G+TT + P WY
+Sbjct  395  NLTARYLRRTDDGPIRVVVEVTYGRVGTTTVTSPPWY  431
+
+
+
+
+>DUF7537 family lipoprotein [Haloarcula sp. KBTZ06]
+Sequence ID: WP_420182492.1 Length: 264
+Range 1: 38 to 256
+
+Score:57.4 bits(137), Expect:5e-05, 
+Method:Compositional matrix adjust., 
+Identities:70/234(30%), Positives:95/234(40%), Gaps:18/234(7%)
+
+Query  269  PRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQ  328
+            P     DT T L  PPGVTT  + +   L+AAH   ++G +Y    R   ++     +  
+Sbjct  38   PTAAESDTATTLDSPPGVTTERLENVALLSAAHRQALNGTTYTLNERYTELTIGNDSSSV  97
+
+Query  329  ELSEEAVVANQIDYLYTATGILQSENET-EDVNLSVYADRSAAYIRVDRESEENVSFGRF  387
+              +E   V +   Y      +    N T      S YAD +  Y R  RE       G  
+Sbjct  98   RRTETVAVESPTRYRDEMVRVTTDSNGTVGRYEQSTYADGTNWYER--RED------GTV  149
+
+Query  388  SVSGGEFGSNNGRFANRAESIIQRY--IDTSESRVVLSKPNDGTYTIIASGQPFGINTDG  445
+                GE   +  ++A R    + RY  ++ S + VV S   DG+      G    I T  
+Sbjct  150  ERQRGEVRFSRDKYAYRTAFYLNRYAVVNQSSTTVVTS---DGSQAYRIRGSGGEIPTTE  206
+
+Query  446  RTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+            R EE +    V   G V  F+  YR  TE+    V  SF YEDIG TT  +P W
+Sbjct  207  RLEELRIELLVEPAGLVRRFSVWYR--TEDRI--VEYSFWYEDIGETTAERPAW  256
+
+
+
+
+>MULTISPECIES: DUF7537 family lipoprotein [unclassified Haloarcula]
+Sequence ID: WP_151100689.1 Length: 259
+Range 1: 38 to 258
+
+Score:57.4 bits(137), Expect:5e-05, 
+Method:Compositional matrix adjust., 
+Identities:71/236(30%), Positives:93/236(39%), Gaps:18/236(7%)
+
+Query  269  PRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQ  328
+            P     DT T L  PPGVT   + +   L+AAH   ++G +Y    R     A G  +  
+Sbjct  38   PTAAESDTATTLDPPPGVTMERLENVALLSAAHRQALNGTTYTLNERYSEF-AIGNDSSS  96
+
+Query  329  ELSEEAV-VANQIDYLYTATGILQSENET-EDVNLSVYADRSAAYIRVDRESEENVSFGR  386
+               EE V V +   Y      +    N T E    S YAD S  Y R D         G 
+Sbjct  97   VRREETVAVESPTRYRDEMVRVTTDSNGTVERYEQSTYADGSNWYERRD--------GGT  148
+
+Query  387  FSVSGGEFGSNNGRFANRAESIIQRYIDTSESR-VVLSKPNDGTYTIIASGQPFGINTDG  445
+                 GE   +  ++A R    + RY   ++S   V++  +   Y I  SG    I T  
+Sbjct  149  VERQRGEVRFSRDKYAYRTAFYLNRYAVVNQSATAVVTSDSSRAYRIRGSGGE--IPTTE  206
+
+Query  446  RTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYT  501
+            R   ++    V   G V  F+  YR     E   V  SF YEDIG TT  +P W T
+Sbjct  207  RLAAFRIELLVEPDGLVRRFSVWYR----TEARIVEYSFWYEDIGETTAERPAWLT  258
+
+
+
+
+>hypothetical protein [Haloarculaceae archaeon]
+Sequence ID: MEF8851784.1 Length: 302
+Range 1: 55 to 261
+
+Score:57.8 bits(138), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:58/228(25%), Positives:93/228(40%), Gaps:32/228(14%)
+
+Query  283  PPGVTTTGIVDPDRLAAAHADTISGQSYRY--IVRKQNVSAFGKQTWQELSEEAVVANQI  340
+            PPGV+  GIVD  RL  AH   +S +SYR+  +         G    +  +  AVV    
+Sbjct  55   PPGVSRGGIVDARRLRDAHESFVSDRSYRWRLVYALDGTEQAGTAFERGFTRRAVVE---  111
+
+Query  341  DYLYTATGILQSENETEDVNLSVYADRSAAYIR-VDRESEENVSFGRFS-----VSGGEF  394
+                    +++   +   +N S++ D +  Y+R V+  +  N +          V GG+ 
+Sbjct  112  ----PGRFLVRQVEDDRPLNQSLFVDDTGGYLRTVEGNATRNETLADPGQREDYVPGGQ-  166
+
+Query  395  GSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTII--ASGQPFGINTDGRT-EEYQ  451
+                         +I+R++   +  V   +    TY  +   +G P  I   G T   Y 
+Sbjct  167  -------------LIERFLAGLDPNVTRVERAGTTYYRLHARAGVPPTIRQTGATVSNYS  213
+
+Query  452  AVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+              A V  +GFV S T ++ R        VYV F Y+ +GS    +P+W
+Sbjct  214  VTAYVTPEGFVRSMTVTFERSWNAREERVYVRFYYDRVGSANVERPRW  261
+
+
+
+
+>MAG: hypothetical protein BRC94_03970 [Halobacteriales archaeon QS_5_70_17]
+Sequence ID: PSQ01398.1 Length: 225
+Range 1: 16 to 225
+
+Score:56.2 bits(134), Expect:7e-05, 
+Method:Compositional matrix adjust., 
+Identities:66/230(29%), Positives:94/230(40%), Gaps:27/230(11%)
+
+Query  285  GVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDYLY  344
+            G    G+ DP RLAAAHA T+S  +  Y + + +   +   T +   +  V      Y Y
+Sbjct  16   GCGGVGVTDPARLAAAHARTLSSAT--YTLERTDSRRYADGTLRARYDRTVRVGPEAYHY  73
+
+Query  345  TATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFG-RFSVSGGEFGSNNGRFAN  403
+                      E  D N +V A  +  +I  DR  E  V+ G R+        +   R A 
+Sbjct  74   VL--------ERRDGNGTV-ARATERWIGEDRGFERVVADGERYRRLNDTLDARARRTAG  124
+
+Query  404  RAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDG------RTEEYQAVAQVN  457
+              E  I+R     + RVV     DG            + +DG      R   + AV  V+
+Sbjct  125  --ERGIERLFTLLDVRVVDRFERDGR-----DHYRLALASDGENLRPLRNVSFSAV--VD  175
+
+Query  458  EQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNET  507
+            E+G V S+  SYR   +  T  V V+ E  D+G+TT S P+W   A   T
+Sbjct  176  ERGVVRSYDLSYRITRQGRTLEVTVAVEIADLGATTVSTPEWVERAAERT  225
+
+
+
+
+>hypothetical protein [Halolamina sp. CBA1230]
+Sequence ID: WP_079233011.1 Length: 465
+Range 1: 214 to 439
+
+Score:58.2 bits(139), Expect:7e-05, 
+Method:Compositional matrix adjust., 
+Identities:68/238(29%), Positives:97/238(40%), Gaps:22/238(9%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQS-YRYIV--RKQNVSAFGKQTWQELSEEAVVANQI  340
+            PGVT  G+VDP  L +AH   +  +S  R +V     N S       Q L+   V A+  
+Sbjct  214  PGVTRAGVVDPAALVSAHKAAVRNRSRVRSVVITGPPNASVTAGAVRQNLTTRIVNASH-  272
+
+Query  341  DYLYTATGILQSENETEDV-NLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNG  399
+             Y +     L  + E   +  L VYAD  A +    R       + RF  S        G
+Sbjct  273  -YRHRTVSQLSKDAENGSMARLGVYADGEAVF---QRTVFNETRYARFPPS-----QRPG  323
+
+Query  400  RFANRAESIIQRYIDTSESRVVLSKPNDG---TYTIIASGQPFGINTDGRTEEYQAVAQV  456
+               +   S + RY+ + +S V     N     TY I   G P  +   G   +Y+AVA V
+Sbjct  324  TLYDDLTSYLYRYVVSDDSTVHCVGENASGCRTYRIAVDGDPPTV-LQGDIADYEAVANV  382
+
+Query  457  NEQGFVSSFTASY---RRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETARST  511
+            +++G +    ASY    R  + E   V  + +Y    +   S P W   A+NETA  T
+Sbjct  383  SDRGVIRRIRASYTLPDRDDDGEREPVRFALDYR-FETVELSPPAWLPEARNETAPVT  439
+
+
+
+
+>hypothetical protein [Halomicrobium sp. IBSBa]
+Sequence ID: WP_208626337.1 Length: 265
+Range 1: 37 to 265
+
+Score:57.0 bits(136), Expect:8e-05, 
+Method:Compositional matrix adjust., 
+Identities:64/245(26%), Positives:99/245(40%), Gaps:23/245(9%)
+
+Query  268  EPRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTW  327
+            EP   T +T TL   PPGVT  G+VD D L AAH    + QSY     +        +T 
+Sbjct  37   EPADATTETGTL---PPGVTGNGVVDVDELTAAHQRATADQSYTLTTERSTSRETANET-  92
+
+Query  328  QELSEEAVVANQIDYLY-TATGILQSENETEDV-NLSVYADRSAAYIR---VDRESEENV  382
+             +  +   VAN+  Y Y T   ++  E+      N S + D    Y+R   +D E+ +  
+Sbjct  93   LDTRQVVRVANESTYAYWTNERVVWDESRARYFDNYSEFQDPDGRYVRYTELDGETRQR-  151
+
+Query  383  SFGRFSVSGGEFGSN--NGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFG  440
+                      + G+     R    A   I+R++ T ++  V  + +DG       G+   
+Sbjct  152  ----------KLGATAPRPRLDREATVAIERFL-TIDNATVSVRRDDGERHYELRGEQRT  200
+
+Query  441  INTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWY  500
+              T+         A +   G V S +  Y R   +    V  SF YE +G+TT  +P W 
+Sbjct  201  FVTERPIRNVSVSAVIRHDGLVRSLSVQYWRGNSDWGEFVRYSFAYERLGTTTVEKPAWV  260
+
+Query  501  TTAQN  505
+               ++
+Sbjct  261  RAGED  265
+
+
+
+
+>hypothetical protein [Salinigranum sp. GCM10025319]
+Sequence ID: WP_380675889.1 Length: 474
+Range 1: 13 to 121
+
+Score:57.8 bits(138), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:36/118(31%), Positives:59/118(50%), Gaps:9/118(7%)
+
+Query  13   LRELEQSRFTAFVAALWDARNDEDVTIEQQYIYIGGQNESQSQTVLAVVGHSWMPNRFRR  72
+            LR L + RF AFVAALW AR  E      +  Y+  ++  + + + AV G      R   
+Sbjct  13   LRGLSRERFVAFVAALWAARGAE---TRVRGGYVEARHGDRVERLRAVTGR-----RVPD  64
+
+Query  73   FTIPETVDILITTQQTKRYIETTGAVDARIVGPAELRSIALYAIPRPTAEKLFNQYFN  130
+             +     D+L+ ++     +E T   D R+V   +L ++ LYA+PR  A+ L  ++F+
+Sbjct  65   DSATAAADVLVLSRPAS-AVEGTSGFDGRVVDADDLHAMVLYAVPREAADDLCRRFFD  121
+
+
+
+
+>DUF7537 family lipoprotein [Halomicrobium salinisoli]
+Sequence ID: WP_226022532.1 Length: 261
+Range 1: 51 to 251
+
+Score:56.2 bits(134), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:56/223(25%), Positives:90/223(40%), Gaps:29/223(13%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAV------VA  337
+            PG+T   + D DRLA AH   ++ +SY +  R+          W E +   V      V 
+Sbjct  51   PGLTGRSVADADRLARAHLAAVANRSYAWTERRT-------VAWPEQNRSLVDRSRLLVE  103
+
+Query  338  NQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSN  397
+            ++  Y Y      ++ ++   V+ + YAD    Y R        V + R   +       
+Sbjct  104  SERRYRY------ETRSQWSRVDAAEYADGRYLYSRA--RGAGGVRYRRVPAT-----DA  150
+
+Query  398  NGRFANRAESIIQRYIDTSESRVVLSK-PNDGTYTIIASGQPFGINTDGRTEEYQAVAQV  456
+              RF   A + I+RY+    + V   +   +  Y ++  G+   I   G  E Y   A V
+Sbjct  151  TERFGGGAAASIRRYLAVENATVTAVRVGGERRYRVV--GRAESIPALGSVENYTVRATV  208
+
+Query  457  NEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+               GFV +  A+Y     +E   V   F Y ++G+T+ S P W
+Sbjct  209  APDGFVQTLHAAYTAADGDERRRVSYRFRYTNVGTTSVSPPAW  251
+
+
+
+
+>hypothetical protein [Haloarculaceae archaeon]
+Sequence ID: MEF8841699.1 Length: 290
+Range 1: 66 to 277
+
+Score:56.6 bits(135), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:57/230(25%), Positives:95/230(41%), Gaps:30/230(13%)
+
+Query  283  PPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVV-ANQID  341
+            PPGVT +GI +   LA AH+  + G+SYR +      +A G   W+   E   V  +++ 
+Sbjct  66   PPGVTASGIANASALADAHSAALEGRSYRAVTVVNRSTASG---WERTREVLRVDGDRVH  122
+
+Query  342  YLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGRF  401
+             ++      +  +   D +   Y D  A Y+R +R +      G  +   G   +     
+Sbjct  123  LVHR-----ERTSGGNDSSRVEYLDGRARYVRCERAN------GTAACPTGPPSA----I  167
+
+Query  402  ANRAESIIQRYIDTSESRVVLSKP---NDG-----TYTIIASGQPFGINTD-GRTE--EY  450
+            A  A   +   +  S+SR+V ++     +G      + ++ +G P G+ +  G  E   Y
+Sbjct  168  AGDAAGTVLVLLSGSDSRLVGTETRLVGNGRAATLRHRLLVTGNPLGLGSPYGVLEARNY  227
+
+Query  451  QAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWY  500
+               A V   G V+   ASY  V      +V     +  IGS   + P WY
+Sbjct  228  TVTALVTPSGLVTDLRASYDLVGGEARIDVTARLRFSSIGSVRVTPPPWY  277
+
+
+
+
+>hypothetical protein [Halosimplex litoreum]
+Sequence ID: WP_198062257.1 Length: 305
+Range 1: 55 to 264
+
+Score:56.6 bits(135), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:59/238(25%), Positives:102/238(42%), Gaps:37/238(15%)
+
+Query  283  PPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAVVANQIDY  342
+            PPGV+  G +D + L +AH   +  ++Y + +R+ +      +  +      VV  +   
+Sbjct  55   PPGVSANGTIDAEALTSAHTAYLENRTYTWSIRENS-----DEPGEGFLRRVVVGPET--  107
+
+Query  343  LYTATGILQSENETEDVNLSVYADRSAAYIRV---DRESEENVSFGRFSVSGGEFGSNNG  399
+                  I Q++ E    N+S+Y + +  +IRV   DR   + +                G
+Sbjct  108  ----FSISQAQGEPRR-NVSLYVNETGGFIRVAEADRTRYDLIKL-------------PG  149
+
+Query  400  RFANR--AESIIQRYIDTSESRVVLSKPNDGTYTII--ASGQPFGI--NTDGRTEEYQAV  453
+            R A+   A   I+++ D     V      D TY  +  A G   G     +    ++ A 
+Sbjct  150  RAADYVFATVSIRQFFDGRTVAVSTVDRRDRTYYRLYTAGGPSPGALGPAEATISDFSAT  209
+
+Query  454  AQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTAQNETARST  511
+            A V ++GFV S  A Y R+ + +++ V + ++Y  +G +T S P W     N T RST
+Sbjct  210  AYVTQEGFVRSLAAEYDRIVDGDSSRVSIRYDYSRLGESTVSPPDW---VGNVTRRST  264
+
+
+
+
+>hypothetical protein [Halorubrum sp. BOL3-1]
+Sequence ID: WP_128908981.1 Length: 486
+Range 1: 256 to 475
+
+Score:57.0 bits(136), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:60/228(26%), Positives:93/228(40%), Gaps:18/228(7%)
+
+Query  283  PPGVTTTGIVDPDRLAAAH---ADTISGQSYRYIV-------RKQNVSAFGKQTWQELSE  332
+            PPGV  TG+ DPD LA AH   A+++S  S   +        R    +        +   
+Sbjct  256  PPGVFLTGVYDPDALADAHVATAESLSSASVLLVASGPANATRPDGTTGGRIGVAGDGGV  315
+
+Query  333  EAVVANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGG  392
+            E  VA+   Y    +G     N T D  +  +AD  A Y R      + V   R S +  
+Sbjct  316  ELAVASATRYRLVRSGNASVANATGDGTVETFADGDAVYERT--VGPDGVETRRVSPAAA  373
+
+Query  393  EFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQA  452
+               +         E  ++R+++ S+S V  +      Y +   G    +  + R  + +A
+Sbjct  374  P--NATALVGEVTEEPVRRFLNGSDSTVRAAATAVPLYRVEVEGGSAALGDEVR--DVRA  429
+
+Query  453  VAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWY  500
+            VA V   G V   +A+Y  V   E   V V+F+Y+ +G T    P+WY
+Sbjct  430  VAFVTADGLVLELSATYVHVPTGE--RVRVAFQYDRLGDTDAIPPRWY  475
+
+
+
+
+>hypothetical protein [Halosimplex sp. J119]
+Sequence ID: WP_459192370.1 Length: 292
+Range 1: 49 to 259
+
+Score:56.2 bits(134), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:58/228(25%), Positives:94/228(41%), Gaps:21/228(9%)
+
+Query  276  TQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAV  335
+            T T    PPGV   G VD   LA AH ++++ +SY ++V      +  +      +   V
+Sbjct  49   TATSADLPPGVGADGSVDGIALARAHNESVNNRSYTWVVDYDTGES--EFLGGVFTRRVV  106
+
+Query  336  VANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFG  395
+            V N        +  ++  +     N S+Y + S  ++R+    E    +      GG   
+Sbjct  107  VGN-------GSFFVEQVSLGPGANTSLYVNESGGFLRMTNGDE--TRYDLLETPGGH--  155
+
+Query  396  SNNGRFANRAESIIQRYIDTSESRVVLSKPNDGTY-TIIASGQPFGINTDGRT---EEYQ  451
+                R    AE  I+R +  +   V   + N  TY  + A+  P        +     Y 
+Sbjct  156  ----REHVFAEEAIRRLLGGATFDVTTVERNGQTYYRLHAADGPIPQTLASSSVVIRNYT  211
+
+Query  452  AVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+            A A V  +GFV S TA Y RV +   ++V   ++Y D+G +T + P W
+Sbjct  212  ATAYVTSRGFVRSLTAEYDRVIDGSQSHVSFRYDYSDLGESTPTAPPW  259
+
+
+
+
+>DUF7537 family lipoprotein [Haloarcula sebkhae]
+Sequence ID: WP_188978186.1 Length: 264
+Range 1: 45 to 256
+
+Score:55.1 bits(131), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:65/229(28%), Positives:89/229(38%), Gaps:22/229(9%)
+
+Query  276  TQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSEEAV  335
+            T T L  PPGVTT  + +   L+AAH   ++G +Y    R    +     +    +E   
+Sbjct  45   TATTLTPPPGVTTERLENVALLSAAHRQALNGTTYTLHERYNEFTLRNDSSSVRRTETVA  104
+
+Query  336  VANQIDYLYTATGILQSENET-EDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEF  394
+            V +   Y      +    N T E    S +AD +  Y R D         G      GE 
+Sbjct  105  VESPTRYRDEMVRMRADANGTIERYEQSTFADGTNWYERRDN--------GTVERQRGEV  156
+
+Query  395  GSNNGRFANRAESIIQRYIDTSESR-VVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAV  453
+              +  ++A R    + RY   + S   V+++     Y I  SG    I T  R EE+   
+Sbjct  157  RFSRDKYAYRTAFYLNRYAVVNRSATAVVTRDGSRAYRIRGSGGE--IPTTERLEEFHIE  214
+
+Query  454  AQVNEQGFVSSFTASYR---RVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+              V   G VS F   YR   R+ E        SF YEDIG T   +P W
+Sbjct  215  LVVEPDGLVSRFDVRYRTADRLVE-------YSFWYEDIGETAVERPAW  256
+
+
+
+
+>hypothetical protein [Halorientalis sp.]
+Sequence ID: MFB6143097.1 Length: 407
+Range 1: 197 to 398
+
+Score:55.8 bits(133), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:60/224(27%), Positives:88/224(39%), Gaps:26/224(11%)
+
+Query  284  PGVTTTGIVDPDRLAAAHADTISGQSYRYIV---RKQNVSAFGKQTWQELSEEAVVANQI  340
+            PGV   G VD DRLA AHA  +   SY + V     +N +      W+       VA   
+Sbjct  197  PGVGRNGSVDADRLADAHARVLEDTSYTWAVTYREYRNGTLVAAVDWR-----VAVAAPG  251
+
+Query  341  DYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEFGSNNGR  400
+             Y    TG   + +    V  + YAD     +R +   +  V+  R         +    
+Sbjct  252  RYASAVTGGPANGSAASVVGETAYAD---GEVRYEPAPDGGVTRERVD-------ATTAP  301
+
+Query  401  FANRAESIIQRYIDTSESRVV-LSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQ  459
+                A  +I  Y+    + V  + + +DG + + A G P+       TE  + VA V + 
+Sbjct  302  GVEAATRLISWYLSVGSASVGQVGRADDGRHYVFAEGDPWP-----GTEAERTVAVVRDY  356
+
+Query  460  GFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYTTA  503
+            G V S   S+R    N  T   V FEY + G+T   +P W   A
+Sbjct  357  GLVDSLHRSHRIAGTN--TTAVVDFEYRETGATAVREPAWVRNA  398
+
+
+
+
+>hypothetical protein [Halosimplex aquaticum]
+Sequence ID: WP_274322703.1 Length: 275
+Range 1: 173 to 266
+
+Score:55.1 bits(131), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:35/95(37%), Positives:47/95(49%), Gaps:1/95(1%)
+
+Query  405  AESIIQRYIDTSESRVVLSKPNDGTYTIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSS  464
+            A S I+RY+D  ES  V +   DG       G+ +    D R  +Y  VA V+ +GFV S
+Sbjct  173  AASAIERYLDV-ESATVAAVSVDGRRHYEVVGRNWSRPDDDRVTDYTVVAVVSPEGFVRS  231
+
+Query  465  FTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+              ASY   +  E   V  +F YE +G TT   P+W
+Sbjct  232  LDASYTVRSVGEPRRVRYTFAYEKVGETTVDPPEW  266
+
+
+
+
+>hypothetical protein [Halorussus pelagicus]
+Sequence ID: WP_128477579.1 Length: 347
+Range 1: 70 to 318
+
+Score:55.5 bits(132), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:60/257(23%), Positives:103/257(40%), Gaps:30/257(11%)
+
+Query  273  TGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQELSE  332
+            T D+      PPGV  TG+ DP+ L AAH   ++G S+ +  R  NVS      W  L  
+Sbjct  70   TNDSSVNASLPPGVNATGVEDPEALVAAHRSALNGTSFAFRFRS-NVSVGPANQWT-LQR  127
+
+Query  333  EAVVANQIDYLYTATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGG  392
+              V A     +  +T + Q +  T      ++A+ +A  +R D +S   +   R++ SGG
+Sbjct  128  GRVAAGLSPLVVHSTSVRQFDGGTSSTATDLWANETAVVVRYDGDSRSELR--RYNRSGG  185
+
+Query  393  EFGSNNGRFANRAES--------IIQRYIDTSE-SRVVLSKPNDG-------------TY  430
+                       RA+         +++  +   E  RV   +  D              T 
+Sbjct  186  NVADETWAHLPRADLDSQVTQSWLLELALAAGEYERVRTERDGDDERNPTRSARNETRTM  245
+
+Query  431  TIIASGQPFGINTDGRTEEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIG  490
+            T++ +  P          + ++  +V+ +G V S + +     +NE T ++  FE  ++G
+Sbjct  246  TVLRATDPVAA---ANYTDLRSTIRVDSEGRVHSLSLTATYEGDNE-TRIHYEFELTEVG  301
+
+Query  491  STTTSQPQWYTTAQNET  507
+              T  +P W   A   T
+Sbjct  302  DATVQRPAWVGAATRPT  318
+
+
+
+
+>DUF7537 family lipoprotein [Haloarcula argentinensis]
+Sequence ID: WP_229727259.1 Length: 293
+Range 1: 38 to 256
+
+Score:55.1 bits(131), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:65/236(28%), Positives:89/236(37%), Gaps:22/236(9%)
+
+Query  269  PRKTTGDTQTLLGYPPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQ  328
+            P      T T L  PPGVTT  + +   L+AAH   ++G +Y    R    +     +  
+Sbjct  38   PTAAESGTATTLTPPPGVTTERLENVALLSAAHRQALNGTTYTLHERYSEFTIGNDSSSV  97
+
+Query  329  ELSEEAVVANQIDYLYTATGILQSEN-ETEDVNLSVYADRSAAYIRVDRESEENVSFGRF  387
+               E   V +   Y      +    N   E    S YAD +  Y R D         G  
+Sbjct  98   RREETVAVESPTRYHDEMVRMTTDSNGAVERYEQSTYADGTNWYERRDN--------GTV  149
+
+Query  388  SVSGGEFGSNNGRFANRAESIIQRYIDTSESR-VVLSKPNDGTYTIIASGQPFGINTDGR  446
+                GE   +  ++A R    + RY   + S   V+++     Y I  SG    I T  R
+Sbjct  150  ERQRGEVRFSRDKYAYRTAFYLNRYAVVNRSATAVVTRDGSRAYRIRGSGGE--IPTTER  207
+
+Query  447  TEEYQAVAQVNEQGFVSSFTASYR---RVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+             EE+     V   G VS F   YR   R+ E        +F YED+G TT  +P W
+Sbjct  208  LEEFHIELVVEPDGLVSRFDVRYRTADRLVE-------YTFWYEDVGETTVKRPAW  256
+
+
+
+
+>hypothetical protein [Haloarcula sp. 1CSR25-25]
+Sequence ID: WP_312619007.1 Length: 471
+Range 1: 269 to 468
+
+Score:55.8 bits(133), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:66/232(28%), Positives:97/232(41%), Gaps:46/232(19%)
+
+Query  282  YPPGVTTTGIVDPDRLAAAHADTISGQSYRYI-----VRKQNVSAFGKQTWQELSEEAVV  336
+            +PPGV  TGI D  +L AAH   + G+SYR       VR   V+    QT +       V
+Sbjct  269  FPPGVDRTGITDYQQLIAAHESQLQGRSYRITLSYREVRDDTVTGARTQTVR-------V  321
+
+Query  337  ANQIDYLYTAT--GILQSENET---EDV--NLSVYADRSAAYIRVDRESEENVSFGRFSV  389
+             N+  Y  T+T  G L S   +   EDV  N SV  +R+A  +             R   
+Sbjct  322  ENETTYHATSTEFGRLVSPTPSLGDEDVYANGSVEFERTATGV-----------TSRPLR  370
+
+Query  390  SGGEFGSNNGRFANRAESIIQRYIDTSESRVVLSKPNDGTYTI--IASGQPFGINTDGRT  447
+              G + ++  R+       +  Y+  +ESR V +     T T+     G P+   TD   
+Sbjct  371  GPGSYRTSLSRY-------LGWYLSVNESRAVAASAEGPTPTVRLATDGDPYPGVTDA--  421
+
+Query  448  EEYQAVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQW  499
+                  A V E G V+    ++RR   N    + ++    D+G+TT S P+W
+Sbjct  422  ---TGTAIVTESGLVTHLYRTHRR--PNSQVRIVITLRVSDVGTTTVSAPEW  468
+
+
+
+
+>MAG: hypothetical protein BRC91_10250 [Halobacteriales archaeon QS_4_62_28]
+Sequence ID: PSP93320.1 Length: 284
+Range 1: 50 to 262
+
+Score:54.7 bits(130), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:67/230(29%), Positives:90/230(39%), Gaps:28/230(12%)
+
+Query  283  PPGVTTTGIVDPDRLAAAHADTISGQSYRYIVRKQNVSAFGKQTWQE-LSEEAVVANQID  341
+            PPGVT  G +D +RLA AH D   G +YR+             T Q  +   A V N+  
+Sbjct  50   PPGVTADGDLDRERLARAHVDASEGSTYRWFDHHDGRRHTDNATRQTVIDHRATVKNETR  109
+
+Query  342  YLY-------TATGILQSENETEDVNLSVYADRSAAYIRVDRESEENVSFGRFSVSGGEF  394
+            Y Y       T  G L   NET   N+S + +   A  R +R + E+  F        E 
+Sbjct  110  YAYWISRQRATNGGSL---NET--TNVSEFGN---AVARYERYAFEDPVF-------LEH  154
+
+Query  395  GSNNG--RFANRAESIIQRYIDTSESRVVLSKPNDG-TYTIIASGQPFGINTDGRTEEYQ  451
+               N   R   +  + I  Y+    + V     N    Y I AS   + + T    EEY 
+Sbjct  155  RQRNASQRVGRKMATQIAEYLAVENATVTPVLLNGKRLYRITAS--EYALETAWSVEEYS  212
+
+Query  452  AVAQVNEQGFVSSFTASYRRVTENETTNVYVSFEYEDIGSTTTSQPQWYT  501
+              A V  +G V    ASY    ++    V   FEY  + S T  +P W T
+Sbjct  213  VTAIVTTEGLVRRIDASYTISRDDTRVVVDYRFEYTPVESMTVERPDWVT  262
+
+
+
+
+
+
+
+		
+
+
