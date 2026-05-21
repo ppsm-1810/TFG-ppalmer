@@ -1,0 +1,91 @@
+<ul id="msgFrm" class=" msg">
+<li class="warning">
+    
+    <p class="warning">Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users.</p><p class="warning">Please consider running your BLAST searches with <a href="https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/">ElasticBLAST</a> or <a href="https://www.ncbi.nlm.nih.gov/books/NBK279690/">BLAST+</a>.</p>
+</li>
+</ul>
+RID: XWF4MVR1014	
+Job Title:emb|AM180088.1|  				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: Haloquadratum walsbyi DSM 16790 complete genome Query ID: emb|AM180088.1 Length: 1796
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Haloplanus ruber strain MBLA0145 chromosome                       Haloplanus r... NA              869892     66.2   128   15%   8e-05 80.28  2794134    CP187151.1       
+Haloplanus litoreus strain GX21 chromosome, complete genome       Haloplanus l... NA              767515     60.8   60.8  8%    0.003 69.23  3128784    CP147874.1       
+
+
+Alignments:
+
+>Haloplanus ruber strain MBLA0145 chromosome
+Sequence ID: CP187151.1 Length: 2794134
+Range 1: 2528259 to 2528329
+
+Score:66.2 bits(72), Expect:8e-05, 
+Identities:57/71(80%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  926539   TCACGACCGGCGAGATAAAATATCGCTCGCTTCCAAAAGACTGGATATTGGTAATTGAAT  926598
+                || || |||||||| |  ||  ||||||||||||| ||||| ||||| ||||| ||||| 
+Sbjct  2528259  TCCCGGCCGGCGAGGTGGAAGGTCGCTCGCTTCCAGAAGACGGGATACTGGTAGTTGAAC  2528318
+
+Query  926599   CGGAATGGATC  926609
+                ||||| || ||
+Sbjct  2528319  CGGAACGGGTC  2528329
+
+
+
+
+Range 2: 2528578 to 2528767
+
+Score:62.6 bits(68), Expect:0.001, 
+Identities:130/192(68%),  Gaps:4/192(2%), Strand: Plus/Plus
+
+Query  926861   GTTGTGCGATGACGCCAACACCACCACCATTGGCGAGGACATCACGCCCTGCTTCAACAT  926920
+                |||| |||| || ||| || || |||||     |||  || |  || || || || || |
+Sbjct  2528578  GTTGGGCGAGGATGCCCACGCCGCCACCGGCTTCGATCACGTTCCGTCCCGCCTCGACGT  2528637
+
+Query  926921   TTCCGTCGAGAAGACGCTCTGATTCAAGATCACTATAGAGAATCACATCATAGTTATTTT  926980
+                | ||   ||| || | ||| |  || |||||||| ||||||||||| || || |  |  |
+Sbjct  2528638  TGCCACGGAGGAGGCTCTCAGGCTCCAGATCACTGTAGAGAATCACGTCGTACTCGTCCT  2528697
+
+Query  926981   GAACCGCTGTCGGTGGCTGTGCAACCGTCAATGAT--ACCTCTTCAATTACAGACAGCGC  927038
+                  || |  ||||||||||   | |||||||  |||  ||||| || || || || || ||
+Sbjct  2528698  CGACGGTGGTCGGTGGCTCGTCGACCGTCA--GATCGACCTCCTCGATCACCGAGAGGGC  2528755
+
+Query  927039   TGTCGTAAAATA  927050
+                 ||||| | |||
+Sbjct  2528756  GGTCGTCAGATA  2528767
+
+
+
+
+>Haloplanus litoreus strain GX21 chromosome, complete genome
+Sequence ID: CP147874.1 Length: 3128784
+Range 1: 1724931 to 1725073
+
+Score:60.8 bits(66), Expect:0.003, 
+Identities:99/143(69%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  926467   GGCGTCTCAACTGCTGTCACGTTCTCAAACTGTAATTGTGCCCCCGTTTGTTGATTAAGT  926526
+                |||||||| |||   ||| ||||  | ||||| |   || | || |  |   | || |||
+Sbjct  1724931  GGCGTCTCGACTCGCGTCTCGTTGGCGAACTGGAGGCGTCCGCCGGCCTCGCGGTTGAGT  1724990
+
+Query  926527   GTCGATAATGGTTCACGACCGGCGAGATAAAATATCGCTCGCTTCCAAAAGACTGGATAT  926586
+                | ||| |  |  || || |||||||| || || |  || || ||||| ||||| || || 
+Sbjct  1724991  GCCGAGAGCGACTCCCGGCCGGCGAGGTAGAAGACGGCCCGTTTCCAGAAGACGGGGTAC  1725050
+
+Query  926587   TGGTAATTGAATCGGAATGGATC  926609
+                || || ||||||||||| |||||
+Sbjct  1725051  TGATAGTTGAATCGGAACGGATC  1725073
+
+
+
+
+
+
+
+		
+
+
