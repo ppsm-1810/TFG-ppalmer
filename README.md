@@ -2,14 +2,14 @@
 Repository for Pere Palmer Sánchez-Monge's B. Sc. Final Project: **GCN-based Functional Prediction of Uncharacterized Proteins**
 
 
-The repository is divided into two branches: "main" and "proteins"
+The repository is divided into two branches: "**main**" and "**proteins**"
 
 
-The "main" branch contains the simplified information:
+The "**main**" branch contains the simplified information:
   The 4 Supplementary Tables and the python script used for the COG annotation
 
   
-The "proteins" branch contains the raw results from the tests carried out, as well as Haloquadratum walsbyi DSM16970 whole genome and the protein sequences
+The "**proteins**" branch contains the raw results from the tests carried out, as well as Haloquadratum walsbyi DSM16970 whole genome and the protein sequences
 
   The "Genome" folder contains the full _Haloquadratum walsbyi_ DSM16970 genome
   
@@ -19,5 +19,5 @@ The "proteins" branch contains the raw results from the tests carried out, as we
  
   The "KO annotation" folder contins the results for the annotation of proteins using BlastKOALA, GhostKOALA, KofamKOALA and DeepKOALA
 
-  The "Distributions" folder contains the analysis of the length of the amino acid chains in 1) All H. walsbyi proteins 2) All _H. walsbyi_ uncharacterized proteins and 3) The selected proteins
+  The "Distributions" folder contains the analysis of the length of the amino acid chains in 1) All _H. walsbyi_ proteins 2) All _H. walsbyi_ uncharacterized proteins and 3) The selected proteins
   
