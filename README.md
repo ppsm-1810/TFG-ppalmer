@@ -9,7 +9,7 @@ The "**main**" branch contains the simplified information:
   The 4 Supplementary Tables and the python script used for the COG annotation
 
   
-The "**proteins**" branch contains the raw results from the tests carried out, as well as Haloquadratum walsbyi DSM16970 whole genome and the protein sequences
+The "**proteins**" branch contains the raw results from the tests carried out, as well as _Haloquadratum walsbyi_ DSM16970 whole genome and the protein sequences
 
   The "Genome" folder contains the full _Haloquadratum walsbyi_ DSM16970 genome
   
